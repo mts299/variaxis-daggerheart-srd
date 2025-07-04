@@ -70,11 +70,12 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+
     },
     {
-      "name": "classes",
-      "label": "classes",
-      "path": "packs/classes",
+      "name": "srd-classes",
+      "label": "srd-classes",
+      "path": "packs/srd-classes",
       "type": "Item",
       "system": "daggerheart",
       "ownership": {
@@ -83,9 +84,9 @@
       }
     },
     {
-      "name": "Domains",
-      "label": "domains",
-      "path": "packs/domains",
+      "name": "srd-domains",
+      "label": "srd-domains",
+      "path": "packs/srd-domains",
       "type": "Item",
       "system": "daggerheart",
       "ownership": {
