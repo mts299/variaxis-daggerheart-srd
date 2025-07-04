@@ -53,7 +53,7 @@ async function setVersion() {
   await fs.copy(`./module.json`, path);
 
   const version = process.env.RELEASE_VER || tag?.replace('v', '');
-
+  console.log(`Set Version: ${version}`);
   const moduleData = JSON.parse(fs.readFileSync(path, 'utf8'));
   moduleData.version = version;
 
@@ -72,17 +72,12 @@ async function buildRelease() {
     fs.mkdirSync(distPath, { recursive: true });
   }
 
-  // Copy the module file
-  await fs.copy(`./module.json`,
-    `${distPath}/module.json`
-  );
-
   // Create a file to stream archive data to
   const output = fs.createWriteStream(
     `${distPath}/module.zip`
   );
   output.on('close', function () {
-    console.log(`Module data: ${archive.pointer()} bytes)`);
+    console.log(`Module data: ${archive.pointer()} bytes`);
   });
 
   // Create the output archive
@@ -93,7 +88,7 @@ async function buildRelease() {
   archive.pipe(output);
 
   // Add files and packs
-  archive.file(`./module.json`, {
+  archive.file(`${distPath}/module.json`, {
     name: 'module.json'
   });
   archive.directory('./assets', 'assets');
