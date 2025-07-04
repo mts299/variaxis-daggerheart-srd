@@ -5,10 +5,9 @@ const shell = require('gulp-shell');
 const merge = require('merge-stream');
 const archiver = require('archiver');
 
+const distPath = "./dist";
 const packSource = `./data`;
 const packTarget = `./packs`;
-
-const distPath = "./dist";
 
 /* ----------------------------------------- */
 /*  Compile and Extract packs to yaml
@@ -42,6 +41,24 @@ async function unpackData() {
 
   // Call the streams and execute them.
   return merge.call(null, packs);
+}
+
+
+/* ----------------------------------------- */
+/*  Create versioned module file
+/* ----------------------------------------- */
+
+async function setVersion() {
+  const path = `${distPath}/module.json`
+  await fs.copy(`./module.json`, path);
+
+  const version = process.env.RELEASE_VER || tag?.replace('v', '');
+
+  const moduleData = JSON.parse(fs.readFileSync(path, 'utf8'));
+  moduleData.version = version;
+
+  // Write back to file
+  fs.writeFileSync(path, JSON.stringify(moduleData, null, 2));
 }
 
 
@@ -95,5 +112,6 @@ async function buildRelease() {
 module.exports = {
   pack: packData,
   unpack: unpackData,
+  version: setVersion,
   release: buildRelease,
 }

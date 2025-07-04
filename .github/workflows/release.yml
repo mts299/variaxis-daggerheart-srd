@@ -25,9 +25,19 @@ jobs:
     - name: Install Gulp globally
       run: npm install -g gulp-cli
 
+    - name: Get tag name and version information
+      id: tag
+      run: |
+        echo "tag=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+        echo "version=${GITHUB_REF#refs/tags/v}" >> $GITHUB_OUTPUT
+
     - name: Build the compendium packages
       run: npm run pack
 
+    - name: Set the version the module file
+      run: npm run version
+      env:
+        RELEASE_VER: ${{ steps.tag.outputs.version }}
     - name: Build the release files
       run: npm run release
 
