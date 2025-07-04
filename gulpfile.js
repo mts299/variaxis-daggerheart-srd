@@ -3,27 +3,29 @@ const path = require('path');
 const gulp = require('gulp');
 const shell = require('gulp-shell');
 const merge = require('merge-stream');
+const archiver = require('archiver');
 
-const PACK_SRC = `./data`;
-const PACK_DEST = `./packs`;
+const packSource = `./data`;
+const packTarget = `./packs`;
 
+const distPath = "./dist";
 
 /* ----------------------------------------- */
 /*  Compile and Extract packs to yaml
 /* ----------------------------------------- */
 
-function compilePacks() {
+async function packData() {
   // Add every folder in the src folder so they become a compendium.
-  const folders = fs.readdirSync(PACK_SRC).filter((file) => {
-    return fs.statSync(path.join(PACK_SRC, file)).isDirectory();
+  const folders = fs.readdirSync(packSource).filter((file) => {
+    return fs.statSync(path.join(packSource, file)).isDirectory();
   });
 
   // Create a stream for all files in the source folders.
   const packs = folders.map((folder) => {
-    console.log(`Compendium Source: ${folder}`);
-    return gulp.src(path.join(PACK_SRC, folder))
+    console.log(`Mapped Compendium: ${folder}`);
+    return gulp.src(path.join(packSource, folder))
       .pipe(shell([
-        `fvtt package --id daggerheart --type System pack <%= file.stem %> -c --yaml --in "<%= file.path %>" --out ${PACK_DEST}`
+        `fvtt package --id daggerheart --type System pack <%= file.stem %> -c --yaml --in "<%= file.path %>" --out ${packTarget}`
       ]))
   })
 
@@ -31,15 +33,59 @@ function compilePacks() {
   return merge.call(null, packs);
 }
 
-function extractPacks() {
+async function unpackData() {
   // Start a stream for all db files in the packs dir.
-  const packs = gulp.src(`${PACK_DEST}/*`)
+  const packs = gulp.src(`${packTarget}/*`)
     .pipe(shell([
-      `fvtt package --id daggerheart --type System unpack <%= file.stem %> -c --yaml --in ${PACK_DEST} --out ${PACK_SRC}/<%= file.stem %>`
+      `fvtt package --id daggerheart --type System unpack <%= file.stem %> -c --yaml --in ${packTarget} --out ${packSource}/<%= file.stem %>`
     ]));
 
   // Call the streams and execute them.
   return merge.call(null, packs);
+}
+
+
+/* ----------------------------------------- */
+/*  Build release files and archives
+/* ----------------------------------------- */
+
+async function buildRelease() {
+  // Create dist directory if it doesn't exist
+  if (!fs.existsSync(distPath)) {
+    fs.mkdirSync(distPath, { recursive: true });
+  }
+
+  // Copy the module file
+  await fs.copy(`./module.json`,
+    `${distPath}/module.json`
+  );
+
+  // Create a file to stream archive data to
+  const output = fs.createWriteStream(
+    `${distPath}/module.zip`
+  );
+  output.on('close', function () {
+    console.log(`Module data: ${archive.pointer()} bytes)`);
+  });
+
+  // Create the output archive
+  const archive = archiver('zip', { zlib: { level: 9 } });
+  archive.on('error', function (err) {
+    throw err;
+  });
+  archive.pipe(output);
+
+  // Add files and packs
+  archive.file(`./module.json`, {
+    name: 'module.json'
+  });
+  archive.directory('./assets', 'assets');
+  archive.directory('./packs', 'packs');
+
+  // Finalize the archive
+  await archive.finalize().then((resolve) => {
+    output.close();
+  });
 }
 
 /* ----------------------------------------- */
@@ -47,6 +93,7 @@ function extractPacks() {
 /* ----------------------------------------- */
 
 module.exports = {
-  pack: compilePacks,
-  unpack: extractPacks,
+  pack: packData,
+  unpack: unpackData,
+  release: buildRelease,
 }
