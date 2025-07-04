@@ -1,0 +1,28 @@
+# Logs
+lerna-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+npm-debug.log*
+
+*.log
+logs
+
+
+# Editors
+.DS_Store
+.vscode/*
+.idea
+
+*.njsproj
+*.suo
+*.ntvs*
+*.sln
+*.sw?
+
+
+# Project
+node_modules
+*.local
+packs
+dist

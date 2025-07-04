@@ -1,0 +1,75 @@
+{
+  "id": "daggerheart-srd",
+  "title": "Daggerheart SRD",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "daggerheart",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "srd-adversaries",
+      "label": "srd-adversaries",
+      "path": "packs/srd-adversaries",
+      "type": "Actor",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "srd-frames",
+      "label": "srd-frames",
+      "path": "packs/srd-frames",
+      "type": "JournalEntry",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "srd-items",
+      "label": "srd-items",
+      "path": "packs/srd-items",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "srd-materials",
+      "label": "srd-materials",
+      "path": "packs/srd-materials",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "srd-rules",
+      "label": "srd-rules",
+      "path": "packs/srd-rules",
+      "type": "JournalEntry",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
