@@ -3,7 +3,25 @@ type: class
 folder: WpN6W0wyYE3XeeYu
 img: icons/svg/book.svg
 system:
-  description: ''
+  description: >-
+    <p><em><strong>Combat Training:</strong></em> You ignore burden when
+    equipping weapons. When you deal physical damage, you gain a bonus to your
+    damage roll equal to your level.</p><p><span
+    class="og-omit"><strong>Starting</strong></span><strong> Evasion:</strong>
+    11</p><p><span class="og-omit"><strong>Starting</strong></span><strong> Hit
+    Points:</strong> 5</p><p><strong>Class Items:</strong> A book you're trying
+    to translate, or a tiny, harmless elemental</p><h4 class="h6">Wizard's Hope
+    Feature</h4><p><em><strong>Not This Time:</strong></em> Spend 3 Hope to
+    force an adversary within Far range to reroll an attack or damage
+    roll.</p><h4 class="h6">Class
+    Feature</h4><p><em><strong>Prestidigitation:</strong></em> You can perform
+    harmless, subtle magical effects at will. For example, you can change an
+    object's color, create a smell, light a candle, cause a tiny object to
+    float, illuminate a room, or repair a small
+    object.</p><p><em><strong>Strange Patterns:</strong></em> Choose a number
+    between 1 and 12. When you roll that number on a Duality Die, gain a Hope or
+    clear a Stress.</p><p>You can change this number when you take a long
+    rest.</p>
   category: ''
   rarity: ''
   location: class
@@ -18,16 +36,15 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.345'
+  coreVersion: '13.344'
   systemId: daggerheart
-  systemVersion: 2.9.3
-  createdTime: 1751662967616
-  modifiedTime: 1751662967616
-  lastModifiedBy: GHK9xQYeYjLhONPd
+  systemVersion: 2.9.7
+  createdTime: 1751668271927
+  modifiedTime: 1751668271927
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+_id: pOxeDyxIdsTqXLgk
+sort: 0
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
-  GHK9xQYeYjLhONPd: 3
-_id: pOxeDyxIdsTqXLgk
-sort: 0
 _key: '!items!pOxeDyxIdsTqXLgk'

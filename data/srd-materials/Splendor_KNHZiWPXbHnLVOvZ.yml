@@ -98,14 +98,13 @@ _stats:
   exportSource: null
   coreVersion: '13.345'
   systemId: daggerheart
-  systemVersion: 2.9.3
-  createdTime: 1751662890029
-  modifiedTime: 1751662910144
-  lastModifiedBy: GHK9xQYeYjLhONPd
+  systemVersion: 2.9.7
+  createdTime: 1751668271927
+  modifiedTime: 1751668271927
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+_id: KNHZiWPXbHnLVOvZ
+sort: 0
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
-  GHK9xQYeYjLhONPd: 3
-_id: KNHZiWPXbHnLVOvZ
-sort: 900000
 _key: '!items!KNHZiWPXbHnLVOvZ'
