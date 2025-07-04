@@ -99,16 +99,15 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.345'
+  coreVersion: '13.344'
   systemId: daggerheart
-  systemVersion: 2.9.3
-  createdTime: 1751662886709
-  modifiedTime: 1751662910144
-  lastModifiedBy: GHK9xQYeYjLhONPd
+  systemVersion: 2.9.7
+  createdTime: 1751668271927
+  modifiedTime: 1751668271927
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+_id: kRq1nQxq63vBQYSd
+sort: 0
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
-  GHK9xQYeYjLhONPd: 3
-_id: kRq1nQxq63vBQYSd
-sort: 700000
 _key: '!items!kRq1nQxq63vBQYSd'

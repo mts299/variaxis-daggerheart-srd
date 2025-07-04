@@ -3,7 +3,32 @@ type: class
 folder: WpN6W0wyYE3XeeYu
 img: icons/svg/sword.svg
 system:
-  description: ''
+  description: >-
+    <p>Becoming a warrior requires years, often a lifetime, of training and
+    dedication to the mastery of weapons and violence. <span
+    class="og-omit">While many who seek to fight hone only their strength,
+    warriors understand the importance of an agile body and mind, making them
+    some of the most sought-after fighters across the realms. Frequently,
+    warriors find employment within an army, a band of mercenaries, or even a
+    royal guard, but their potential is wasted in any position where they cannot
+    continue to improve and expand their skills. Warriors are known to have a
+    favored weapon; to come between them and their blade would be a grievous
+    mistake.</span></p><p><span
+    class="og-omit"><strong>Starting</strong></span><strong> Evasion:</strong>
+    11</p><p><span class="og-omit"><strong>Starting</strong></span><strong> Hit
+    Points:</strong> 6</p><p><strong>Class Items:</strong> The drawing of a
+    lover, or a sharpening stone</p><h4 class="h6">Warrior's Hope
+    Feature</h4><p><em><strong>No Mercy:</strong></em> Spend 3 Hope to gain a +1
+    bonus to your attack rolls until your next rest.</p><h4 class="h6">Class
+    Features</h4><p><em><strong>Attack of Opportunity:</strong></em> If an
+    adversary within Melee range attempts to leave that range, make a reaction
+    roll using a trait of your choice against their Difficulty. Choose one
+    effect on a success, or two if you critically succeed:</p><ul
+    class="og-list-disc"><li>They can't move from where they are.</li><li>You
+    deal damage to them equal to your primary weapon's damage.</li><li>You move
+    with them.</li></ul><p><em><strong>Combat Training:</strong></em> You ignore
+    burden when equipping weapons. When you deal physical damage, you gain a
+    bonus to your damage roll equal to your level.</p>
   category: ''
   rarity: ''
   location: class
@@ -18,16 +43,15 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.345'
+  coreVersion: '13.344'
   systemId: daggerheart
-  systemVersion: 2.9.3
-  createdTime: 1751662964267
-  modifiedTime: 1751662964267
-  lastModifiedBy: GHK9xQYeYjLhONPd
+  systemVersion: 2.9.7
+  createdTime: 1751668271927
+  modifiedTime: 1751668271927
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+_id: CkAjanKeKIQcSfky
+sort: 0
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
-  GHK9xQYeYjLhONPd: 3
-_id: CkAjanKeKIQcSfky
-sort: 0
 _key: '!items!CkAjanKeKIQcSfky'
