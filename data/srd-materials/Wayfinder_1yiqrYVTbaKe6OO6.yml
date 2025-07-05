@@ -1,0 +1,46 @@
+name: Wayfinder
+type: subclass
+folder: OibQ9wUw5Bqg2thu
+_id: 1yiqrYVTbaKe6OO6
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Wayfinder if you want to hunt your prey and strike with deadly
+    force.</p><h6>Spellcast Trait</h6><p>Agility</p><h6>Foundation
+    Features</h6><p><em><strong>Ruthless Predator:</strong></em> When you make a
+    damage roll, you can mark a Stress to gain a +1 bonus to your Proficiency.
+    Additionally, when you deal Severe damage to an adversary, they must mark a
+    Stress.</p><p><em><strong>Path Forward:</strong></em> When you're traveling
+    to a place you've previously visited or you carry an object that has been at
+    the location before, you can identify the shortest, most direct path to your
+    destination.</p><h6>Specialization Feature</h6><p><em><strong>Elusive
+    Predator:</strong></em> When your <em>Focus</em> makes an attack against
+    you, you gain a +2 bonus to your Evasion against the attack.</p><h6>Mastery
+    Feature</h6><p><em><strong>Apex Predator:</strong></em> Before you make an
+    attack roll against your <em>Focus</em>, you can spend a Hope. On a
+    successful attack, you remove a Fear from the GM's Fear pool.</p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!1yiqrYVTbaKe6OO6'

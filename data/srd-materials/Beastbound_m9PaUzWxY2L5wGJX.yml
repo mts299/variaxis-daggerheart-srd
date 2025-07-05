@@ -1,0 +1,49 @@
+name: Beastbound
+type: subclass
+folder: OibQ9wUw5Bqg2thu
+_id: m9PaUzWxY2L5wGJX
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Beastbound if you want to form a deep bond with an animal
+    ally.</p><h6>Spellcast Trait</h6><p>Agility</p><h6>Foundation
+    Feature</h6><p><em><strong>Companion:</strong></em> You have an animal
+    companion of your choice (at the GM's discretion). They stay by your side
+    unless you tell them otherwise.</p><p>Take the Ranger Companion sheet. When
+    you level up your character, choose a level up option for your companion as
+    well.</p><h6>Specialization Features</h6><p><em><strong>Expert
+    Training:</strong></em> Choose an additional level-up option for your
+    companion.</p><p><em><strong>Battle-Bonded:</strong></em> When an adversary
+    attacks you while they're within your companion's Melee range, you gain a +2
+    bonus to your Evasion against the attack.</p><h6>Mastery
+    Features</h6><p><em><strong>Advanced Training:</strong></em> Choose two
+    additional level-up options for your companion.</p><p><em><strong>Loyal
+    Friend:</strong></em> Once per long rest, when the damage from an attack
+    would mark your companion's last Stress or your last Hit Point and you're
+    within Close range of each other, you or your companion can rush to the
+    other's side and take that damage instead.</p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!m9PaUzWxY2L5wGJX'

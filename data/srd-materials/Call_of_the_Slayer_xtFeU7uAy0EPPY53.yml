@@ -1,0 +1,57 @@
+name: Call of the Slayer
+type: subclass
+folder: G6QREH7srMdFHgxy
+_id: xtFeU7uAy0EPPY53
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Call of the Slayer if you want to strike down adversaries with
+    immense force</p><h6>Foundation
+    Feature</h6><p><em><strong>Slayer:</strong></em> You gain a pool of dice
+    called Slayer Dice. On a roll with <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title>Hope</a>, you can place a <strong>d6</strong> on this
+    card instead of gaining a <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title>Hope</a>, adding the die to the pool. You can store a
+    number of Slayer Dice equal to your Proficiency. When you make an attack
+    roll or damage roll, you can spend any number of these Slayer Dice, rolling
+    them and adding their result to the roll. At the end of each session, clear
+    any unspent Slayer Dice on this card and gain a Hope per die
+    cleared.</p><h6>Specialization Feature</h6><p><em><strong>Weapon
+    Specialist:</strong></em> You can wield multiple weapons with dangerous
+    ease. When you succeed on an attack, you can spend a Hope to add one of the
+    damage dice from your secondary weapon to the damage roll. Additionally,
+    once per long rest when you roll your Slayer Dice, reroll any
+    1s.</p><h6>Mastery Feature</h6><p><em><strong>Martial
+    Preparation:</strong></em> You're an inspirational warrior to all who travel
+    with you. Your party gains access to the Martial Preparation downtime move.
+    To use this move during a rest, describe how you instruct and train with
+    your party. You and each ally who chooses this downtime move gain a
+    <strong>d6</strong> Slayer Die. A PC with a Slayer Die can spend it to roll
+    the die and add the result to an attack or damage roll of their choice.</p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!xtFeU7uAy0EPPY53'

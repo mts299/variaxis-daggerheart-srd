@@ -1,0 +1,48 @@
+name: School of Knowledge
+type: subclass
+folder: 73qFzl3t1WQi3Obg
+_id: mRSYWryGWIGJV878
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the School of Knowledge if you want a keen understanding of the
+    world around you.</p><h6>Spellcast Trait</h6><p>Knowledge</p><h6>Foundation
+    Features</h6><p><em><strong>Prepared:</strong></em> Take an additional
+    domain card of your level or lower from a domain you have access
+    to.</p><p><em><strong>Adept:</strong></em> When you Utilize an Experience,
+    you can mark a Stress instead of spending a Hope. If you do, double your
+    Experience modifier for that roll.</p><h6>Specialization
+    Features</h6><p><em><strong>Accomplished:</strong></em> Take an additional
+    domain card of your level or lower from a domain you have access
+    to.</p><p><em><strong>Perfect Recall:</strong></em> Once per rest, when you
+    recall a domain card in your vault, you can reduce its Recall Cost by
+    1.</p><h6>Mastery Features</h6><p><em><strong>Brilliant:</strong></em> Take
+    an additional domain card of your level or lower from a domain you have
+    access to.</p><p><em><strong>Honed Expertise:</strong></em> When you use an
+    Experience, roll a <strong>d6</strong>. On a result of 5 or higher, you can
+    use it without spending Hope.</p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!mRSYWryGWIGJV878'

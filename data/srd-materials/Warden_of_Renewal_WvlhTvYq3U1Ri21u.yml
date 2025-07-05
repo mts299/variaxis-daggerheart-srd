@@ -1,0 +1,67 @@
+name: Warden of Renewal
+type: subclass
+folder: oOPjrB7U160kSlB9
+_id: WvlhTvYq3U1Ri21u
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Warden of the Elements if you want to embody the natural
+    elements of the wild.</p><h6>Spellcast
+    Trait</h6><p>Instinct</p><h6>Foundation Feature</h6><p><em><strong>Elemental
+    Incarnation:</strong></em> Mark a Stress to <em>Channel</em> one of the
+    following elements until you take Severe damage or until your next
+    rest:</p><ul class="og-list-disc"><li><em><strong>Fire:</strong></em> When
+    an adversary within Melee range deals damage to you, they take
+    <strong>1d10</strong> magic damage.</li><li><em><strong>Earth:</strong></em>
+    Gain a bonus to your damage thresholds equal to your
+    Proficiency.</li><li><em><strong>Water:</strong></em> When you deal damage
+    to an adversary within Melee range, all other adversaries within Very Close
+    range must mark a Stress.</li><li><em><strong>Air:</strong></em> You can
+    hover, gaining advantage on Agility Rolls.</li></ul><h6>Specialization
+    Feature</h6><p><em><strong>Elemental Aura:</strong></em> Once per rest while
+    <em>Channeling</em>, you can assume an aura matching your element. The aura
+    affects targets within Close range until your <em>Channeling</em>
+    ends.</p><ul class="og-list-disc"><li><em><strong>Fire:</strong></em> When
+    an adversary marks 1 or more Hit Points, they must also mark a
+    Stress.</li><li><em><strong>Earth:</strong></em> Your allies gain a +1 bonus
+    to Strength.</li><li><em><strong>Water:</strong></em> When an adversary
+    deals damage to you, you can mark a Stress to move them anywhere within Very
+    Close range of where they are.</li><li><em><strong>Air:</strong></em> When
+    you or an ally takes damage from an attack beyond Melee range, reduce the
+    damage by <strong>1d8</strong>.</li></ul><h6>Mastery
+    Feature</h6><p><em><strong>Elemental Dominion:</strong></em> You further
+    embody your element. While <em>Channeling</em>, you gain the following
+    benefit:</p><ul class="og-list-disc"><li><em><strong>Fire:</strong></em> You
+    gain a +1 bonus to your Proficiency for attacks and spells that deal
+    damage.</li><li><em><strong>Earth:</strong></em> When you would mark Hit
+    Points, roll a <strong>d6</strong> per Hit Point marked. For each result of
+    6, reduce the number of Hit Points you mark by
+    1.</li><li><em><strong>Water:</strong></em> When an attack against you
+    succeeds, you can mark a Stress to make the attacker temporarily
+    Vulnerable.</li><li><em><strong>Air:</strong></em> You gain a +1 bonus to
+    your Evasion and can fly.</li></ul>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!WvlhTvYq3U1Ri21u'

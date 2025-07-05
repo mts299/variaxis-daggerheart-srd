@@ -1,0 +1,53 @@
+name: Elemental Origin
+type: subclass
+folder: DqhtOk8xgbk6Ndsz
+_id: i2vC1pdQtpFEBY9Z
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Elemental Origin if you want to channel raw magic to take the
+    shape of a particular element.</p><h6>Spellcast
+    Trait</h6><p>Instinct</p><h6>Foundation
+    Feature</h6><p><em><strong>Elementalist:</strong></em> Choose one of the
+    following elements at character creation: air, earth, fire, lightning,
+    water. You can shape this element into harmless effects.</p><p>Additionally,
+    spend a Hope and describe how your control over this element helps an action
+    roll you're about to make, then either gain a +2 bonus to the roll or a +3
+    bonus to the roll's damage.</p><h6>Specialization
+    Feature</h6><p><em><strong>Natural Evasion:</strong></em> You can call forth
+    your element to protect you from harm. When an attack roll against you
+    succeeds, you can mark a Stress and describe how you use your element to
+    defend you. When you do, roll a <strong>d6</strong> and add its result to
+    your Evasion against the attack.</p><h6>Mastery
+    Feature</h6><p><em><strong>Transcendence:</strong></em> Once per long rest,
+    you can transform into a physical manifestation of your element. When you
+    do, describe your transformation and choose two of the following benefits to
+    gain until your next rest:</p><ul class="og-list-disc"><li>+4 bonus to your
+    Severe threshold</li><li>+1 bonus to a character trait of your
+    choice</li><li>+1 bonus to your Proficiency</li><li>+2 bonus to your
+    Evasion</li></ul>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!i2vC1pdQtpFEBY9Z'

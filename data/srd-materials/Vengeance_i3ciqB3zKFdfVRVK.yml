@@ -1,0 +1,46 @@
+name: Vengeance
+type: subclass
+folder: 7p8P3aIftsyCt7N1
+_id: i3ciqB3zKFdfVRVK
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Vengeance if you want to strike down enemies who harm you or
+    your allies.</p><h6>Foundation Features</h6><p><em><strong>At
+    Ease:</strong></em> Gain an additional Stress
+    slot.</p><p><em><strong>Revenge:</strong></em> When an adversary within
+    Melee range succeeds on an attack against you, you can mark 2 Stress to
+    force the attacker to mark a Hit Point.</p><h6>Specialization
+    Feature</h6><p><em><strong>Act of Reprisal:</strong></em> When an adversary
+    damages an ally within Melee range, you gain a +1 bonus to your Proficiency
+    for the next successful attack you make against that
+    adversary.</p><h6>Mastery Feature</h6><p><em><strong>Nemesis:</strong></em>
+    Spend 2 Hope to Prioritize an adversary until your next rest. When you make
+    an attack against your Prioritized adversary, you can swap the results of
+    your Hope and Fear Dice. You can only Prioritize one adversary at a
+    time.</p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!i3ciqB3zKFdfVRVK'

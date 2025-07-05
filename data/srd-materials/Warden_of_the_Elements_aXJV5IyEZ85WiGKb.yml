@@ -1,0 +1,49 @@
+name: Warden of the Elements
+type: subclass
+folder: oOPjrB7U160kSlB9
+_id: aXJV5IyEZ85WiGKb
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Warden of Renewal if you want to use powerful magic to heal your
+    party.</p><h6>Spellcast Trait</h6><p>Instinct</p><h6>Foundation
+    Features</h6><p><em><strong>Clarity of Nature:</strong></em> Once per long
+    rest, you can create a space of natural serenity within Close range. When
+    you spend a few minutes resting within the space, clear Stress equal to your
+    Instinct, distributed as you choose between you and your
+    allies.</p><p><em><strong>Regeneration:</strong></em> Touch a creature and
+    spend 3 Hope. That creature clears <strong>1d4</strong> Hit
+    Points.</p><h6>Specialization Features</h6><p><em><strong>Regenerative
+    Reach:</strong></em> You can target creatures within Very Close range with
+    your "Regeneration" feature.</p><p><em><strong>Warden's
+    Protection:</strong></em> Once per long rest, spend 2 Hope to clear 2 Hit
+    Points on <strong>1d4</strong> allies within Close range.</p><h6>Mastery
+    Feature</h6><p><em><strong>Defender:</strong></em> Your animal
+    transformation embodies a healing guardian spirit. When you're in Beastform
+    and an ally within Close range marks 2 or more Hit Points, you can mark a
+    Stress to reduce the number of Hit Points they mark by 1.</p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!aXJV5IyEZ85WiGKb'

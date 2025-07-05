@@ -1,0 +1,54 @@
+name: Nightwalker
+type: subclass
+folder: Eayp0LmOVUrcwpAj
+_id: kgMtIqXDPJGxCykx
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Nightwalker if you want to manipulate shadows to maneuver
+    through the environment.</p><h6>Spellcast
+    Trait</h6><p>Finesse</p><h6>Foundation Feature</h6><p><em><strong>Shadow
+    Stepper:</strong></em> You can move from shadow to shadow. When you move
+    into an area of darkness or a shadow cast by another creature or object, you
+    can mark a Stress to disappear from where you are and reappear inside
+    another shadow within Far range. When you reappear, you are
+    <em>Cloaked</em>.</p><h6>Specialization Features</h6><p><em><strong>Dark
+    Cloud:</strong></em> Make a Spellcast Roll (15). On a success, create a
+    temporary dark cloud that covers any area within Close range. Anyone in this
+    cloud can't see outside of it, and anyone outside of it can't see in. You're
+    considered <em>Cloaked</em> from any adversary for whom the cloud blocks
+    line of sight.</p><p><em><strong>Adrenaline:</strong></em> While you're
+    Vulnerable, add your level to your damage rolls.</p><h6>Mastery
+    Features</h6><p><em><strong>Shadow Stepper:</strong></em> Gain a permanent
+    +1 bonus to your Evasion. You can use your <em><strong>Shadow
+    Stepper</strong></em> feature to move within Very Far
+    range.</p><p><em><strong>Vanishing Act:</strong></em> Mark a Stress to
+    become <em>Cloaked</em> at any time. When <em>Cloaked</em> from this
+    feature, you automatically clear the Restrained condition if you have it.
+    You remain <em>Cloaked</em> in this way until you roll with Fear or until
+    your next rest.</p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!kgMtIqXDPJGxCykx'
