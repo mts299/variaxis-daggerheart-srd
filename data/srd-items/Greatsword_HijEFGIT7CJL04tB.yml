@@ -1,0 +1,43 @@
+name: Greatsword
+type: weapon
+folder: 2FSclQR5AARO1BiJ
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p><em><strong>Massive:</strong></em> −1 to Evasion; on a successful attack,
+    roll an additional damage die and discard the lowest result.</p>
+  category: Two-Handed
+  tier: '1'
+  trait: strength
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: 1d10+3
+    modifiers: []
+    value: 1d10+3
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751682310626
+  modifiedTime: 1751682310626
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+_id: HijEFGIT7CJL04tB
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!HijEFGIT7CJL04tB'

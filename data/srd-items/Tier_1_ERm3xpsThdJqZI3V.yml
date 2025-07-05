@@ -1,5 +1,5 @@
 type: Item
-folder: f3gVDhVUphpIGSEd
+folder: z7zkgiU0NuZOyyL5
 name: Tier 1
 color: null
 sorting: a
@@ -11,10 +11,9 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.345'
+  coreVersion: '13.344'
   systemId: daggerheart
-  systemVersion: 2.7.4
-  createdTime: 1751120537738
-  modifiedTime: 1751120537738
-  lastModifiedBy: cNNQ5puNzwCihPuH
+  systemVersion: 2.9.7
+  modifiedTime: 1751682310617
+  lastModifiedBy: GURa9Tm6QJyl1rY7
 _key: '!folders!ERm3xpsThdJqZI3V'
