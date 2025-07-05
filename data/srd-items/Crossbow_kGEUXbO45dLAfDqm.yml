@@ -1,0 +1,41 @@
+name: Crossbow
+type: weapon
+folder: 2FSclQR5AARO1BiJ
+_id: kGEUXbO45dLAfDqm
+img: icons/svg/item-bag.svg
+system:
+  description: ''
+  category: " \tTwo-Handed"
+  tier: '1'
+  trait: finesse
+  range: far
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: 1d6+1
+    modifiers: []
+    value: 1d6+1
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751682310626
+  modifiedTime: 1751682310626
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!kGEUXbO45dLAfDqm'

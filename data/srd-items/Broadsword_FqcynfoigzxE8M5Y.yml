@@ -1,0 +1,41 @@
+name: Broadsword
+type: weapon
+folder: 2FSclQR5AARO1BiJ
+_id: FqcynfoigzxE8M5Y
+img: icons/svg/item-bag.svg
+system:
+  description: <p><em><strong>Reliable:</strong></em> +1 to attack rolls</p>
+  category: One-handed
+  tier: '1'
+  trait: agility
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: 1d8
+    modifiers: []
+    value: 1d8
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751682310626
+  modifiedTime: 1751682310626
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!FqcynfoigzxE8M5Y'
