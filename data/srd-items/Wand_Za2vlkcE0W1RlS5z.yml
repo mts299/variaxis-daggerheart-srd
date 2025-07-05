@@ -1,22 +1,22 @@
-name: Dagger
+name: Wand
 type: weapon
-folder: 4KKzXHI7iKaP9DRK
-_id: NiH6S6ySHD1nuEK2
+folder: CwXkWHRpNwinJGUS
+_id: Za2vlkcE0W1RlS5z
 img: icons/svg/item-bag.svg
 system:
   description: ''
   category: One-Handed
   tier: '1'
-  trait: finesse
-  range: melee
-  damageType: physical
+  trait: knowledge
+  range: far
+  damageType: magical
   location: backpack
   equipped: false
   weaponSlot: null
   damage:
-    baseValue: 1d8+1
+    baseValue: 1d6+1
     modifiers: []
-    value: 1d8+1
+    value: 1d6+1
   quantity: 1
   weight: 0
   attributes: {}
@@ -31,10 +31,11 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  modifiedTime: 1751744170469
+  createdTime: 1751744170481
+  modifiedTime: 1751744170481
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
-_key: '!items!NiH6S6ySHD1nuEK2'
+_key: '!items!Za2vlkcE0W1RlS5z'
