@@ -1,9 +1,9 @@
 type: Item
-folder: RqqUcVfRlD99E4Os
-name: Armor
+folder: u33Ku5MlJtKcKEry
+name: Codex
 color: null
 sorting: a
-_id: CYw3fEkJMN1Kk0IA
+_id: nXlSUC3iY78aIIbd
 description: ''
 sort: 0
 flags: {}
@@ -11,8 +11,8 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: '13.344'
   systemId: daggerheart
-  systemVersion: 2.9.3
+  systemVersion: 2.9.7
   lastModifiedBy: null
-_key: '!folders!CYw3fEkJMN1Kk0IA'
+_key: '!folders!nXlSUC3iY78aIIbd'

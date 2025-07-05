@@ -1,9 +1,9 @@
 type: Item
-folder: ERm3xpsThdJqZI3V
-name: Magical
+folder: evNeNUntLJZlNZpP
+name: Level 4
 color: null
 sorting: a
-_id: CwXkWHRpNwinJGUS
+_id: ZZNzqurB6enGzp3V
 description: ''
 sort: 400000
 flags: {}
@@ -15,5 +15,5 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.9.7
   lastModifiedBy: GURa9Tm6QJyl1rY7
-  modifiedTime: 1751748614119
-_key: '!folders!CwXkWHRpNwinJGUS'
+  modifiedTime: 1751746487950
+_key: '!folders!ZZNzqurB6enGzp3V'
