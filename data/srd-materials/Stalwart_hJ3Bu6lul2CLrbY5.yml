@@ -1,0 +1,48 @@
+name: Stalwart
+type: subclass
+folder: 7p8P3aIftsyCt7N1
+_id: hJ3Bu6lul2CLrbY5
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Stalwart if you want to take heavy blows and keep
+    fighting.</p><h6>Foundation
+    Features</h6><p><em><strong>Unwavering:</strong></em> Gain a permanent +1
+    bonus to your damage thresholds.</p><p><em><strong>Iron Will:</strong></em>
+    When you take physical damage, you can mark an additional Armor Slot to
+    reduce the severity.</p><h6>Specialization
+    Features</h6><p><em><strong>Unrelenting:</strong></em> Gain a permanent +2
+    bonus to your damage
+    thresholds.</p><p><em><strong>Partners-in-Arms:</strong></em> When an ally
+    within Very Close range takes damage, you can mark an Armor Slot to reduce
+    the severity by one threshold.</p><h6>Mastery
+    Features</h6><p><em><strong>Undaunted:</strong></em> Gain a permanent +3
+    bonus to your damage thresholds.</p><p><em><strong>Loyal
+    Protector:</strong></em> When an ally within Close range has 2 or fewer Hit
+    Points and would take damage, you can mark a Stress to sprint to their side
+    and take the damage instead.</p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!hJ3Bu6lul2CLrbY5'

@@ -1,0 +1,49 @@
+name: Wordsmith
+type: subclass
+folder: k4kZgB72Ebo0eFFL
+_id: GgiU1DPpFHpvXTBq
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Wordsmith if you want to use clever wordplay and captivate
+    crowds.</p><h6>Spellcast Trait</h6><p>Presence</p><h6>Foundation
+    Feature</h6><p><em><strong>Rousing Speech:</strong></em> Once per long rest,
+    you can give a heartfelt, inspiring speech. All allies within Far range
+    clear 2 Stress.</p><p><em><strong>Heart of a Poet:</strong></em> After you
+    make an action roll to impress, persuade, or offend someone, you can spend a
+    Hope to add a <strong>d4</strong> to the roll.</p><h6>Specialization
+    Feature</h6><p><em><strong>Eloquent:</strong></em> Your moving words boost
+    morale. Once per session, when you encourage an ally, you can do one of the
+    following:</p><ul class="og-list-disc"><li>Allow them to find a mundane
+    object or tool they need.</li><li>Help an Ally without spending
+    Hope.</li><li>Give them an additional downtime move during their next
+    rest.</li></ul><h6>Mastery Feature</h6><p><em><strong>Epic
+    Poetry:</strong></em> Your Rally Die increases to a <strong>d10</strong>.
+    Additionally, when you Help an Ally, you can narrate the moment as if you
+    were writing the tale of their heroism in a memoir. When you do, roll a
+    <strong>d10</strong> as your advantage die.</p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!GgiU1DPpFHpvXTBq'

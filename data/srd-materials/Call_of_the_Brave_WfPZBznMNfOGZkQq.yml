@@ -1,0 +1,47 @@
+name: Call of the Brave
+type: subclass
+folder: G6QREH7srMdFHgxy
+_id: WfPZBznMNfOGZkQq
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Play the Call of the Brave if you want to use the might of your enemies
+    to fuel your own power.</p><h6>Foundation
+    Features</h6><p><em><strong>Courage:</strong></em> When you fail a roll with
+    Fear, you gain a Hope.</p><p><em><strong>Battle Ritual:</strong></em> Once
+    per long rest, before you attempt something incredibly dangerous or face off
+    against a foe who clearly outmatches you, describe what ritual you perform
+    or preparations you make. When you do, clear 2 Stress and gain 2
+    Hope.</p><h6>Specialization Feature</h6><p><em><strong>Rise to the
+    Challenge:</strong></em> You are vigilant in the face of mounting danger.
+    While you have 2 or fewer Hit Points unmarked, you can roll a
+    <strong>d20</strong> as your Hope Die.</p><h6>Mastery
+    Feature</h6><p><em><strong>Camaraderie:</strong></em> Your unwavering
+    bravery is a rallying point for your allies. You can initiate a Tag Team
+    Roll one additional time per session. Additionally, when an ally initiates a
+    Tag Team Roll with you, they only need to spend 2 Hope to do so.</p>
+  category: ''
+  rarity: ''
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751677758270
+  modifiedTime: 1751677758270
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!WfPZBznMNfOGZkQq'

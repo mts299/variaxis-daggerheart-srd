@@ -99,12 +99,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.345'
+  coreVersion: '13.344'
   systemId: daggerheart
-  systemVersion: 2.9.3
-  createdTime: 1751662910127
-  modifiedTime: 1751662910144
-  lastModifiedBy: GHK9xQYeYjLhONPd
+  systemVersion: 2.9.7
+  modifiedTime: 1751677758247
+  lastModifiedBy: GURa9Tm6QJyl1rY7
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
