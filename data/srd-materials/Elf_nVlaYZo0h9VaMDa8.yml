@@ -1,0 +1,52 @@
+name: Elf
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+_id: nVlaYZo0h9VaMDa8
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Elves are typically tall humanoids with pointed ears and acutely attuned
+    senses. <span class="og-omit">Their ears vary in size and pointed shape, and
+    as they age, the tips begin to droop. While elves come in a wide range of
+    body types, they are all fairly tall, with heights ranging from about 6–6½
+    feet (1.8–2.0 m). All elves have the ability to drop into a celestial
+    trance, rather than sleep. This allows t</span>hem to rest ef<span
+    class="og-omit">fectively in a short amount of time. Some elves possess what
+    is known as a <strong>mystic form</strong>, which occurs when an elf has
+    dedicated themself to the study or protection of the natural world so deeply
+    that their physical form changes. These characteristics can include
+    celestial freckles, the presence of leaves, vines, or flowers in their hair,
+    eyes that flicker like fire, and more. Sometimes these traits are inherited
+    from parents, but if an elf changes their environment or magical focus,
+    their appearance changes over time. Because elves live for about 350 years,
+    these traits can shift more than once throughout their
+    lifespan.</span></p><h4 class="h6">Ancestry
+    Features</h4><p><em><strong>Quick Reactions:</strong></em> Mark a Stress to
+    gain advantage on a reaction roll.</p><p><em><strong>Celestial
+    Trance:</strong></em> During a rest, you can drop into a trance to choose an
+    additional downtime move.</p>
+  category: ''
+  rarity: ''
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751679107736
+  modifiedTime: 1751679107736
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!nVlaYZo0h9VaMDa8'

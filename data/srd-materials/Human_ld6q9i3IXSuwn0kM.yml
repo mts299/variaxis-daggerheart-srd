@@ -1,0 +1,44 @@
+name: Human
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+_id: ld6q9i3IXSuwn0kM
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Humans are most easily recognized by their dexterous hands, rounded ears,
+    and bodies built for endurance. <span class="og-omit">Their average height
+    ranges from just under 5–6½ feet (1.5–2.0 m). They have a wide variety of
+    builds, with some being quite broad, others lithe, and many inhabiting the
+    spectrum in between.</span></p><p class="og-omit">Humans are physically
+    adaptable and adjust to harsh climates with relative ease. In general,
+    humans live to an age of about 100, with their bodies changing dramatically
+    between their youngest and oldest years.</p><h4 class="h6">Ancestry
+    Features</h4><p><em><strong>High Stamina:</strong></em> Gain an additional
+    Stress slot at character
+    creation.</p><p><em><strong>Adaptability:</strong></em> When you fail a roll
+    that utilized one of your Experiences, you can mark a Stress to reroll.</p>
+  category: ''
+  rarity: ''
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751679107736
+  modifiedTime: 1751679107736
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!ld6q9i3IXSuwn0kM'
