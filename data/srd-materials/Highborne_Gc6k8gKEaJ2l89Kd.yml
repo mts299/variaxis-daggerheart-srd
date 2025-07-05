@@ -1,0 +1,50 @@
+name: Highborne
+type: community
+folder: JKK1U2Q9eeUWaXKy
+_id: Gc6k8gKEaJ2l89Kd
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Being part of a highborne community means you're accustomed to a life of
+    elegance, opulence, and prestige within the upper echelons of society. <span
+    class="og-omit">Traditionally, members of a highborne community possess
+    incredible material wealth. While this can take a variety of forms depending
+    on the community—including gold and other minerals, land, or controlling the
+    means of production—this status always comes with power and influence.
+    Highborne place great value on titles and possessions, and there is little
+    social mobility within their ranks. Members of a highborne community often
+    control the political and economic status of the areas in which they live
+    due to their ability to influence people and the economy with their
+    substantial wealth. The health and safety of the less affluent people who
+    live in these locations often hinges on the ability of this highborne ruling
+    class to prioritize the well-being of their subjects over
+    profit.</span></p><p><em>Highborne are often amiable, candid, conniving,
+    enterprising, ostentatious, and unflappable.</em></p><h4
+    class="h6">Community Feature</h4><p><em><strong>Privilege:</strong></em> You
+    have advantage on rolls to consort with nobles, negotiate prices, or
+    leverage your reputation to get what you want.</p>
+  category: ''
+  rarity: ''
+  location: community
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751679736803
+  modifiedTime: 1751679736803
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!Gc6k8gKEaJ2l89Kd'
