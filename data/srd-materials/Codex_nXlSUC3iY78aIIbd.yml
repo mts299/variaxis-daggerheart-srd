@@ -1,0 +1,18 @@
+type: Item
+folder: u33Ku5MlJtKcKEry
+name: Codex
+color: null
+sorting: a
+_id: nXlSUC3iY78aIIbd
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  lastModifiedBy: null
+_key: '!folders!nXlSUC3iY78aIIbd'
