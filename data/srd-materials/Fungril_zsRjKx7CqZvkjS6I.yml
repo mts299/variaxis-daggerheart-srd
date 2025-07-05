@@ -1,0 +1,48 @@
+name: Fungril
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+_id: zsRjKx7CqZvkjS6I
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Fungril resemble humanoid mushrooms. <span class="og-omit">They can be
+    either more humanoid or more fungal in appearance, and they come in an
+    assortment of colors, from earth tones to bright reds, yellows, purples, and
+    blues. Fungril display an incredible variety of bodies, faces, and limbs, as
+    there's no single common shape among them. Even their heights range from a
+    tiny 2 feet tall to a staggering 7 feet (0.6–2.1 m) tall. While the common
+    lifespan of a fungril is about 300 years, some have been reported to live
+    much longer. They can communicate nonverbally, and many members of this
+    ancestry use a mycelial array to chemically exchange information with other
+    fungril across long distances.</span></p><h4 class="h6">Ancestry
+    Features</h4><p><em><strong>Fungril Network:</strong></em> Make an Instinct
+    Roll (12) to use your mycelial array to speak with others of your ancestry.
+    On a success, you can communicate across any
+    distance.</p><p><em><strong>Death Connection:</strong></em> While touching a
+    corpse that died recently, you can mark a Stress to extract one memory from
+    the corpse related to a specific emotion or sensation of your choice.</p>
+  category: ''
+  rarity: ''
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751679107736
+  modifiedTime: 1751679107736
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!zsRjKx7CqZvkjS6I'

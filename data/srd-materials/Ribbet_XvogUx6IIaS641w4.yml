@@ -1,0 +1,49 @@
+name: Ribbet
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+_id: XvogUx6IIaS641w4
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Ribbets resemble anthropomorphic frogs with protruding eyes and webbed
+    hands and feet. <span class="og-omit">They have smooth (though sometimes
+    warty) moist skin and eyes positioned on either side of their head. Some
+    ribbets have hind legs more than twice the length of their torso, while
+    others have short limbs. No matter their size (which ranges from about 3–4½
+    feet (0.9–1.4 m)), ribbets primarily move by hopping. All ribbets have
+    webbed appendages, allowing them to swim with ease. Some ribbets possess a
+    natural green-and-brown camouflage, while others are vibrantly colored with
+    bold patterns. No matter their appearance, all ribbets are born from eggs
+    laid in the water, hatch into tadpoles, and after about 6 to 7 years, grow
+    into amphibians that can move around on land. Ribbets live for approximately
+    100 years.</span></p><h4 class="h6">Ancestry
+    Features</h4><p><em><strong>Amphibious:</strong></em> You can breathe and
+    move naturally underwater.</p><p><em><strong>Long Tongue:</strong></em> You
+    can use your long tongue to grab onto things within Close range. Mark a
+    Stress to use your tongue as a Finesse Close weapon that deals
+    <strong>d12</strong> physical damage using your Proficiency.</p>
+  category: ''
+  rarity: ''
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751679107736
+  modifiedTime: 1751679107736
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!XvogUx6IIaS641w4'

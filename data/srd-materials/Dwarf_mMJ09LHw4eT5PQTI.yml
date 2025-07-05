@@ -1,0 +1,47 @@
+name: Dwarf
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+_id: mMJ09LHw4eT5PQTI
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Dwarves are most easily recognized as short humanoids with square frames,
+    dense musculature, and thick hair. <span class="og-omit">Their average
+    height ranges from 4–5½ feet (1.2–1.7 m), and they are often broad in
+    proportion to their stature. Their skin and nails contain a high amount of
+    keratin, making them naturally resilient. This allows dwarves to embed
+    gemstones into their bodies and decorate themselves with tattoos or
+    piercings.</span></p><p class="og-omit">Their hair grows thickly—usually on
+    their heads, but some dwarves have thick hair across their bodies as well.
+    Dwarves of all genders can grow facial hair, which they often style in
+    elaborate arrangements. Typically, dwarves live up to 250 years of age,
+    maintaining their muscle mass well into later life.</p><h4
+    class="h6">Ancestry Features</h4><p><em><strong>Thick Skin:</strong></em>
+    When you take Minor damage, you can mark 2 Stress instead of marking a Hit
+    Point.</p><p><em><strong>Increased Fortitude:</strong></em> Spend 3 Hope to
+    halve incoming physical damage.</p>
+  category: ''
+  rarity: ''
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751679107736
+  modifiedTime: 1751679107736
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!mMJ09LHw4eT5PQTI'

@@ -1,0 +1,45 @@
+name: Halfling
+type: ancestry
+folder: 6HFYZrMH1OFh0mvr
+_id: xtxWYnhIMAyUwuCI
+img: icons/svg/item-bag.svg
+system:
+  description: >-
+    <p>Halflings are small humanoids with large hairy feet and prominent rounded
+    ears. <span class="og-omit">On average, halflings are 3–4 feet (0.9–1.2 m)
+    in height, and their ears, nose, and feet are larger in proportion to the
+    rest of their body. Members of this ancestry live for around 150 years, and
+    a halfling's appearance is likely to remain youthful even as they progress
+    from adulthood into old age. Halflings are naturally attuned to the magnetic
+    fields of the Mortal Realm, granting them a strong internal compass. They
+    also possess acute senses of hearing and smell, and can often detect those
+    who are familiar to them by the sound of their movements.</span></p><h4
+    class="h6">Ancestry Features</h4><p><em><strong>Luckbringer:</strong></em>
+    At the start of each session, everyone in your party gains a
+    Hope.</p><p><em><strong>Internal Compass:</strong></em> When you roll a 1 on
+    your Hope Die, you can reroll it.</p>
+  category: ''
+  rarity: ''
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  createdTime: 1751679107736
+  modifiedTime: 1751679107736
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!xtxWYnhIMAyUwuCI'
