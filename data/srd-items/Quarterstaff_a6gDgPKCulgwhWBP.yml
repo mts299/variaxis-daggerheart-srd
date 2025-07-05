@@ -1,6 +1,6 @@
 name: Quarterstaff
 type: weapon
-folder: 2FSclQR5AARO1BiJ
+folder: 4KKzXHI7iKaP9DRK
 _id: a6gDgPKCulgwhWBP
 img: icons/svg/item-bag.svg
 system:
@@ -31,8 +31,7 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751682310626
-  modifiedTime: 1751682310626
+  modifiedTime: 1751744170469
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:
