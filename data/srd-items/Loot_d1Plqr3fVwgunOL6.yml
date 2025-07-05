@@ -1,11 +1,11 @@
 type: Item
-folder: ERm3xpsThdJqZI3V
-name: Armor
+folder: null
+name: Loot
 color: null
 sorting: a
-_id: f3gVDhVUphpIGSEd
+_id: d1Plqr3fVwgunOL6
 description: ''
-sort: 100000
+sort: 0
 flags: {}
 _stats:
   compendiumSource: null
@@ -13,7 +13,8 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751730573949
+  systemVersion: 2.9.3
+  createdTime: 1751732010287
+  modifiedTime: 1751735528624
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!folders!f3gVDhVUphpIGSEd'
+_key: '!folders!d1Plqr3fVwgunOL6'

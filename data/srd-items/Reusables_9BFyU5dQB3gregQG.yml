@@ -1,11 +1,11 @@
 type: Item
-folder: ERm3xpsThdJqZI3V
-name: Armor
+folder: d1Plqr3fVwgunOL6
+name: Reusables
 color: null
 sorting: a
-_id: f3gVDhVUphpIGSEd
+_id: 9BFyU5dQB3gregQG
 description: ''
-sort: 100000
+sort: 0
 flags: {}
 _stats:
   compendiumSource: null
@@ -13,7 +13,7 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751730573949
+  systemVersion: 2.9.3
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!folders!f3gVDhVUphpIGSEd'
+  modifiedTime: 1751735520749
+_key: '!folders!9BFyU5dQB3gregQG'

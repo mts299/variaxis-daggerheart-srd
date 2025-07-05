@@ -1,20 +1,20 @@
 type: Item
-folder: z7zkgiU0NuZOyyL5
+folder: null
 name: Tier 2
 color: null
 sorting: a
 _id: TOKmSW73NL3AaeIa
 description: ''
-sort: 0
+sort: 400000
 flags: {}
 _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.345'
+  coreVersion: '13.346'
   systemId: daggerheart
   systemVersion: 2.7.4
   createdTime: 1751120697140
-  modifiedTime: 1751120697140
-  lastModifiedBy: cNNQ5puNzwCihPuH
+  modifiedTime: 1751730447990
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _key: '!folders!TOKmSW73NL3AaeIa'
