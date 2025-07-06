@@ -1,6 +1,6 @@
 name: Dagger
 type: weapon
-folder: 4KKzXHI7iKaP9DRK
+folder: BM52XUGzAhAWn2Ut
 _id: NiH6S6ySHD1nuEK2
 img: icons/svg/item-bag.svg
 system:
@@ -31,7 +31,7 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  modifiedTime: 1751744170469
+  modifiedTime: 1751775928238
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:

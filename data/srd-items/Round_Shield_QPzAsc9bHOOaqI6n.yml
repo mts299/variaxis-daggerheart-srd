@@ -1,0 +1,40 @@
+name: Round Shield
+type: weapon
+folder: IdvtUdfLrXHZsELL
+_id: QPzAsc9bHOOaqI6n
+img: icons/svg/item-bag.svg
+system:
+  description: <p><em><strong>Protective:</strong></em> +1 to Armor Score</p>
+  category: One-handed
+  tier: '1'
+  trait: strength
+  range: melee
+  damageType: physical
+  location: backpack
+  equipped: false
+  weaponSlot: null
+  damage:
+    baseValue: 1d4
+    modifiers: []
+    value: 1d4
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  modifiedTime: 1751775928238
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!QPzAsc9bHOOaqI6n'

@@ -1,6 +1,6 @@
 name: Scepter
 type: weapon
-folder: CwXkWHRpNwinJGUS
+folder: I0OJ5wHbL26jlker
 _id: MQnKa2rIfdMyM5Yh
 img: icons/svg/item-bag.svg
 system:
@@ -33,8 +33,7 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  createdTime: 1751744170481
-  modifiedTime: 1751744170481
+  modifiedTime: 1751775928238
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:
