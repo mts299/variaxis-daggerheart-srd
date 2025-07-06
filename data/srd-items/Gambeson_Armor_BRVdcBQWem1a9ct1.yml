@@ -1,0 +1,33 @@
+name: Gambeson Armor
+type: item
+system:
+  description: >-
+    <p>Base Thresholds: 3/11 </p><p>Base Armor Score: 3</p><p><span
+    class="og-divider og-wrap"><em>Flexible:</em> +1 to </span>Evasion</p>
+  category: Armor
+  rarity: '1'
+  location: worn
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+_id: BRVdcBQWem1a9ct1
+img: icons/svg/item-bag.svg
+effects: []
+folder: 9rKEf6zETnYYz9IO
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.344'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  modifiedTime: 1751775928238
+  lastModifiedBy: GURa9Tm6QJyl1rY7
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: '!items!BRVdcBQWem1a9ct1'

@@ -31,8 +31,8 @@ system:
     equal to the level of the card.</li><li>Enhance a spell that deals damage,
     gaining a bonus to your damage roll equal to twice the level of the
     card.</li></ul>
-  category: ''
-  rarity: ''
+  category: Arcana
+  rarity: midnight
   location: class
   quantity: 1
   weight: 0
@@ -48,7 +48,7 @@ _stats:
   coreVersion: '13.344'
   systemId: daggerheart
   systemVersion: 2.9.7
-  modifiedTime: 1751679736769
+  modifiedTime: 1751776752202
   lastModifiedBy: GURa9Tm6QJyl1rY7
 _id: WZ06sVt5NcHcdVZ5
 sort: 0
