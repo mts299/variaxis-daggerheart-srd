@@ -2,7 +2,7 @@ name: Chainmail Armor
 type: item
 folder: 9rKEf6zETnYYz9IO
 _id: FplytNZ77mce1lQJ
-img: icons/svg/item-bag.svg
+img: modules/daggerheart-srd/assets/Armor.svg
 system:
   description: >-
     <p>Base Thresholds: 7/15</p><p>Base Armor Score: 4</p><p><span
@@ -23,8 +23,8 @@ _stats:
   exportSource: null
   coreVersion: '13.344'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751775928238
+  systemVersion: 2.10.5
+  modifiedTime: 1751921281950
   lastModifiedBy: GURa9Tm6QJyl1rY7
 sort: 0
 ownership:
