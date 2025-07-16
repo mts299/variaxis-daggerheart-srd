@@ -1,0 +1,251 @@
+name: Tier 4
+_id: Fuk6Mt1vZhyzdLgq
+pages:
+  - sort: 100000
+    name: Chaos Realm
+    type: text
+    _id: pEqQVVUo4LUXULOd
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 4 Traversal</h1><p>An otherworldly space where the laws of
+        reality are unstable and dangerous.<br /><strong>Impulses:</strong>
+        Annihilate certainty, consume power, defy logic<br
+        /><strong>Difficulty:</strong> 20<br /><strong>Potential
+        Adversaries:</strong> Outer Realms Monstrosities (Abomination,
+        Corruptor, Thrall)</p><h2>FEATURES</h2><p><strong>Impossible
+        Architecture</strong> - Passive:<br />Navigating this realm requires a
+        Progress Countdown (8). On a failure, PCs also mark
+        Stress.</p><p><em>What does it feel like to move in a space so alien to
+        the Mortal Realm? What landmark or point do you fixate on to maintain
+        your balance?</em></p><p><strong>Everything You Are This Place Will Take
+        from You</strong> - Action:<br />Countdown (Loop 1d4). On trigger, all
+        PCs must roll Presence or lose 1d4 from their highest trait unless they
+        mark Stress equal to its value.</p><p><em>How does this place try to
+        steal from you that which makes you
+        legendary?</em></p><p><strong>Unmaking</strong> - Action:<br />Spend a
+        Fear to force a Strength Reaction Roll. Fail: 4d10 magic damage;
+        success: mark Stress.</p><p><em>What glimpse of other worlds do you
+        catch while this place tries to unmake you?</em></p><p><strong>Outer
+        Realms Predators</strong> - Action:<br />Spend a Fear to summon an
+        Abomination, a Corruptor, and 2d6 Thralls. One takes the spotlight. You
+        may spend another Fear for an auto-hit.</p><p><em>What half-consumed
+        remnants of the shattered world do these monstrosities cast aside in
+        pursuit of living flesh?</em></p><p><strong>Disorienting
+        Reality</strong> - Reaction:<br />On a roll with Fear, prompt the PC to
+        name a fear. PC loses a Hope. If it's their last, gain a
+        Fear.</p><p><em>What moment do they see? How hard will it be to hold on
+        to the real memory?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631597540
+      modifiedTime: 1752631616546
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!Fuk6Mt1vZhyzdLgq.pEqQVVUo4LUXULOd'
+  - sort: 200000
+    name: Divine Usurpation
+    type: text
+    _id: ijrcuMPiGHekfJMV
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 4 Event</h1><p>A massive ritual designed to breach the gates of
+        the Hallows Above and unseat the New Gods themselves.<br
+        /><strong>Impulses:</strong> Collect power, overawe, silence dissent<br
+        /><strong>Difficulty:</strong> 20<br /><strong>Potential
+        Adversaries:</strong> Arch-Necromancer, Fallen Shock Troops, Mortal
+        Hunter, Oracle of Doom, Perfected
+        Zombie</p><h2>FEATURES</h2><p><strong>Final Preparations</strong> -
+        Passive:<br />Designate a Usurper. Activate a Long-Term Countdown (8).
+        When it triggers, use “Beginning of the End.” You can hold up to 15 Fear
+        while active.</p><p><em>What does the Usurper still
+        require?</em></p><p><strong>Divine Blessing</strong> - Passive:<br />On
+        a critical success, spend 2 Hope to refresh a limited-use
+        ability.</p><p><em>What god favors you as you fight against this
+        usurpation?</em></p><p><strong>Defilers Abound</strong> - Action:<br
+        />Spend 2 Fear to summon 1d4+2 Fallen Shock Troops near the Usurper.
+        Spotlight for “Group Attack.”</p><p><em>Which High Fallen do these
+        troops serve?</em></p><p><strong>Godslayer</strong> - Action:<br />If
+        Divine Siege triggers, spend 3 Fear to slay a god and empower the
+        Usurper. Adjust stats or grant features.</p><p><em>Which god meets their
+        end? What are their last words?</em></p><p><strong>Beginning of the
+        End</strong> - Reaction:<br />On countdown trigger, activate Divine
+        Siege (10). Each PC hit gives you Fear. If complete, use “Godslayer” for
+        free.</p><p><em>How does the Mortal Realm writhe as the natural order is
+        violated?</em></p><p><strong>Ritual Nexus</strong> - Reaction:<br />On
+        any failure with Fear against the Usurper, mark 1d4
+        Stress.</p><p><em>What visions of failures past torment you?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631648758
+      modifiedTime: 1752631662415
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!Fuk6Mt1vZhyzdLgq.ijrcuMPiGHekfJMV'
+  - sort: 300000
+    name: Imperial Court
+    type: text
+    _id: mrbu5SXgU2SijVYu
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 4 Social</h1><p>The majestic domain of a powerful empire,
+        lavishly appointed with stolen treasures.<br
+        /><strong>Impulses:</strong> Justify and perpetuate imperial rule,
+        seduce rivals with promises of power and comfort<br
+        /><strong>Difficulty:</strong> 20<br /><strong>Potential
+        Adversaries:</strong> Bladed Guard, Courtesan, Knight of the Realm,
+        Monarch, Spy</p><h2>FEATURES</h2><p><strong>All Roads Lead Here</strong>
+        - Passive:<br />PCs have disadvantage on Presence Rolls that challenge
+        imperial norms.</p><p><em>How does the way language is used make even
+        discussing alternative ways of living
+        difficult?</em></p><p><strong>Rival Vassals</strong> - Passive:<br
+        />NPCs jockey for favor in court. Some may consider
+        betrayal.</p><p><em>How do they benefit from vassalage, and what has it
+        cost them?</em></p><p><strong>The Gravity of Empire</strong> -
+        Action:<br />Spend a Fear to tempt a PC with a major goal if they
+        submit. On failure: mark all Stress or accept. On success: mark 1d4
+        Stress.</p><p><em>What do the PCs want so desperately they might
+        consider throwing in with this ruthless
+        power?</em></p><p><strong>Imperial Decree</strong> - Action:<br />Spend
+        a Fear to tick down a long-term imperial agenda countdown by 1d4. If
+        triggered, enact it publicly at court.</p><p><em>Whose lives were
+        disrupted or upended to make this happen?</em></p><p><strong>Eyes
+        Everywhere</strong> - Reaction:<br />On a roll with Fear, spend a Fear
+        to have a loyalist overhear seditious talk. PC rolls Instinct to
+        intercept.</p><p><em>Why is their first impulse to protect the empire,
+        even if it doesn't treat them well?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631704142
+      modifiedTime: 1752631718323
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!Fuk6Mt1vZhyzdLgq.mrbu5SXgU2SijVYu'
+  - sort: 400000
+    name: Necromancer’s Ossuary
+    type: text
+    _id: 1bPWIo8UowZSTEix
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 4 Exploration</h1><p>A dusty crypt with a library, twisting
+        corridors, and abundant sarcophagi, spattered with the blood of
+        ill-fated invaders.<br /><strong>Impulses:</strong> Confound intruders,
+        delve into secrets best left buried, manifest unlife, unleash a tide of
+        undead<br /><strong>Difficulty:</strong> 19<br /><strong>Potential
+        Adversaries:</strong> Arch-Necromancer's Host (Perfected Zombie, Zombie
+        Legion)</p><h2>FEATURES</h2><p><strong>No Place for the Living</strong>
+        - Passive:<br />Healing requires Hope. If it already costs Hope, spend
+        an additional Hope.</p><p><em>What does it feel like to try to heal in a
+        place so antithetical to life?</em></p><p><strong>Centuries of
+        Knowledge</strong> - Passive:<br />PCs may roll Knowledge to learn
+        arcana, history, and necromantic plans.</p><p><em>What project is the
+        necromancer working on?</em></p><p><strong>Skeletal Burst</strong> -
+        Action:<br />Targets within Close range must roll Agility or take 4d8+8
+        damage from exploding bone.</p><p><em>What bones stick in your
+        armor?</em></p><p><strong>Aura of Death</strong> - Action:<br />Once per
+        scene, roll 1d4. Undead within Far range may split that value between HP
+        and Stress.</p><p><em>Do they look more lifelike or more decayed but
+        vigorous?</em></p><p><strong>They Just Keep Coming!</strong> -
+        Action:<br />Spend a Fear to summon 1d6 Rotted Zombies, two Perfected
+        Zombies, or a Zombie Legion near a PC.</p><p><em>Who were these people
+        before they became the necromancer's pawns?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631740322
+      modifiedTime: 1752631758976
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!Fuk6Mt1vZhyzdLgq.1bPWIo8UowZSTEix'
+folder: null
+categories: []
+sort: 0
+ownership:
+  default: 0
+  rXCci1o767VSg0C0: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.20
+  createdTime: 1752631588653
+  modifiedTime: 1752631588653
+  lastModifiedBy: rXCci1o767VSg0C0
+_key: '!journal!Fuk6Mt1vZhyzdLgq'

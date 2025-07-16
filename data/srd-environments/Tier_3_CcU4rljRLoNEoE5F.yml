@@ -1,0 +1,201 @@
+name: Tier 3
+_id: CcU4rljRLoNEoE5F
+pages:
+  - sort: 100000
+    name: Burning Heart of the Woods
+    type: text
+    _id: 8O0N1Hnmo7Hcxzis
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 3 Exploration</h1><p>Thick indigo ash fills the air around a
+        towering moss-covered tree that burns eternally with flames a sickly
+        shade of blue.<br /><strong>Impulses:</strong> Beat out an uncanny
+        rhythm for all to follow, corrupt the woods<br
+        /><strong>Difficulty:</strong> 16<br /><strong>Potential
+        Adversaries:</strong> Beasts (Bear, Glass Snake), Elementals (Elemental
+        Spark), Verdant Defenders (Dryad, Oak Treant, Stag
+        Knight)</p><h2>FEATURES</h2><p><strong>Chaos Magic Locus</strong> -
+        Passive:<br />When a PC makes a Spellcast Roll, they must roll two Fear
+        Dice and take the higher result.</p><p><em>What does it feel like to
+        work magic in this chaos-touched place? What do you fear will happen if
+        you lose control of the spell?</em></p><p><strong>The Indigo
+        Flame</strong> - Passive:<br />PCs who approach the central tree can
+        make a Knowledge Roll to identify the magic that consumed this
+        environment.</p><ul><li>Success: Learn 3 details.</li><li>Success with
+        Fear: Learn 2.</li><li>Failure: Mark a Stress to learn 1 and gain
+        advantage on next investigative roll.</li></ul><p><em>What Fallen cult
+        corrupted these woods? What have they already done with the cursed wood
+        and sap from this tree?</em></p><p><strong>Grasping Vines</strong> -
+        Action:<br />Animate vines whip from the underbrush. PC must succeed on
+        Agility Reaction Roll or become Restrained and Vulnerable until freed.
+        Attempting escape causes 1d8+4 damage and loss of a Hope.</p><p><em>What
+        painful memories do the vines bring to the surface as they pierce
+        flesh?</em></p><p><strong>Charcoal Constructs</strong> - Action:<br
+        />Warped animals wreathed in indigo flame trample through a chosen
+        point. All targets within Close range must roll Agility. Fail: 3d12+3
+        damage; success: half damage.</p><p><em>Are these real animals consumed
+        by the flame or merely constructs of the corrupting
+        magic?</em></p><p><strong>Choking Ash</strong> - Reaction:<br
+        />Countdown (Loop 6). On trigger, all PCs roll Strength or Instinct.
+        Fail: 4d6+5 damage; success: half. Protective gear grants
+        advantage.</p><p><em>What hallucinations does the ash induce? What
+        incongruous taste does it possess?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631412915
+      modifiedTime: 1752631426299
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!CcU4rljRLoNEoE5F.8O0N1Hnmo7Hcxzis'
+  - sort: 200000
+    name: Castle Siege
+    type: text
+    _id: asmzZE4h5DvWnQ4e
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 3 Event</h1><p>An active siege with an attacking force fighting
+        to gain entry to a fortified castle.<br /><strong>Impulses:</strong>
+        Bleed out the will to fight, breach the walls, build tension<br
+        /><strong>Difficulty:</strong> 17<br /><strong>Potential
+        Adversaries:</strong> Mercenaries (Harrier, Sellsword, Spellblade,
+        Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier,
+        Knight of the Realm)</p><h2>FEATURES</h2><p><strong>Secret
+        Entrance</strong> - Passive:<br />A PC can find or recall a secret way
+        into the castle with a successful Instinct or Knowledge
+        Roll.</p><p><em>How do they get in without revealing the pathway to the
+        attackers? Are any of the defenders monitoring this
+        path?</em></p><p><strong>Siege Weapons (Environment Change)</strong> -
+        Action:<br />Consequence Countdown (6). When it triggers, the
+        fortifications are breached and attackers flood inside. You gain 2 Fear
+        and shift to the Pitched Battle environment.</p><p><em>What siege
+        weapons are being deployed? Are they magical, mundane, or a mixture of
+        both? What defenses must the characters overcome to storm the
+        castle?</em></p><p><strong>Reinforcements!</strong> - Action:<br
+        />Summon a Knight of the Realm, Tier 3 Minions equal to PCs, and two
+        adversaries of your choice within Far range of a chosen PC. Knight takes
+        spotlight.</p><p><em>Who are they targeting first? What formation do
+        they take?</em></p><p><strong>Collateral Damage</strong> - Reaction:<br
+        />Spend a Fear after an adversary is defeated to trigger a stray siege
+        weapon attack. Targets within Very Close range roll
+        Agility.</p><ul><li>Failure: 3d8+3 damage + Stress</li><li>Success:
+        Stress</li></ul><p><em>What debris is scattered by the attack? What is
+        broken by the strike that can't be easily mended?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631486092
+      modifiedTime: 1752631500088
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!CcU4rljRLoNEoE5F.asmzZE4h5DvWnQ4e'
+  - sort: 300000
+    name: Pitched Battle
+    type: text
+    _id: gOou56GqcItkAnrL
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 3 Event</h1><p>A massive combat between two large groups of
+        armed combatants.<br /><strong>Impulses:</strong> Seize people, land,
+        and wealth, spill blood for greed and glory<br
+        /><strong>Difficulty:</strong> 17<br /><strong>Potential
+        Adversaries:</strong> Mercenaries (Sellsword, Harrier, Spellblade,
+        Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier,
+        Knight of the Realm)</p><h2>FEATURES</h2><p><strong>Adrift on a Sea of
+        Steel</strong> - Passive:<br />Traversing a battlefield requires an
+        Agility Roll to move. PCs in Melee range must mark a Stress to
+        roll.</p><p><em>Do the combatants mistake you for the enemy or consider
+        you interlopers? Can you tell the difference between friend and foe in
+        the fray?</em></p><p><strong>Raze and Pillage</strong> - Action:<br
+        />Attackers light fires, steal assets, kidnap people, or kill the
+        populace.</p><p><em>What is valuable here? Who is most
+        vulnerable?</em></p><p><strong>War Magic</strong> - Action:<br />Spend a
+        Fear as a mage unleashes destructive battlefield magic. Targets within
+        Close range roll Agility.</p><ul><li>Failure: 3d12+8 magic damage +
+        Stress</li><li>Success: Stress</li></ul><p><em>What form does the attack
+        take—fireball, raining acid, a storm of blades? What tactical objective
+        is this attack meant to accomplish, and what comes
+        next?</em></p><p><strong>Reinforcements!</strong> - Action:<br />Summon
+        a Knight of the Realm, Tier 3 Minions equal to PCs, and two adversaries
+        within Far range of a chosen PC. Knight takes spotlight.</p><p><em>Who
+        are they targeting first? What formation do they take?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631522414
+      modifiedTime: 1752631537476
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!CcU4rljRLoNEoE5F.gOou56GqcItkAnrL'
+folder: null
+categories: []
+sort: 0
+ownership:
+  default: 0
+  rXCci1o767VSg0C0: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.20
+  createdTime: 1752631387055
+  modifiedTime: 1752631387055
+  lastModifiedBy: rXCci1o767VSg0C0
+_key: '!journal!CcU4rljRLoNEoE5F'

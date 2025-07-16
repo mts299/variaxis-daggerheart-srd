@@ -1,0 +1,267 @@
+name: Tier 2
+_id: 3CvsgrJe83EpMkWI
+pages:
+  - sort: 100000
+    name: Cult Ritual
+    type: text
+    _id: 6oQT3VPyTatvWRFz
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 2 Event</h1><p>A Fallen cult assembles around a sigil of the
+        defeated gods and a bonfire that burns a sickly shade of green.<br
+        /><strong>Impulses:</strong> Profane the land, unite the Mortal Realm
+        with the Circles Below<br /><strong>Difficulty:</strong> 14<br
+        /><strong>Potential Adversaries:</strong> Cult of the Fallen (Cult
+        Adept, Cult Fang, Cult Initiate,
+        Secret-Keeper)</p><h2>FEATURES</h2><p><strong>Desecrated Ground</strong>
+        - Passive:<br />Cultists dedicated this place to the Fallen Gods, and
+        their foul influence seeps into it. Reduce the PCs' Hope Die to a d10
+        while in this environment. The desecration can be removed with a
+        Progress Countdown (6).</p><p><em>How do the PCs first notice that
+        something is wrong about this place? What fears resurface while hope is
+        kept at bay?</em></p><p><strong>Blasphemous Might</strong> - Action:<br
+        />A portion of the ritual’s power is diverted into a cult member to
+        fight off interlopers. Choose one adversary to become Imbued with
+        terrible magic until the scene ends or they’re defeated. An Imbued
+        adversary immediately takes the spotlight and gains one of the following
+        benefits, or all three if you spend a Fear:</p><ul><li>They gain
+        advantage on all attacks.</li><li>They deal an extra 1d10 damage on a
+        successful attack.</li><li>They gain the feature: <strong>Relentless
+        (2)</strong> - Passive. This adversary can be spotlighted up to two
+        times per GM turn.</li></ul><p><em>How does the enemy change in
+        appearance? What fears do their blows bring to the
+        surface?</em></p><p><strong>The Summoning</strong> - Reaction:<br
+        />Countdown (6). When the PCs enter the scene or the cult begins the
+        ritual to summon a demon, activate the countdown. Designate one
+        adversary to lead the ritual. The countdown ticks down when a PC rolls
+        with Fear. When it triggers, summon a Minor Demon within Very Close
+        range of the ritual’s leader. If the leader is defeated, the countdown
+        ends with no effect as the ritual fails.</p><p><em>What will the cult do
+        with this leashed demon if they succeed? What will they try to summon
+        next?</em></p><p><strong>Complete the Ritual</strong> - Reaction:<br
+        />If the ritual’s leader is targeted by an attack or spell, an ally
+        within Very Close range of them can mark a Stress to be targeted by that
+        attack or spell instead.</p><p><em>What does it feel like to see such
+        devotion turned to the pursuit of fear and domination?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631193274
+      modifiedTime: 1752631207856
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!3CvsgrJe83EpMkWI.6oQT3VPyTatvWRFz'
+  - sort: 200000
+    name: Hallowed Temple
+    type: text
+    _id: xg1vpp2prqU5uay3
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 2 Social</h1><p>A bustling but well-kept temple that provides
+        healing and hosts regular services, overseen by a priest or seraph.<br
+        /><strong>Impulses:</strong> Connect the Mortal Realm with the Hallows
+        Above, display the power of the divine, provide aid and succor to the
+        faithful<br /><strong>Difficulty:</strong> 13<br /><strong>Potential
+        Adversaries:</strong> Guards (Archer Guard, Bladed Guard, Head
+        Guard)</p><h2>FEATURES</h2><p><strong>A Place of Healing</strong> -
+        Passive:<br />A PC who takes a rest in the Hallowed Temple automatically
+        clears all HP.</p><p><em>What does the incense smell like? What kinds of
+        songs do the acolytes sing?</em></p><p><strong>Divine Guidance</strong>
+        - Passive:<br />A PC who prays to a deity while in the Hallowed Temple
+        can make an Instinct Roll to receive answers. If the god they beseech
+        isn't welcome in this temple, the roll is made with
+        disadvantage.</p><ul><li><strong>Critical Success:</strong> Gain clear
+        information and 1d4 Hope, which may be distributed if
+        shared.</li><li><strong>Success with Hope:</strong> Receive clear
+        information.</li><li><strong>Success with Fear:</strong> Receive brief
+        flashes and emotional impression.</li><li><strong>Failure:</strong>
+        Receive vague flashes, mark a Stress to gain one clear
+        image.</li></ul><p><em>What does it feel like as you are touched by this
+        vision? What feeling lingers after the images have
+        passed?</em></p><p><strong>Relentless Hope</strong> - Reaction:<br
+        />Once per scene, each PC can mark a Stress to turn a result with Fear
+        into a result with Hope.</p><p><em>What emotions or memories do you
+        connect with when fear presses in?</em></p><p><strong>Divine
+        Censure</strong> - Reaction:<br />Spend a Fear to summon a High Seraph
+        and 1d4 Bladed Guards near the senior priest to reinforce their
+        will.</p><p><em>What symbols or icons do they bear that signal they are
+        anointed agents of the divinity? Who leads the group and what led them
+        to this calling?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631253168
+      modifiedTime: 1752631271285
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!3CvsgrJe83EpMkWI.xg1vpp2prqU5uay3'
+  - sort: 300000
+    name: Haunted City
+    type: text
+    _id: AUMR5Asz61b2VqPB
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 2 Exploration</h1><p>An abandoned city populated by the
+        restless spirits of eras past.<br /><strong>Impulses:</strong> Misdirect
+        and disorient, replay apocalypses both public and personal<br
+        /><strong>Difficulty:</strong> 14<br /><strong>Potential
+        Adversaries:</strong> Ghosts (Spectral Archer, Spectral Captain,
+        Spectral Guardian), ghostly versions of other
+        adversaries</p><h2>FEATURES</h2><p><strong>Buried Knowledge</strong> -
+        Passive:<br />PCs can make Instinct or Knowledge Rolls to explore the
+        haunted history and uncover loot.</p><ul><li><strong>Critical
+        Success:</strong> Valuable info + useful item.</li><li><strong>Success
+        with Hope:</strong> Valuable info.</li><li><strong>Success with
+        Fear:</strong> Vague/incomplete info.</li><li><strong>Failure:</strong>
+        Mark Stress to find a lead.</li></ul><p><em>What greater secrets does
+        the city contain? Why have so many ghosts lingered here? What doomed
+        adventurers have met a bad fate here already?</em></p><p><strong>Ghostly
+        Form</strong> - Passive:<br />Adversaries have resistance to physical
+        damage and can mark Stress to move through solid objects.</p><p><em>What
+        injuries to their physical form speak to their cause of death? What
+        unfulfilled purpose holds them in the Mortal
+        Plane?</em></p><p><strong>Dead Ends</strong> - Action:<br />Ghosts
+        manifest illusions of past events, altering the city layout or mistaking
+        PCs as enemies.</p><p><em>What do the ghosts want from you? What do you
+        need from them?</em></p><p><strong>Apocalypse Then</strong> - Action:<br
+        />Spend a Fear to trigger a Progress Countdown (5) representing a past
+        disaster.</p><p><em>Is this the disaster that led the city to be
+        abandoned? What is known about this disaster, and how could that help
+        the PCs escape?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631293625
+      modifiedTime: 1752631309757
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!3CvsgrJe83EpMkWI.AUMR5Asz61b2VqPB'
+  - sort: 400000
+    name: Mountain Pass
+    type: text
+    _id: hgzyZVYmOvUQ4StX
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 2 Traversal</h1><p>Stony peaks that pierce the clouds, with a
+        twisting path winding its way up and over through many switchbacks.<br
+        /><strong>Impulses:</strong> Exact a chilling toll in supplies and
+        stamina, reveal magical tampering, slow down travel<br
+        /><strong>Difficulty:</strong> 15<br /><strong>Potential
+        Adversaries:</strong> Beasts (Bear, Giant Eagle, Glass Snake), Chaos
+        Skull, Minotaur Wrecker, Mortal
+        Hunter</p><h2>FEATURES</h2><p><strong>Engraved Sigils</strong> -
+        Passive:<br />Mountain markings increase icy wind’s effects. PCs with
+        relevant background recognize ridgeborne enchanters' work and may dispel
+        it.</p><p><em>Who laid this enchantment? Are they nearby? Why did they
+        want the weather to be more
+        daunting?</em></p><p><strong>Avalanche</strong> - Action:<br />Spend a
+        Fear to trigger an avalanche. PCs must succeed on Agility or Strength
+        Reaction Roll or be swept down and damaged.</p><p><em>How do the PCs try
+        to weather the avalanche? What approach do the characters take to find
+        one another when their companions go hurtling down the
+        mountainside?</em></p><p><strong>Raptor Nest</strong> - Reaction:<br
+        />Giant Eagles appear and target PCs as prey.</p><p><em>How long has it
+        been since the eagles last found prey? Do they have eggs in their nest,
+        or unfledged young?</em></p><p><strong>Icy Winds</strong> - Reaction:<br
+        />Countdown (Loop 4). When triggered, PCs must succeed on Strength
+        Reaction Roll or mark a Stress.</p><p><em>What parts of the PC's bodies
+        go numb first? How do they try to keep warm as they press
+        forward?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631328923
+      modifiedTime: 1752631345817
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!3CvsgrJe83EpMkWI.hgzyZVYmOvUQ4StX'
+folder: null
+categories: []
+sort: 0
+ownership:
+  default: 0
+  rXCci1o767VSg0C0: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.20
+  createdTime: 1752631186566
+  modifiedTime: 1752631186566
+  lastModifiedBy: rXCci1o767VSg0C0
+_key: '!journal!3CvsgrJe83EpMkWI'

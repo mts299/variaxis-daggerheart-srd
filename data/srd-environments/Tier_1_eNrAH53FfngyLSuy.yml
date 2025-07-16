@@ -1,0 +1,446 @@
+name: Tier 1
+_id: eNrAH53FfngyLSuy
+pages:
+  - sort: 100000
+    name: Abandoned Grove
+    type: text
+    _id: gV6Bk6Bv8RYJjnrU
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 1 Exploration</h1><p>A former druidic grove lying fallow and
+        fully reclaimed by nature. <br /><strong>Impulses:</strong> Draw in the
+        curious, echo the past<br /><strong>Difficulty:</strong> 11<br
+        /><strong>Potential Adversaries:</strong> Beasts (Bear, Dire Wolf, Glass
+        Snake), Grove Guardians (Minor Treant, Sylvan Soldier, Young
+        Dryad)</p><h2>FEATURES</h2><p><strong>Overgrown Battlefield</strong> -
+        Passive:<br />There has been a battle here. A PC can make an Instinct
+        Roll to identify evidence of that fight. On a success with Hope, learn
+        all three pieces of information below. On a success with Fear, learn
+        two. On a failure, a PC can mark a Stress to learn one and gain
+        advantage on the next action roll to investigate this environment. A PC
+        with an appropriate background or Experience can learn an additional
+        detail and ask a follow-up question about the scene and get a truthful
+        (if not always complete) answer.</p><ul><li>Traces of a battle (broken
+        weapons and branches, gouges in the ground) litter the ground.</li><li>A
+        moss-covered tree trunk is actually the corpse of a
+        treant.</li><li>Still-standing trees are twisted in strange ways, as if
+        by powerful magic.</li></ul><p><em>Why did these groups come to blows?
+        Why is the grove unused now?</em></p><p><strong>Barbed Vines</strong> -
+        Action:<br />Pick a point within the grove. All targets within Very
+        Close range of that point must succeed on an Agility Reaction Roll or
+        take 1d8+3 physical damage and become Restrained by barbed vines.
+        Restrained lasts until they're freed with a successful Finesse or
+        Strength roll or by dealing at least 6 damage to the
+        vines.</p><p><em>How many vines are there? Where do they grab you? Do
+        they pull you down or lift you off the ground?</em></p><p><strong>You
+        Are Not Welcome Here</strong> - Action:<br />A Young Dryad, two Sylvan
+        Soldiers, and a number of Minor Treants equal to the number of PCs
+        appear to confront the party for their intrusion.</p><p><em>What are the
+        grove guardians concealing? What threat to the forest could the PCs
+        confront to appease the Dryad?</em></p><p><strong>Defiler</strong> -
+        Action:<br />Spend a Fear to summon a Minor Chaos Elemental drawn to the
+        echoes of violence and discord. They appear within Far range of a chosen
+        PC and immediately take the spotlight.</p><p><em>What color does the
+        grass turn as the elemental appears? How does the chaos warp insects and
+        small wildlife within the grove?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752630825638
+      modifiedTime: 1752630841955
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!eNrAH53FfngyLSuy.gV6Bk6Bv8RYJjnrU'
+  - sort: 200000
+    name: Ambushed
+    type: text
+    _id: HSwQD7hIpsaGk5aM
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 1 Event</h1><p>An ambush is set to catch an unsuspecting party
+        off-guard.<br /><strong>Impulses:</strong> Overwhelm, scatter,
+        surround<br /><strong>Difficulty:</strong> Special (see "Relative
+        Strength")<br /><strong>Potential Adversaries:</strong>
+        Any</p><h2>FEATURES</h2><p><strong>Relative Strength</strong> -
+        Passive:<br />The Difficulty of this environment equals that of the
+        adversary with the highest Difficulty.</p><p><em>Who cues the ambush?
+        What makes it clear they're in
+        charge?</em></p><p><strong>Surprise!</strong> - Action:<br />The
+        ambushers reveal themselves to the party, you gain 2 Fear, and the
+        spotlight immediately shifts to one of the ambushing
+        adversaries.</p><p><em>What do the ambushers want from the party? How do
+        their tactics in the ambush reflect that?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752630869036
+      modifiedTime: 1752630884659
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!eNrAH53FfngyLSuy.HSwQD7hIpsaGk5aM'
+  - sort: 300000
+    name: Ambushers
+    type: text
+    _id: kEDJVoRIPE1D6KDI
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 1 Event</h1><p>An ambush is set by the PCs to catch
+        unsuspecting adversaries off-guard.<br /><strong>Impulses:</strong>
+        Escape, group up, protect the most vulnerable<br
+        /><strong>Difficulty:</strong> Special (see "Relative Strength")<br
+        /><strong>Potential Adversaries:</strong>
+        Any</p><h2>FEATURES</h2><p><strong>Relative Strength</strong> -
+        Passive:<br />The Difficulty of this environment equals that of the
+        adversary with the highest Difficulty.</p><p><em>Which adversary is the
+        least prepared? Which one is the most?</em></p><p><strong>Where Did They
+        Come From?</strong> - Reaction:<br />When a PC starts the ambush on
+        unsuspecting adversaries, you lose 2 Fear and the first attack roll a PC
+        makes has advantage.</p><p><em>What are the adversaries in the middle of
+        doing when the ambush starts? How does this impact their approach to the
+        fight?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752630913396
+      modifiedTime: 1752630921860
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!eNrAH53FfngyLSuy.kEDJVoRIPE1D6KDI'
+  - sort: 400000
+    name: Bustling Marketplace
+    type: text
+    _id: pPFBUhCkRYDcCKoU
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 1 Social</h1><p>The economic heart of the settlement, with
+        local artisans, traveling merchants, and patrons across social
+        classes.<br /><strong>Impulses:</strong> Buy low, and sell high, tempt
+        and tantalize with wares from near and far<br
+        /><strong>Difficulty:</strong> 10<br /><strong>Potential
+        Adversaries:</strong> Guards (Bladed Guard, Head Guard), Masked Thief,
+        Merchant</p><h2>FEATURES</h2><p><strong>Tip the Scales</strong> -
+        Passive:<br />PCs can gain advantage on a Presence Roll by offering a
+        handful of gold as part of the interaction.</p><p><em>Will any coin be
+        accepted, or only local currency? How overt are the PCs in offering this
+        bribe?</em></p><p><strong>Unexpected Find</strong> - Action:<br />Reveal
+        to the PCs that one of the merchants has something they want or
+        need.</p><p><em>What cost beyond gold will the merchant ask for in
+        exchange for this rarity?</em></p><p><strong>Sticky Fingers</strong> -
+        Action:<br />A thief tries to steal something from a PC. The PC must
+        succeed on an Instinct Roll to notice the thief or lose an item of the
+        GM's choice.</p><p><em>What drove this person to pickpocketing? Where is
+        the thief's hideout and how has it avoided
+        notice?</em></p><p><strong>Crowd Closes In</strong> - Reaction:<br
+        />When one of the PCs splits from the group, the crowds shift and cut
+        them off from the party.</p><p><em>Where does the crowd's movement carry
+        them? How do they feel about being alone but surrounded?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752630959355
+      modifiedTime: 1752630974862
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!eNrAH53FfngyLSuy.pPFBUhCkRYDcCKoU'
+  - sort: 500000
+    name: Cliffside Ascent
+    type: text
+    _id: zhdDMSJXmeZUPZI1
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 1 Traversal</h1><p>A steep, rocky cliffside tall enough to make
+        traversal dangerous.<br /><strong>Impulses:</strong> Cast the unready
+        down to a rocky doom, draw people in with promise of what lies at the
+        top<br /><strong>Difficulty:</strong> 12<br /><strong>Potential
+        Adversaries:</strong> Construct, Deeproot Defender, Giant Scorpion,
+        Glass Snake</p><h2>FEATURES</h2><p><strong>The Climb</strong> -
+        Passive:<br />Climbing up the cliffside uses a Progress Countdown (12).
+        It ticks down according to specific roll results.</p><p><em>What strange
+        formations are the stones arranged in? What ominous warnings did
+        previous adventurers leave?</em></p><p><strong>Pitons Left
+        Behind</strong> - Passive:<br />Previous climbers left metal rods that
+        aid ascent. A failed climb roll allows a PC to mark Stress instead of
+        ticking up the countdown.</p><p><em>What do the shape and material of
+        these pitons tell you about the previous climbers? How far apart are
+        they from one another?</em></p><p><strong>Fall</strong> - Action:<br
+        />Spend a Fear to have a PC’s handhold fail, sending them toward the
+        ground. Damage depends on the current countdown range.</p><p><em>How can
+        you tell many others have fallen here before? What lives in these walls
+        that might try to scare adventurers into falling for an easy
+        meal?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631004034
+      modifiedTime: 1752631017746
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!eNrAH53FfngyLSuy.zhdDMSJXmeZUPZI1'
+  - sort: 600000
+    name: Local Tavern
+    type: text
+    _id: NmGuKAZSKddfX9RC
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 1 Social</h1><p>A lively tavern that serves as the social hub
+        for its town.<br /><strong>Impulses:</strong> Provide opportunities for
+        adventurers, nurture community<br /><strong>Difficulty:</strong> 10<br
+        /><strong>Potential Adversaries:</strong> Guards (Bladed Guard, Head
+        Guard), Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster),
+        Merchant</p><h2>FEATURES</h2><p><strong>What's the Talk of the
+        Town?</strong> - Passive:<br />A PC may make a Presence Roll to gather
+        local gossip, rumors, or leads.</p><p><em>Who has what kind of
+        information? What gossip do the locals start spreading about the
+        PCs?</em></p><p><strong>Sing For Your Supper</strong> - Passive:<br />A
+        PC can perform for gold with a Presence Roll.</p><p><em>What piece do
+        you perform? What does that piece mean to you? When's the last time you
+        performed it for a crowd?</em></p><p><strong>Mysterious
+        Stranger</strong> - Action:<br />Introduce a cloaked figure watching
+        from a shadowed booth.</p><p><em>What do they want? What's their
+        impression of the PCs? What mannerisms or accessories do they
+        have?</em></p><p><strong>Someone Comes to Town</strong> - Action:<br
+        />Introduce an important NPC with a job or connection to a
+        PC.</p><p><em>Did they know the PCs were here? What do they want in this
+        town?</em></p><p><strong>Bar Fight!</strong> - Action:<br />Spend a Fear
+        to erupt the tavern into brawling chaos.</p><p><em>Who started the
+        fight? What will it take to stop it?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631041617
+      modifiedTime: 1752631056853
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!eNrAH53FfngyLSuy.NmGuKAZSKddfX9RC'
+  - sort: 700000
+    name: Outpost Town
+    type: text
+    _id: sCU9onG95ILl9c21
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 1 Social</h1><p>A small town on the outskirts of a nation or
+        region, close to a dungeon, tombs, or other adventuring destinations.<br
+        /><strong>Impulses:</strong> Drive the desperate to certain doom, profit
+        off of ragged hope<br /><strong>Difficulty:</strong> 12<br
+        /><strong>Potential Adversaries:</strong> Jagged Knife Bandits (Hexer,
+        Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief,
+        Merchant</p><h2>FEATURES</h2><p><strong>Rumors Abound</strong> -
+        Passive:<br />PCs can investigate regional rumors with a Presence Roll,
+        with varied outcomes.</p><p><em>What news do the PCs have that they
+        could pass along to curious travelers? What do the locals think about
+        these events?</em></p><p><strong>Society of the Broken Compass</strong>
+        - Passive:<br />An adventuring society boasts and gossips in a local
+        chapterhouse.</p><p><em>What boasts do the adventurers here make, and
+        which do you think are true?</em></p><p><strong>Rival Party</strong> -
+        Passive:<br />A competing adventuring group seeks the same treasure or
+        lead.</p><p><em>Which PC has a connection to one of the rival party
+        members? Do they approach the PC first or do they wait for the PC to
+        move?</em></p><p><strong>It'd Be a Shame If Something Happened to Your
+        Store</strong> - Action:<br />Crime bosses shake down a
+        store.</p><p><em>What trouble does it cause if the PCs
+        intervene?</em></p><p><strong>Wrong Place, Wrong Time</strong> -
+        Reaction:<br />Spend a Fear to spring a robbery attempt in a dark
+        alley.</p><p><em>What details show the party that these people are
+        desperate former adventurers?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631088528
+      modifiedTime: 1752631104561
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!eNrAH53FfngyLSuy.sCU9onG95ILl9c21'
+  - sort: 800000
+    name: Raging River
+    type: text
+    _id: TjIrAkL0dAyz7soP
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h1>Tier 1 Traversal</h1><p>A swift-moving river without a bridge
+        crossing, deep enough to sweep away most people.<br
+        /><strong>Impulses:</strong> Bar crossing, carry away the unready,
+        divide the land<br /><strong>Difficulty:</strong> 10<br
+        /><strong>Potential Adversaries:</strong> Beasts (Bear, Glass Snake),
+        Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow,
+        Sniper)</p><h2>FEATURES</h2><p><strong>Dangerous Crossing</strong> -
+        Passive:<br />Crossing the river uses a Progress Countdown (4). Failure
+        with Fear triggers “Undertow.”</p><p><em>Have any of the PCs forded
+        rivers like this before? Are any of them afraid of
+        drowning?</em></p><p><strong>Undertow</strong> - Action:<br />Spend a
+        Fear to target a PC in the undertow. On failure, they are swept and
+        become Vulnerable.</p><p><em>What trinkets and baubles lie along the
+        bottom of the riverbed? Do predators swim these
+        rivers?</em></p><p><strong>Patient Hunter</strong> - Action:<br />Spend
+        a Fear to summon a Glass Snake near a chosen PC.</p><p><em>What
+        treasures does the beast have in their burrow? What travelers have
+        already fallen victim to this predator?</em></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    ownership:
+      default: -1
+      rXCci1o767VSg0C0: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.346'
+      systemId: daggerheart
+      systemVersion: 2.10.20
+      createdTime: 1752631133018
+      modifiedTime: 1752631142631
+      lastModifiedBy: rXCci1o767VSg0C0
+    _key: '!journal.pages!eNrAH53FfngyLSuy.TjIrAkL0dAyz7soP'
+folder: null
+categories: []
+sort: 0
+ownership:
+  default: 0
+  rXCci1o767VSg0C0: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.10.20
+  createdTime: 1752630794752
+  modifiedTime: 1752630794752
+  lastModifiedBy: rXCci1o767VSg0C0
+_key: '!journal!eNrAH53FfngyLSuy'
