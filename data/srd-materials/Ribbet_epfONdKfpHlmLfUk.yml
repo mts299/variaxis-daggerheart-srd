@@ -19,7 +19,7 @@ system:
     after about 6 to 7 years, grow into amphibians that can move around on land.
     Ribbets live for approximately 100 years.</span></p>
   category: Ancestry
-  rarity: Ribbet
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -36,7 +36,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945224751
+  modifiedTime: 1753951679283
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

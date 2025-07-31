@@ -18,7 +18,7 @@ system:
     generations, though in rare cases, a drakona's elemental power will differ
     from the rest of their family's.</span></p>
   category: Ancestry
-  rarity: Drakona
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -35,7 +35,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945778171
+  modifiedTime: 1753951736409
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

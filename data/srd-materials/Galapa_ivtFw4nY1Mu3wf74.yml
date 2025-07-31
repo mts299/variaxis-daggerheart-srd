@@ -18,7 +18,7 @@ system:
     painful. Most galapa move slowly no matter their age, and they can live
     approximately 150 years.</p>
   category: Ancestry
-  rarity: Galapa
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -35,7 +35,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945471466
+  modifiedTime: 1753951708870
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

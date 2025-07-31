@@ -2,28 +2,25 @@ name: Orderborne
 type: community
 folder: JKK1U2Q9eeUWaXKy
 _id: 586HjQjVUzmU90eA
-img: icons/svg/item-bag.svg
+img: modules/daggerheart-srd/assets/communities/orderborne.svg
 system:
   description: >-
-    <p>Being part of an orderborne community means you're from a collective that
-    focuses on discipline or faith, and you uphold a set of principles that
-    reflect your experience there. <span class="og-omit">Orderborne are
-    frequently some of the most powerful among the surrounding communities. By
-    aligning the members of their society around a common value or goal, such as
-    a god, doctrine, ethos, or even a shared business or trade, the ruling
-    bodies of these enclaves can mobilize larger populations with less effort.
-    While orderborne communities take a variety of forms—some even profoundly
-    pacifistic—perhaps the most feared are those that structure themselves
-    around military prowess. In such a case, it's not uncommon for orderborne to
-    provide soldiers for hire to other cities or
-    countries.</span></p><p><em>Orderborne are often ambitious, benevolent,
-    pensive, prudent, sardonic, and stoic.</em></p><h4 class="h6">Community
-    Feature</h4><p><em><strong>Dedicated:</strong></em> Record three sayings or
-    values your upbringing instilled in you. Once per rest, when you describe
-    how you're embodying one of these principles through your current action,
-    you can roll a <strong>d20</strong> as your Hope Die.</p>
-  category: ''
-  rarity: ''
+    <blockquote><p>Orderborne are often ambitious, benevolent, pensive, prudent,
+    sardonic, and
+    stoic.</p></blockquote><h2>Features</h2><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.SG88ITjhQztrleP8]{Dedicated}</p><h2>Description</h2><p>Being
+    part of an orderborne community means you're from a collective that focuses
+    on discipline or faith, and you uphold a set of principles that reflect your
+    experience there. <span class="og-omit">Orderborne are frequently some of
+    the most powerful among the surrounding communities. By aligning the members
+    of their society around a common value or goal, such as a god, doctrine,
+    ethos, or even a shared business or trade, the ruling bodies of these
+    enclaves can mobilize larger populations with less effort. While orderborne
+    communities take a variety of forms—some even profoundly pacifistic—perhaps
+    the most feared are those that structure themselves around military prowess.
+    In such a case, it's not uncommon for orderborne to provide soldiers for
+    hire to other cities or countries.</span></p>
+  category: Community
+  rarity: SRD
   location: community
   quantity: 1
   weight: 0
@@ -36,11 +33,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1753957459735
+  lastModifiedBy: GHK9xQYeYjLhONPd
 sort: 0
 ownership:
   default: 0

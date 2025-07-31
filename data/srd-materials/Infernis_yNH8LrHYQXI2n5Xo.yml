@@ -28,7 +28,7 @@ system:
     their height. On average, infernis live up to 350 years, with some
     attributing this lifespan to their demonic lineage.</p>
   category: Ancestry
-  rarity: Infernis
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -45,7 +45,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945319081
+  modifiedTime: 1753951689516
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

@@ -1,0 +1,39 @@
+name: Dedicated
+type: item
+folder: 15Lcf1EDiuFg76At
+_id: SG88ITjhQztrleP8
+img: modules/daggerheart-srd/assets/communities/orderborne.svg
+system:
+  description: >-
+    <p>Record three sayings or values your upbringing instilled in you. Once per
+    <a href="https://callmepartario.github.io/og-dhsrd/#define-downtime"
+    data-bs-original-title>rest</a>, when you describe how you're embodying one
+    of these principles through your current action, you can roll a
+    <strong>d20</strong> as your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>Hope Die</a>.</p>
+  category: Community Feat
+  rarity: Orderborne
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753950216104
+  modifiedTime: 1753957463448
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!SG88ITjhQztrleP8'

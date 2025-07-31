@@ -17,7 +17,7 @@ system:
     smell, and can often detect those who are familiar to them by the sound of
     their movements.</span></p>
   category: Ancestry
-  rarity: Halfling
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -34,7 +34,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945384258
+  modifiedTime: 1753951696951
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

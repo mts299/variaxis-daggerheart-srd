@@ -25,7 +25,7 @@ system:
     appearance changes over time. Because elves live for about 350 years, these
     traits can shift more than once throughout their lifespan.</span></p>
   category: Ancestry
-  rarity: Elf
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -42,7 +42,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945697695
+  modifiedTime: 1753951728330
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

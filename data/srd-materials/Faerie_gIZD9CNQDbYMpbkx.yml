@@ -19,7 +19,7 @@ system:
     the unique appearance they will carry throughout the rest of their
     approximately 50-year lifespan.</p>
   category: Ancestry
-  rarity: Faerie
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -36,7 +36,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945637697
+  modifiedTime: 1753951724042
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

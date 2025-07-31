@@ -1,0 +1,38 @@
+name: Nomadic Pack
+type: item
+folder: fav1s8VFmjSVL2gC
+img: modules/daggerheart-srd/assets/communities/wanderborne.svg
+system:
+  description: >-
+    <p>Add a <em><strong>Nomadic Pack</strong></em> to your inventory. Once per
+    session, you can <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title><strong>spend a Hope</strong></a> to reach into this
+    pack and pull out a mundane item that's useful to your situation. Work with
+    the GM to figure out what item you take out.</p>
+  category: Community Feat
+  rarity: Wanderborne
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753950327121
+  modifiedTime: 1753957633832
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: OtqhUUpnFjyL0Dh6
+sort: 0
+_key: '!items!OtqhUUpnFjyL0Dh6'

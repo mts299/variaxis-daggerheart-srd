@@ -16,7 +16,7 @@ system:
     age of about 100, with their bodies changing dramatically between their
     youngest and oldest years.</p>
   category: Ancestry
-  rarity: Human
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -33,7 +33,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945363154
+  modifiedTime: 1753951693078
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

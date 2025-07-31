@@ -19,7 +19,7 @@ system:
     they often style in elaborate arrangements. Typically, dwarves live up to
     250 years of age, maintaining their muscle mass well into later life.</p>
   category: Ancestry
-  rarity: Dwarf
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -36,7 +36,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753944965187
+  modifiedTime: 1753951732491
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

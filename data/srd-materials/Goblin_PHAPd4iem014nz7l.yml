@@ -18,7 +18,7 @@ system:
     goblin's lifespan is roughly 100 years, and many maintain their keen hearing
     and sight well into advanced age.</span></p>
   category: Ancestry
-  rarity: Goblin
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -35,7 +35,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945420727
+  modifiedTime: 1753951701225
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

@@ -2,26 +2,25 @@ name: Loreborne
 type: community
 folder: JKK1U2Q9eeUWaXKy
 _id: 896xwZeuo1tnx6Mk
-img: icons/svg/item-bag.svg
+img: modules/daggerheart-srd/assets/communities/loreborne.svg
 system:
   description: >-
-    <p>Being part of a loreborne community means you're from a society that
-    favors strong academic or political prowess. <span class="og-omit">Loreborne
-    communities highly value knowledge, frequently in the form of historical
-    preservation, political advancement, scientific study, skill development, or
-    lore and mythology compilation. Most members of these communities research
-    in institutions built in bastions of civilization, while some eclectic few
+    <blockquote><p>Loreborne are often direct, eloquent, inquisitive, patient,
+    rhapsodic, and
+    witty.</p></blockquote><h2>Features</h2><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.TlPIkXJj8u1gjOGG]{Well-Read}</p><h2>Description</h2><p>Being
+    part of a loreborne community means you're from a society that favors strong
+    academic or political prowess. <span class="og-omit">Loreborne communities
+    highly value knowledge, frequently in the form of historical preservation,
+    political advancement, scientific study, skill development, or lore and
+    mythology compilation. Most members of these communities research in
+    institutions built in bastions of civilization, while some eclectic few
     thrive in gathering information from the natural world. Some may be
     isolationists, operating in smaller enclaves, schools, or guilds and
     following their own unique ethos. Others still wield their knowledge on a
     larger scale, making deft political maneuvers across governmental
-    landscapes.</span></p><p><em>Loreborne are often direct, eloquent,
-    inquisitive, patient, rhapsodic, and witty.</em></p><h4 class="h6">Community
-    Feature</h4><p><em><strong>Well-Read:</strong></em> You have advantage on
-    rolls that involve the history, culture, or politics of a prominent person
-    or place.</p>
-  category: ''
-  rarity: ''
+    landscapes.</span></p>
+  category: Community
+  rarity: SRD
   location: community
   quantity: 1
   weight: 0
@@ -34,11 +33,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1753957428948
+  lastModifiedBy: GHK9xQYeYjLhONPd
 sort: 0
 ownership:
   default: 0

@@ -16,7 +16,7 @@ system:
     Those with a single eye are commonly known as cyclops. The average giant
     lifespan is about 75 years.</span></p>
   category: Ancestry
-  rarity: Giant
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -33,7 +33,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945444292
+  modifiedTime: 1753951705169
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

@@ -19,7 +19,7 @@ system:
     chemically exchange information with other fungril across long
     distances.</span></p>
   category: Ancestry
-  rarity: Fungril
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -36,7 +36,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945527550
+  modifiedTime: 1753951712628
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

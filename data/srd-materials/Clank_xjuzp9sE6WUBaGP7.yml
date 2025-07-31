@@ -22,7 +22,7 @@ system:
     effectively immortal. That said, their minds are subject to the effects of
     time, and deteriorate as the magic that powers them loses potency.</p>
   category: 'Ancestry '
-  rarity: Clank
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -39,7 +39,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945031957
+  modifiedTime: 1753951671599
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

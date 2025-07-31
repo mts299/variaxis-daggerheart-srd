@@ -1,0 +1,42 @@
+name: Know the Tide
+type: item
+folder: ieRgL3NeXNgCs6qU
+img: modules/daggerheart-srd/assets/communities/seaborne.svg
+system:
+  description: >-
+    <p>You can sense the ebb and flow of life. When you <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>roll with Fear</a>, place a token on your community
+    card. You can hold a number of tokens equal to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-level"
+    data-bs-original-title>level</a>. Before you make an <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>action roll</a>, you can spend any number of these
+    tokens to gain a +1 bonus to the roll for each token spent. At the end of
+    each session, clear all unspent tokens.</p>
+  category: Community Feat
+  rarity: Seaborne
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753950261684
+  modifiedTime: 1753957541232
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: hjFgIG0Xc8La5TdO
+sort: 0
+_key: '!items!hjFgIG0Xc8La5TdO'

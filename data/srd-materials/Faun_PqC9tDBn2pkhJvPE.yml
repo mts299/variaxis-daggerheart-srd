@@ -20,7 +20,7 @@ system:
     years, and as they age, their appearance can become increasingly
     goatlike.</p>
   category: Ancestry
-  rarity: Faun
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -37,7 +37,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945600013
+  modifiedTime: 1753951720340
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

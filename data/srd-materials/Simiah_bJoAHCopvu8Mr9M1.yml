@@ -19,7 +19,7 @@ system:
     from bipedal movement to knuckle-walking and climbing, and back again. On
     average, simiah live for about 100 years.</span></p>
   category: Ancestry
-  rarity: Simiah
+  rarity: SRD
   location: ancestry
   quantity: 1
   weight: 0
@@ -36,7 +36,7 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
-  modifiedTime: 1753945190840
+  modifiedTime: 1753951668210
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0
