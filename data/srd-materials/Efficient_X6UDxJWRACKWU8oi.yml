@@ -1,0 +1,37 @@
+name: Efficient
+type: item
+folder: uwrZGXqoemtdc5zZ
+_id: X6UDxJWRACKWU8oi
+img: modules/daggerheart-srd/assets/ancestry/clank.svg
+system:
+  description: >-
+    <p>When you take a <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-short-rest"
+    data-bs-original-title>short rest</a>, you can choose a <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-long-rest"
+    data-bs-original-title>long rest</a> move instead of a short rest move.</p>
+  category: Ancestry Feat
+  rarity: Clank
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946323781
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!X6UDxJWRACKWU8oi'

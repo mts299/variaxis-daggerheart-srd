@@ -1,0 +1,35 @@
+name: Celestial Trance
+type: item
+folder: yMznhwt7JcInf4TP
+_id: pU9WCuEaHMVssDMD
+img: modules/daggerheart-srd/assets/ancestry/elf.svg
+system:
+  description: >-
+    <p>During a rest, you can drop into a trance to choose an additional <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-downtime"
+    data-bs-original-title>downtime move</a> .</p>
+  category: Ancestry Feat
+  rarity: Elf
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946431383
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!pU9WCuEaHMVssDMD'

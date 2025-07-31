@@ -1,0 +1,38 @@
+name: Natural Climber
+type: item
+folder: FQJwpTUySeykaQqe
+_id: cAl3mfV28X2TTg2q
+img: modules/daggerheart-srd/assets/ancestry/simah.svg
+system:
+  description: >-
+    <p>You have <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-advantage"
+    data-bs-original-title>advantage</a> on <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-trait-roll"
+    data-bs-original-title>Agility Rolls</a> that involve balancing and
+    climbing.</p>
+  category: Ancestry Feat
+  rarity: Simiah
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946807711
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!cAl3mfV28X2TTg2q'

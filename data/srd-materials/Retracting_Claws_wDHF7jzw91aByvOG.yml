@@ -1,0 +1,41 @@
+name: Retracting Claws
+type: item
+folder: OKXVysBwiAiXKVBk
+_id: wDHF7jzw91aByvOG
+img: modules/daggerheart-srd/assets/ancestry/katari.svg
+system:
+  description: >-
+    <p>Make an <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-trait-roll"
+    data-bs-original-title><strong>Agility Roll</strong></a> to scratch a target
+    within <a href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Melee</a> range. On a success, they become <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-temporary"
+    data-bs-original-title>temporarily</a> <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-condition"
+    data-bs-original-title><em>Vulnerable</em></a>.</p>
+  category: Ancestry Feat
+  rarity: Katari
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946744786
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!wDHF7jzw91aByvOG'

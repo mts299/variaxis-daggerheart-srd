@@ -1,0 +1,44 @@
+name: Elemental Breath
+type: item
+folder: 5sb1QSrD9PxwPUpa
+_id: YOwGjb8eCCSXWOx5
+img: modules/daggerheart-srd/assets/ancestry/drakona.svg
+system:
+  description: >-
+    <p>Choose an element for your breath (such as electricity, fire, or ice).
+    You can use this breath against a target or group of targets within <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Very Close</a> range, treating it as an <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-instinct"
+    data-bs-original-title>Instinct</a> <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-weapon"
+    data-bs-original-title>weapon</a> that deals <strong>d8</strong> <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-damage-type"
+    data-bs-original-title>magic damage</a> using your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-damage-roll"
+    data-bs-original-title>Proficiency</a>.</p>
+  category: Ancestry Feat
+  rarity: Drakona
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946350711
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!YOwGjb8eCCSXWOx5'

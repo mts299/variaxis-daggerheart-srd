@@ -1,0 +1,37 @@
+name: Internal Compass
+type: item
+folder: AxOrC7tLHgc3zGE0
+_id: OlJ8CCOW8h2b6qZI
+img: modules/daggerheart-srd/assets/ancestry/halfling.svg
+system:
+  description: >-
+    <p>When you roll a 1 on your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>Hope Die</a>, you can <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-reroll"
+    data-bs-original-title>reroll</a> it.</p>
+  category: Ancestry Feat
+  rarity: Halfling
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946672936
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!OlJ8CCOW8h2b6qZI'

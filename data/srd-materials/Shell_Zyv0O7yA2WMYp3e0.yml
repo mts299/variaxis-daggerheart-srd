@@ -1,0 +1,37 @@
+name: Shell
+type: item
+folder: MtL2a1xZ5wuZnzDL
+_id: Zyv0O7yA2WMYp3e0
+img: modules/daggerheart-srd/assets/ancestry/galapa.svg
+system:
+  description: >-
+    <p>Gain a bonus to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hit-point"
+    data-bs-original-title>damage thresholds</a> equal to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-damage-roll"
+    data-bs-original-title>Proficiency</a>.</p>
+  category: Ancestry Feat
+  rarity: Galapa
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946582494
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!Zyv0O7yA2WMYp3e0'

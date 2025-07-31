@@ -1,0 +1,40 @@
+name: Wings
+type: item
+folder: y8tBVglddFZzsn5H
+_id: kCnwd72qbHPOzEBQ
+img: modules/daggerheart-srd/assets/ancestry/faerie.svg
+system:
+  description: >-
+    <p>You can fly. While flying, you can <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-stress"
+    data-bs-original-title><strong>mark a Stress</strong></a> after an <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-adversary"
+    data-bs-original-title>adversary</a> makes an attack against you to gain a
+    +2 bonus to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-evasion"
+    data-bs-original-title>Evasion</a> against that attack.</p>
+  category: Ancestry Feat
+  rarity: Faerie
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946484170
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!kCnwd72qbHPOzEBQ'

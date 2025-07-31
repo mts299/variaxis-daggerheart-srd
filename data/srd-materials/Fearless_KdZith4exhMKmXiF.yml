@@ -1,0 +1,38 @@
+name: Fearless
+type: item
+folder: 66FbrIKVw9Y9SlwR
+_id: KdZith4exhMKmXiF
+img: modules/daggerheart-srd/assets/ancestry/infernis.svg
+system:
+  description: >-
+    <p>When you <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>roll with Fear</a>, you can <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-stress"
+    data-bs-original-title><strong>mark 2 Stress</strong></a> to change it into
+    a roll with Hope instead.</p>
+  category: Ancestry Feat
+  rarity: Infernis
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946724721
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!KdZith4exhMKmXiF'

@@ -1,0 +1,37 @@
+name: Nimble
+type: item
+folder: FQJwpTUySeykaQqe
+_id: VguZRdtxQ3iM611m
+img: modules/daggerheart-srd/assets/ancestry/simah.svg
+system:
+  description: >-
+    <p>Gain a permanent +1 bonus to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-evasion"
+    data-bs-original-title>Evasion</a> at <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-character-creation"
+    data-bs-original-title>character creation</a>.</p>
+  category: Ancestry Feat
+  rarity: Simiah
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946812064
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!VguZRdtxQ3iM611m'

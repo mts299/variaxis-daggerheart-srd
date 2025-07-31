@@ -1,0 +1,32 @@
+name: Luckbringer
+type: item
+folder: AxOrC7tLHgc3zGE0
+_id: XepNmwqAknI23umz
+img: modules/daggerheart-srd/assets/ancestry/halfling.svg
+system:
+  description: <p>At the start of each session, everyone in your party gains a Hope.</p>
+  category: Ancestry Feat
+  rarity: Halfling
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946678098
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!XepNmwqAknI23umz'

@@ -1,0 +1,32 @@
+name: Amphibious
+type: item
+folder: 8uA17W2PLDFQyvfY
+_id: EpSi9rtjU9QqxdBs
+img: modules/daggerheart-srd/assets/ancestry/ribbet.svg
+system:
+  description: <p>You can breathe and move naturally underwater.</p>
+  category: Ancestry Feat
+  rarity: Ribbit
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946787146
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!EpSi9rtjU9QqxdBs'

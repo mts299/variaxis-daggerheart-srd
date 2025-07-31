@@ -1,0 +1,39 @@
+name: Luckbender
+type: item
+folder: y8tBVglddFZzsn5H
+_id: eKO7Yfqa5VAfqc61
+img: modules/daggerheart-srd/assets/ancestry/faerie.svg
+system:
+  description: >-
+    <p>Once per session, after you or a willing ally within <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Close</a> range makes an action roll, you can spend 3
+    Hope to <a href="https://callmepartario.github.io/og-dhsrd/#define-reroll"
+    data-bs-original-title>reroll</a> the <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>Duality Dice</a>.</p>
+  category: Ancestry Feat
+  rarity: Faerie
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946477060
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!eKO7Yfqa5VAfqc61'

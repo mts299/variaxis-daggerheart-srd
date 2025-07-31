@@ -1,0 +1,37 @@
+name: Sturdy
+type: item
+folder: ACAFbvK8ljzxWUAT
+_id: 1xCRnUdcPJdgowau
+img: modules/daggerheart-srd/assets/ancestry/orc.svg
+system:
+  description: >-
+    <p>When you have 1 <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hit-point"
+    data-bs-original-title>Hit Point</a> remaining, attacks against you have <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-advantage"
+    data-bs-original-title>disadvantage</a>.</p>
+  category: Ancestry Feat
+  rarity: Orc
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946766362
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!1xCRnUdcPJdgowau'

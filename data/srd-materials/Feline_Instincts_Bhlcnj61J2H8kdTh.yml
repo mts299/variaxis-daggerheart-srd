@@ -1,0 +1,41 @@
+name: Feline Instincts
+type: item
+folder: OKXVysBwiAiXKVBk
+_id: Bhlcnj61J2H8kdTh
+img: modules/daggerheart-srd/assets/ancestry/katari.svg
+system:
+  description: >-
+    <p>When you make an <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-trait-roll"
+    data-bs-original-title>Agility Roll</a>, you can <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title><strong>spend 2 Hope</strong></a> to <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-reroll"
+    data-bs-original-title>reroll</a> your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>Hope Die</a>.</p>
+  category: Ancestry Feat
+  rarity: Katari
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946740437
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!Bhlcnj61J2H8kdTh'

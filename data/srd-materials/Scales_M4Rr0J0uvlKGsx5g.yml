@@ -1,0 +1,39 @@
+name: Scales
+type: item
+folder: 5sb1QSrD9PxwPUpa
+_id: M4Rr0J0uvlKGsx5g
+img: modules/daggerheart-srd/assets/ancestry/drakona.svg
+system:
+  description: >-
+    <p>Your scales act as natural protection. When you would take <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hit-point"
+    data-bs-original-title>Severe</a> damage, you can <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-stress"
+    data-bs-original-title><strong>mark a Stress</strong></a> to mark 1 fewer <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hit-point"
+    data-bs-original-title>Hit Points</a>.</p>
+  category: Ancestry Feat
+  rarity: Drakona
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946356883
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!items!M4Rr0J0uvlKGsx5g'
