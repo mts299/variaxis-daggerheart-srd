@@ -3,9 +3,7 @@ type: armor
 folder: 9rKEf6zETnYYz9IO
 img: icons/equipment/chest/vest-leather-brown.webp
 system:
-  description: >-
-    <p>Base Thresholds:<span class="og-divider"> 6/13</span> </p><p>Base Armor
-    Score<span class="og-divider">: 3</span></p>
+  description: <p>-</p>
   category: Armor
   tier: Tier 1
   location: backpack
@@ -29,8 +27,8 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754058615496
-  modifiedTime: 1754058615496
-  lastModifiedBy: PBdPE9squMuZKhHK
+  modifiedTime: 1754080049722
+  lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 2
   GURa9Tm6QJyl1rY7: 3

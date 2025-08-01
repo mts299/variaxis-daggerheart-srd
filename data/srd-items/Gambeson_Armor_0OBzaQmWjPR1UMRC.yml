@@ -2,8 +2,8 @@ name: Gambeson Armor
 type: armor
 system:
   description: >-
-    <p>Base Thresholds: 5/11</p><p>Base Armor Score: 3</p><p><span
-    class="og-divider og-wrap"><em>Flexible:</em> +1 to </span>Evasion</p>
+    <p><span class="og-divider og-wrap"><em>Flexible:</em> +1 to
+    </span>Evasion</p>
   category: Armor
   tier: Tier 1
   location: backpack
@@ -29,8 +29,8 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754058614343
-  modifiedTime: 1754058614343
-  lastModifiedBy: PBdPE9squMuZKhHK
+  modifiedTime: 1754080076499
+  lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 2
   GURa9Tm6QJyl1rY7: 3

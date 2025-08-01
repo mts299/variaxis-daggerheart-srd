@@ -3,9 +3,7 @@ type: armor
 folder: 9rKEf6zETnYYz9IO
 img: icons/equipment/chest/breastplate-scale-grey.webp
 system:
-  description: >-
-    <p>Base Thresholds: 7/15</p><p>Base Armor Score: 4</p><p><span
-    class="og-divider og-wrap"><em>Heavy:</em> −1 to</span> Evasion</p>
+  description: <p><span class="og-divider og-wrap"><em>Heavy:</em> −1 to</span> Evasion</p>
   category: Armor
   tier: Tier 1
   location: backpack
@@ -29,8 +27,8 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754058611313
-  modifiedTime: 1754058611313
-  lastModifiedBy: PBdPE9squMuZKhHK
+  modifiedTime: 1754080101082
+  lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 2
   GURa9Tm6QJyl1rY7: 3

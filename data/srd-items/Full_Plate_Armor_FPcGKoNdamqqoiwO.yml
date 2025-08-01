@@ -4,9 +4,8 @@ folder: 9rKEf6zETnYYz9IO
 img: icons/equipment/chest/breastplate-layered-grey.webp
 system:
   description: >-
-    <p>Base Thresholds: 8/17</p><p>Base Armor Score: 4</p><p><span
-    class="og-divider og-wrap"><em>Very Heavy:</em> −2 to</span> Evasion; <span
-    class="og-divider og-wrap"> −2 to</span> Agility</p>
+    <p><span class="og-divider og-wrap"><em>Very Heavy:</em> −2 to</span>
+    Evasion; <span class="og-divider og-wrap">−2 to</span> Agility</p>
   category: Armor
   tier: Tier 1
   location: backpack
@@ -35,8 +34,8 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754058613261
-  modifiedTime: 1754058613261
-  lastModifiedBy: PBdPE9squMuZKhHK
+  modifiedTime: 1754080090111
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: FPcGKoNdamqqoiwO
 sort: 0
 _key: '!items!FPcGKoNdamqqoiwO'
