@@ -1,16 +1,17 @@
 name: Midnight
 type: domain
 folder: CkTKhe4hp0YLzCnS
-img: systems/daggerheart/assets/domains/midnight.svg
+img: modules/daggerheart-srd/assets/domains/midnight.svg
 system:
   description: >-
-    <h1>Shadows and secrecy.</h1><p>Whether by clever tricks, deft magic, or the
+    <h2>Shadows and Secrecy</h2><p>Whether by clever tricks, deft magic, or the
     cloak of night, those who channel these forces practice the art of obscurity
     and can uncover sequestered treasures. Midnight offers practitioners the
-    power to control and create enigmas.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.49g9PNReuFMOh7SY]{Rogue},
-    @UUID[Compendium.world.classes.Item.UDU4lOKJqdPHH5FI]{Sorcerer}</em></p><p></p><table><tbody><tr><td
-    data-colwidth="104"><p>Level</p></td><td><p>Midnight Domain
+    power to control and create
+    enigmas.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.ueIaRGO8pa6fT3lY]{Rogue}
+    @UUID[Compendium.daggerheart-srd.srd-materials.Item.WZ06sVt5NcHcdVZ5]{Sorcerer}</p><h4>Domain
+    Deck:</h4><table><tbody><tr><td
+    data-colwidth="104"><p>Level</p></td><td><p>Domain
     Cards</p></td></tr><tr><td data-colwidth="104"><p>1</p></td><td><ul
     class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-pick-and-pull"
@@ -88,8 +89,8 @@ system:
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-specter-of-the-dark"
     data-bs-original-title>Specter Of The
     Dark</a></li></ul></td></tr></tbody></table>
-  category: ''
-  rarity: ''
+  category: Domain
+  rarity: SRD
   location: abilities
   quantity: 1
   weight: 0
@@ -102,11 +103,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1754078135514
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: kt8Ue5ykLD9Yee8a
 sort: 0
 ownership:

@@ -8,8 +8,8 @@ system:
     Close range would take damage, you can mark a Stress to take the damage
     instead. You can then mark any number of Armor Slots to reduce the severity
     of the damage.</p>
-  category: ''
-  rarity: ''
+  category: Domain Card
+  rarity: Valor
   location: abilities
   quantity: 1
   weight: 0
@@ -27,10 +27,10 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
+  systemVersion: 2.11.1
   createdTime: 1752018997572
-  modifiedTime: 1752018997641
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  modifiedTime: 1753964472774
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: LVKI35RDVIGUKGrp
 sort: 200000
 _key: '!items!LVKI35RDVIGUKGrp'

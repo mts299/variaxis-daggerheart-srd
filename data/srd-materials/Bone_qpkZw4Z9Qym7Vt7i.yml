@@ -1,18 +1,19 @@
 name: Bone
 type: domain
 folder: CkTKhe4hp0YLzCnS
-img: systems/daggerheart/assets/domains/bone.svg
+img: modules/daggerheart-srd/assets/domains/bone.svg
 system:
   description: >-
-    <h1>Tactics and the body.</h1><p>Practitioners of this domain have an
-    uncanny control over their own physical abilities and an eye for predicting
-    the behaviors of others in combat. Adherents to Bone gain an unparalleled
-    understanding of bodies and their movements.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.b9ZMeNlo1qDaZZ3i]{Ranger},
-    @UUID[Compendium.world.classes.Item.gdnM1OqISc4ASFj8]{Warrior}</em></p><p></p><table><tbody><tr><td
-    data-colwidth="65"><p>Level</p></td><td><p>Bone Domain
-    Cards</p></td></tr><tr><td data-colwidth="65"><p>1</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    <h2>Tactics and the Body</h2><p>Practitioners of this domain have an uncanny
+    control over their own physical abilities and an eye for predicting the
+    behaviors of others in combat. Adherents to Bone gain an unparalleled
+    understanding of bodies and their
+    movements.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.9tpicQBdcAApd01G]{Ranger}
+    @UUID[Compendium.daggerheart-srd.srd-materials.Item.CkAjanKeKIQcSfky]{Warrior}</p><h4>Domain
+    Deck:</h4><table><tbody><tr><td
+    data-colwidth="65"><p>Level</p></td><td><p>Domain Cards</p></td></tr><tr><td
+    data-colwidth="65"><p>1</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-deft-maneuvers"
     data-bs-original-title>Deft Maneuvers</a></li><li
     class="list-inline-item"><a class="og-nowrap"
@@ -84,8 +85,8 @@ system:
     class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-swift-step"
     data-bs-original-title>Swift Step</a></li></ul></td></tr></tbody></table>
-  category: ''
-  rarity: ''
+  category: Domain
+  rarity: SRD
   location: abilities
   quantity: 1
   weight: 0
@@ -98,11 +99,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1754078209121
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: qpkZw4Z9Qym7Vt7i
 sort: 0
 ownership:

@@ -1,7 +1,7 @@
 name: Druid
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: icons/svg/oak.svg
+img: modules/daggerheart-srd/assets/classes/druid.svg
 system:
   description: >-
     <p>Becoming a druid is more than an occupation; it's a calling for those who
@@ -36,8 +36,8 @@ system:
     harmless, subtle effects that involve nature—such as causing a flower to
     rapidly grow, summoning a slight gust of wind, or starting a campfire—at
     will.</p></li></ul>
-  category: ''
-  rarity: ''
+  category: Class
+  rarity: SRD
   location: class
   quantity: 1
   weight: 0
@@ -50,11 +50,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1753978156234
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: i8J9eTZHWpbm2ZAL
 sort: 0
 ownership:

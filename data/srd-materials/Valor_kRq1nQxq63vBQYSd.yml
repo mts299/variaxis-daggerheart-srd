@@ -1,17 +1,18 @@
 name: Valor
 type: domain
 folder: CkTKhe4hp0YLzCnS
-img: systems/daggerheart/assets/domains/valor.svg
+img: modules/daggerheart-srd/assets/domains/valor.svg
 system:
   description: >-
-    <h1>Protection.</h1><p>Whether through attack or defense, those who choose
+    <h2>Protection</h2><p>Whether through attack or defense, those who choose
     this discipline channel formidable strength to protect their allies in
     battle. Valor offers great power to those who raise their shields in defense
-    of others.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.8P6Bn4PCxZLEkwPI]{Guardian},
-    </em>@UUID[Compendium.world.classes.Item.HinfqnEB1y8UombX]{Seraph}</p><table><tbody><tr><td><p>Level</p></td><td><p>Valor
-    Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    of
+    others.</p><h4>Classes:</h4><p><em>@UUID[Compendium.daggerheart-srd.srd-materials.Item.xuErDoZrRh0DkmjV]
+    @UUID[Compendium.daggerheart-srd.srd-materials.Item.pfPdBN5qX3UrT3d9]{Seraph}</em></p><h4>Domain
+    Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
+    Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-bare-bones"
     data-bs-original-title aria-describedby="tooltip463273">Bare
     Bones</a></li><li class="list-inline-item"><a class="og-nowrap"
@@ -85,8 +86,8 @@ system:
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-unyielding-armor"
     data-bs-original-title>Unyielding
     Armor</a></li></ul></td></tr></tbody></table>
-  category: ''
-  rarity: ''
+  category: Domain
+  rarity: SRD
   location: abilities
   quantity: 1
   weight: 0
@@ -99,11 +100,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1754078064991
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: kRq1nQxq63vBQYSd
 sort: 0
 ownership:

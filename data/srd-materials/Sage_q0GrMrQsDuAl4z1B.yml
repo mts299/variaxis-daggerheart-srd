@@ -1,17 +1,18 @@
 name: Sage
 type: domain
 folder: CkTKhe4hp0YLzCnS
-img: systems/daggerheart/assets/domains/sage.svg
+img: modules/daggerheart-srd/assets/domains/sage.svg
 system:
   description: >-
-    <h1>The natural world.</h1><p>Those who walk this path tap into the
+    <h2>The Natural World</h2><p>Those who walk this path tap into the
     unfettered power of the earth and its creatures to unleash raw magic. Sage
     grants its adherents the vitality of a blooming flower and the ferocity of a
-    ravenous predator.</p><p><em>Classes: 
-    @UUID[Compendium.world.classes.Item.5iWDadb9dmJvAI84]{Druid},
-    @UUID[Compendium.world.classes.Item.b9ZMeNlo1qDaZZ3i]{Ranger}</em></p><table><tbody><tr><td><p>Level</p></td><td><p>Sage
-    Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    ravenous
+    predator.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.i8J9eTZHWpbm2ZAL]{Druid}
+    @UUID[Compendium.daggerheart-srd.srd-materials.Item.9tpicQBdcAApd01G]{Ranger}</p><h4>Domain
+    Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
+    Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-gifted-tracker"
     data-bs-original-title aria-describedby="tooltip3822">Gifted
     Tracker</a></li><li class="list-inline-item"><a class="og-nowrap"
@@ -83,8 +84,8 @@ system:
     Nature</a></li><li class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-tempest"
     data-bs-original-title>Tempest</a></li></ul></td></tr></tbody></table>
-  category: ''
-  rarity: ''
+  category: Domain
+  rarity: SRD
   location: abilities
   quantity: 1
   weight: 0
@@ -97,11 +98,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1754078114984
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: q0GrMrQsDuAl4z1B
 sort: 0
 ownership:

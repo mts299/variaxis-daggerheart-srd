@@ -1,18 +1,19 @@
 name: Codex
 type: domain
 folder: CkTKhe4hp0YLzCnS
-img: systems/daggerheart/assets/domains/codex.svg
+img: modules/daggerheart-srd/assets/domains/codex.svg
 system:
   description: >-
-    <h1>Intensive magical study.</h1><p>Those who seek magical knowledge turn to
+    <h2>Intensive Magical Study</h2><p>Those who seek magical knowledge turn to
     the equations of power recorded in books, written on scrolls, etched into
     walls, or tattooed on bodies. Codex offers a commanding and versatile
     understanding of magic to devotees who pursue knowledge beyond the
-    boundaries of common wisdom.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.VHJTNx3qVyBn6ygu]{Bard},
-    @UUID[Compendium.world.classes.Item.6yiJLD1Ml099vI4U]{Wizard}</em></p><table><tbody><tr><td><p>Level</p></td><td><p>Codex
-    Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    boundaries of common
+    wisdom.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.wydYvRR0JHAuYGkT]{Bard}
+    @UUID[Compendium.daggerheart-srd.srd-materials.Item.pOxeDyxIdsTqXLgk]{Wizard}</p><h4>Domain
+    Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
+    Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-ava"
     data-bs-original-title>Book of Ava</a></li><li class="list-inline-item"><a
     class="og-nowrap"
@@ -83,8 +84,8 @@ system:
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-transcendent-union"
     data-bs-original-title>Transcendent
     Union</a></li></ul></td></tr></tbody></table>
-  category: ''
-  rarity: ''
+  category: Domain
+  rarity: SRD
   location: abilities
   quantity: 1
   weight: 0
@@ -97,11 +98,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1754078180428
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: q0u966dVjADauCYA
 sort: 0
 ownership:

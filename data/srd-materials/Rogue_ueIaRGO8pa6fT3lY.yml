@@ -1,7 +1,7 @@
 name: Rogue
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: icons/svg/cowled.svg
+img: modules/daggerheart-srd/assets/classes/rogue.svg
 system:
   description: >-
     <p>Rogues are scoundrels, often in both attitude and practice. <span
@@ -31,8 +31,8 @@ system:
     succeed on an attack while <em>Cloaked</em> or while an ally is within Melee
     range of your target, add a number of <strong>d6s</strong> equal to your
     tier to your damage roll.</p>
-  category: ''
-  rarity: ''
+  category: Class
+  rarity: SRD
   location: class
   quantity: 1
   weight: 0
@@ -45,11 +45,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1753978128354
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: ueIaRGO8pa6fT3lY
 sort: 0
 ownership:

@@ -1,7 +1,7 @@
 name: Seraph
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: icons/svg/holy-shield.svg
+img: modules/daggerheart-srd/assets/classes/seraph.svg
 system:
   description: >-
     <p>Seraphs are divine fighters and healers imbued with sacred purpose. <span
@@ -29,7 +29,7 @@ system:
     made, or gain Hope equal to the result. At the end of each session, clear
     all unspent Prayer Dice.</p>
   category: class
-  rarity: ''
+  rarity: SRD
   location: class
   quantity: 1
   weight: 0
@@ -42,11 +42,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1753978117572
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: pfPdBN5qX3UrT3d9
 sort: 0
 ownership:

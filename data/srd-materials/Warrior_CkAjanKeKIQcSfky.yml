@@ -1,7 +1,7 @@
 name: Warrior
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: icons/svg/sword.svg
+img: modules/daggerheart-srd/assets/classes/warrior.svg
 system:
   description: >-
     <p>Becoming a warrior requires years, often a lifetime, of training and
@@ -29,8 +29,8 @@ system:
     with them.</li></ul><p><em><strong>Combat Training:</strong></em> You ignore
     burden when equipping weapons. When you deal physical damage, you gain a
     bonus to your damage roll equal to your level.</p>
-  category: ''
-  rarity: ''
+  category: Class
+  rarity: SRD
   location: class
   quantity: 1
   weight: 0
@@ -43,11 +43,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1753978095514
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: CkAjanKeKIQcSfky
 sort: 0
 ownership:

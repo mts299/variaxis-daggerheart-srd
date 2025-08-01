@@ -8,8 +8,8 @@ system:
     wearing armor, your base Armor Score becomes 3 + your Strength. Your damage
     thresholds become: Tier 1: 9/19, Tier 2: 11/24, Tier 3: 13/31, Tier 4:
     15/38.</p>
-  category: ''
-  rarity: ''
+  category: Domain Card
+  rarity: Valor
   location: abilities
   quantity: 1
   weight: 0
@@ -27,10 +27,10 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
+  systemVersion: 2.11.1
   createdTime: 1752018941090
-  modifiedTime: 1752018997641
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  modifiedTime: 1753964478110
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: eTR2tl57Ms8Tc6Jz
 sort: 100000
 _key: '!items!eTR2tl57Ms8Tc6Jz'

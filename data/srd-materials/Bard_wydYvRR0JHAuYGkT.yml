@@ -1,7 +1,7 @@
 name: Bard
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: icons/svg/sound.svg
+img: modules/daggerheart-srd/assets/classes/bard.svg
 system:
   description: >-
     <p>Bards are the most charismatic people in all the realms. <span
@@ -26,8 +26,8 @@ system:
     damage roll, or to clear a number of Stress equal to the result. At the end
     of each session, clear all unspent Rally Dice. At level 5, your Rally Die
     increases to a d8.</p>
-  category: ''
-  rarity: ''
+  category: Class
+  rarity: SRD
   location: class
   quantity: 1
   weight: 0
@@ -40,11 +40,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1753978164784
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: wydYvRR0JHAuYGkT
 sort: 0
 ownership:

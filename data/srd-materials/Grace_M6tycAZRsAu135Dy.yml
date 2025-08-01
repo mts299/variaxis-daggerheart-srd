@@ -1,17 +1,18 @@
 name: Grace
 type: domain
 folder: CkTKhe4hp0YLzCnS
-img: systems/daggerheart/assets/domains/grace.svg
+img: modules/daggerheart-srd/assets/domains/grace.svg
 system:
   description: >-
-    <h1>Charisma.</h1><p>Through rapturous storytelling, charming spells, or a
+    <h2>Charisma</h2><p>Through rapturous storytelling, charming spells, or a
     shroud of lies, those who channel this power define the realities of their
     adversaries, bending perception to their will. Grace offers its wielders raw
-    magnetism and mastery over language.</p><p><em>Classes:
-    @UUID[Compendium.world.classes.Item.VHJTNx3qVyBn6ygu]{Bard},
-    @UUID[Compendium.world.classes.Item.49g9PNReuFMOh7SY]{Rogue}</em></p><table><tbody><tr><td><p>Level</p></td><td><p>Grace
-    Domain Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
+    magnetism and mastery over
+    language.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.wydYvRR0JHAuYGkT]{Bard}
+    @UUID[Compendium.daggerheart-srd.srd-materials.Item.ueIaRGO8pa6fT3lY]{Rogue}</p><h4>Domain
+    Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
+    Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
+    class="list-inline-item"><a class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-deft-deceiver"
     data-bs-original-title aria-describedby="tooltip513318">Deft
     Deceiver</a></li><li class="list-inline-item"><a class="og-nowrap"
@@ -80,8 +81,8 @@ system:
     class="og-nowrap"
     href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-notorious"
     data-bs-original-title>Notorious</a></li></ul></td></tr></tbody></table>
-  category: ''
-  rarity: ''
+  category: Domain
+  rarity: SRD
   location: abilities
   quantity: 1
   weight: 0
@@ -94,11 +95,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  systemVersion: 2.11.1
+  modifiedTime: 1754078154718
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: M6tycAZRsAu135Dy
 sort: 0
 ownership:

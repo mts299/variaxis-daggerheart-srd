@@ -8,8 +8,8 @@ system:
     your primary weapon. On a success, deal damage and push the target to Close
     range. On a success with Hope, add a d6 to your damage roll. Spend a Hope to
     make the target temporarily Vulnerable.</p>
-  category: ''
-  rarity: ''
+  category: Domain Card
+  rarity: Valor
   location: abilities
   quantity: 1
   weight: 0
@@ -27,10 +27,10 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
+  systemVersion: 2.11.1
   createdTime: 1752018961567
-  modifiedTime: 1752018997641
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  modifiedTime: 1753964474309
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _id: BWRO2jLmIX0xYH9X
 sort: 300000
 _key: '!items!BWRO2jLmIX0xYH9X'
