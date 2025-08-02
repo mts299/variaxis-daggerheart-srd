@@ -1,15 +1,15 @@
 name: Premonition
 type: item
 folder: yDeODsymKMdnWBqF
-img: systems/daggerheart/assets/domains/arcana.svg
+img: modules/daggerheart-srd/assets/domains/arcana.svg
 system:
   description: >-
-    <h3>Level 5 Arcana Spell</h3><p>Recall Cost: 2</p><p>You can channel arcane
-    energy to have visions of the future. Once per long rest, immediately after
-    the GM conveys the consequences of a roll you made, you can rescind the move
-    and consequences like they never happened and make another move instead.</p>
-  category: ''
-  rarity: ''
+    <p>You can channel arcane energy to have visions of the future. Once per
+    long rest, immediately after the GM conveys the consequences of a roll you
+    made, you can rescind the move and consequences like they never happened and
+    make another move instead.</p>
+  category: Arcane - Level 5
+  rarity: Recall cost 2
   location: abilities
   quantity: 1
   weight: 0
@@ -17,9 +17,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -27,10 +24,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752013529918
-  modifiedTime: 1752013529918
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139700267
+  modifiedTime: 1754139773738
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: dAKLV8wWolr3fPNN
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!dAKLV8wWolr3fPNN'

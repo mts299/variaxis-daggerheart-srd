@@ -1,0 +1,39 @@
+name: Mending Touch
+type: domain
+folder: 5uB6dgSzOJaOg8nx
+_id: EzlvBEPNv28BaxL7
+img: modules/daggerheart-srd/assets/domains/splendor.svg
+system:
+  description: >-
+    <p>You lay your hands upon a creature and channel healing magic to close
+    their wounds. When you can take a few minutes to focus on the target you're
+    helping, you can spend 2 Hope to clear a Hit Point or a Stress on
+    them.</p><p>Once per long rest, when you spend this healing time learning
+    something new about them or revealing something about yourself, you can
+    clear 2 Hit Points or 2 Stress on them instead.</p>
+  category: Splendor - Level 1
+  rarity: recall cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754140429041
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!EzlvBEPNv28BaxL7'

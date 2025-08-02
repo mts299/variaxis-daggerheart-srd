@@ -1,16 +1,16 @@
 name: Encore
 type: item
 folder: qZD3LnnM4ldxzeIq
-img: systems/daggerheart/assets/domains/grace.svg
+img: modules/daggerheart-srd/assets/domains/grace.svg
 system:
   description: >-
-    <h3>Level 10 Grace Spell</h3><p>Recall Cost: 1</p><p>When an ally within
-    Close range deals damage to an adversary, you can make a Spellcast Roll
-    against that same target. On a success, you deal the same damage to the
-    target that your ally dealt. If your Spellcast Roll succeeds with Fear,
-    place this card in your vault.</p>
-  category: ''
-  rarity: ''
+    <p>When an ally within <strong>Close</strong> range deals damage to an
+    adversary, you can make a <strong>Spellcast Roll</strong> against that same
+    target. On a success, you deal the same damage to the target that your ally
+    dealt. If your <strong>Spellcast Roll</strong> succeeds with Fear, place
+    this card in your vault.</p>
+  category: Grace - level 10
+  rarity: Recall cost 1
   location: abilities
   quantity: 1
   weight: 0
@@ -18,9 +18,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -28,10 +25,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752015632140
-  modifiedTime: 1752015632140
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139706333
+  modifiedTime: 1754140119600
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: Rj7zl6lEdV4LfBXT
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!Rj7zl6lEdV4LfBXT'

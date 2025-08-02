@@ -1,0 +1,45 @@
+name: Book of Ava
+type: domain
+folder: fpG0T3I7VjVmyv5v
+_id: nhTAE8eEgzwhxNPy
+img: modules/daggerheart-srd/assets/domains/codex.svg
+system:
+  description: >-
+    <p><em><strong>Power Push:</strong></em> Make a <strong>Spellcast
+    Roll</strong> against a target within <strong>Melee</strong> range.<br />On
+    a success, they're knocked back to Far range and take [[/roll d10+2]] magic
+    damage using your <strong>Proficiency</strong>.<br /><strong><br
+    /></strong><em><strong>Tava's Armor:</strong></em> Spend a Hope to give a
+    target you can touch a +1 bonus to their Armor Score until their next rest
+    or you cast Tava's Armor again.<br /><br /><em><strong>Ice
+    Spike:</strong></em> Make a <strong>Spellcast Roll (12)</strong> to summon a
+    large ice spike within <strong>Far</strong> range. If you use it as a
+    weapon, make the <strong>Spellcast Roll</strong> against the target's
+    Difficulty instead. On a success, deal [[/roll d6]] physical damage using
+    your <strong>Proficiency</strong>.</p>
+  category: Codex - level 1
+  rarity: recall cost 2
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139704923
+  modifiedTime: 1754140078516
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!nhTAE8eEgzwhxNPy'

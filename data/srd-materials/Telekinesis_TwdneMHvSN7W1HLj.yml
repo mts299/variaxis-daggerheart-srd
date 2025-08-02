@@ -1,18 +1,18 @@
 name: Telekinesis
 type: item
 folder: O5ETtgyUq27vbXY9
-img: systems/daggerheart/assets/domains/arcana.svg
+img: modules/daggerheart-srd/assets/domains/arcana.svg
 system:
   description: >-
-    <h3>Level 6 Arcana Spell</h3><p>Recall Cost: 0</p><p>Make a Spellcast Roll
-    against a target within Far range. On a success, you can use your mind to
-    move them anywhere within Far range of their original position. You can
-    throw the lifted target as an attack by making an additional Spellcast Roll
-    against the second target you're trying to attack. On a success, deal d12+4
-    physical damage to the second target using your Proficiency. This spell then
-    ends.</p>
-  category: ''
-  rarity: ''
+    <p>Make a <strong>Spellcast Roll</strong> against a target within
+    <strong>Far</strong> range. On a success, you can use your mind to move them
+    anywhere within Far range of their original position. You can throw the
+    lifted target as an attack by making an additional <strong>Spellcast
+    Roll</strong> against the second target you're trying to attack. On a
+    success, deal [[/roll d12+4]] physical damage to the second target using
+    your <strong>Proficiency</strong>. This spell then ends.</p>
+  category: Arcane - Level 6
+  rarity: Recall cost 0
   location: abilities
   quantity: 1
   weight: 0
@@ -20,9 +20,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -30,10 +27,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752013593984
-  modifiedTime: 1752013593984
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139700267
+  modifiedTime: 1754139779046
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: TwdneMHvSN7W1HLj
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!TwdneMHvSN7W1HLj'

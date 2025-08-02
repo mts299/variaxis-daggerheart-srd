@@ -1,0 +1,38 @@
+name: Healing Hands
+type: item
+folder: KY6ADGdylGemjp4s
+img: modules/daggerheart-srd/assets/domains/splendor.svg
+system:
+  description: >-
+    <p>Make a <strong>Spellcast Roll (13</strong>) and target a creature other
+    than yourself within <strong>Melee</strong> range. </p><p>On a success, mark
+    a Stress to clear 2 Hit Points or 2 Stress on the target. </p><p>On a
+    failure, mark a Stress to clear a Hit Point or a Stress on the target.
+    </p><p>You can't heal the same target again until your next long rest.</p>
+  category: Splendor - Level 2
+  rarity: Recall Cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754140420221
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: o3EvjCiOcxWu2i5M
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!o3EvjCiOcxWu2i5M'

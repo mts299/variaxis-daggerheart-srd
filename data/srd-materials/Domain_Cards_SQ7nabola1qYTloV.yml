@@ -1,0 +1,20 @@
+type: Item
+folder: null
+name: Domain Cards
+color: null
+sorting: a
+_id: SQ7nabola1qYTloV
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139390242
+  modifiedTime: 1754139390242
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!folders!SQ7nabola1qYTloV'

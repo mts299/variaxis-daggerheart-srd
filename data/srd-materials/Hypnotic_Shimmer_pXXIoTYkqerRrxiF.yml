@@ -1,17 +1,18 @@
 name: Hypnotic Shimmer
 type: item
 folder: IsYFwKcVZnHS0bs5
-img: systems/daggerheart/assets/domains/grace.svg
+img: modules/daggerheart-srd/assets/domains/grace.svg
 system:
   description: >-
-    <h3>Level 3 Grace Spell</h3><p>Recall Cost: 1</p><p>Make a Spellcast Roll
-    against all adversaries in front of you within Close range. Once per rest on
-    a success, create an illusion of flashing colors and lights that temporarily
-    Stuns targets you succeed against and forces them to mark a Stress. While
-    Stunned, they can't use reactions and can't take any other actions until
-    they clear this condition.</p>
-  category: ''
-  rarity: ''
+    <p>Make a <strong>Spellcast Roll</strong> against all adversaries in front
+    of you within <strong>Close</strong> range. Once per rest on a success,
+    create an illusion of flashing colors and lights that temporarily
+    <em><strong>Stuns</strong></em> targets you succeed against and forces them
+    to mark a Stress. </p><p>While <em><strong>Stunned</strong></em>, they can't
+    use reactions and can't take any other actions until they clear this
+    condition.</p>
+  category: Grace - level 3
+  rarity: Recall cost 1
   location: abilities
   quantity: 1
   weight: 0
@@ -19,9 +20,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -29,10 +27,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752015655489
-  modifiedTime: 1752015655489
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139706333
+  modifiedTime: 1754143609857
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: pXXIoTYkqerRrxiF
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!pXXIoTYkqerRrxiF'

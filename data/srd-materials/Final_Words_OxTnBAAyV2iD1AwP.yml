@@ -1,0 +1,39 @@
+name: Final Words
+type: item
+folder: KY6ADGdylGemjp4s
+img: modules/daggerheart-srd/assets/domains/splendor.svg
+system:
+  description: >-
+    <p>You can infuse a corpse with a moment of life to speak with it. Make a
+    <strong>Spellcast Roll (13)</strong>. </p><p>On a success with Hope, the
+    corpse answers up to three questions. <br />On a success with Fear, the
+    corpse answers one question. </p><p>The corpse answers truthfully, but it
+    can't impart information it didn't know in life. On a failure, or once the
+    corpse has finished answering your questions, the body turns to dust.</p>
+  category: Splendor - Level 2
+  rarity: Recall Cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754140422639
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: OxTnBAAyV2iD1AwP
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!OxTnBAAyV2iD1AwP'

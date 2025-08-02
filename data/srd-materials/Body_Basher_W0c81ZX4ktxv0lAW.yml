@@ -1,0 +1,35 @@
+name: Body Basher
+type: item
+folder: kVHdz6PPfbrtGa6p
+img: modules/daggerheart-srd/assets/domains/valor.svg
+system:
+  description: >-
+    <p>When you make a successful attack with a weapon in <strong>Melee</strong>
+    range, add your Strength to your damage roll.</p>
+  category: Valor - Level 2
+  rarity: Recall cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139711318
+  modifiedTime: 1754140521655
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: W0c81ZX4ktxv0lAW
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!W0c81ZX4ktxv0lAW'

@@ -1,17 +1,19 @@
 name: Book of Ronin
 type: item
 folder: HByQnFL4mriJxlpM
-img: systems/daggerheart/assets/domains/codex.svg
+img: modules/daggerheart-srd/assets/domains/codex.svg
 system:
   description: >-
-    <h3>Level 9 Codex Grimoire</h3><p>Recall Cost: 4</p><p>Transform: Make a
-    Spellcast Roll (15). On a success, transform into an inanimate object no
-    larger than twice your normal size. You can remain in this shape until you
-    take damage. Eternal Enervation: Once per long rest, make a Spellcast Roll
-    against a target within Close range. On a success, they become permanently
-    Vulnerable. They can't clear this condition by any means.</p>
-  category: ''
-  rarity: ''
+    <p><em><strong>Transform:</strong></em> Make a <strong>Spellcast Roll
+    (15)</strong>. On a success, transform into an inanimate object no larger
+    than twice your normal size. You can remain in this shape until you take
+    damage.</p><p><em><strong>Eternal Enervation:</strong></em> Once per long
+    rest, make a <strong>Spellcast Roll</strong> against a target within
+    <strong>Close</strong> range. On a success, they become permanently
+    @UUID[Compendium.daggerheart-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}.<br
+    />They can't clear this condition by any means.</p>
+  category: Codex - level 9
+  rarity: Recall Cost 4
   location: abilities
   quantity: 1
   weight: 0
@@ -19,9 +21,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -29,10 +28,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752015281195
-  modifiedTime: 1752015281195
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139704923
+  modifiedTime: 1754143435515
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: tFWJqPvPuaNRJ8JA
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!tFWJqPvPuaNRJ8JA'

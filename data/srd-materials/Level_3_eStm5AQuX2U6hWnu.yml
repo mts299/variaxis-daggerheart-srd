@@ -1,11 +1,11 @@
 type: Item
-folder: NsyijV3tpez2MKg1
+folder: T1l7baHSVwk6EWCE
 name: Level 3
 color: null
 sorting: a
 _id: eStm5AQuX2U6hWnu
 description: ''
-sort: 3
+sort: 100000
 flags: {}
 _stats:
   compendiumSource: null
@@ -13,7 +13,6 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  lastModifiedBy: Hv1JCJEjUNITYeqB
-  modifiedTime: 1752017939395
+  systemVersion: 2.11.5
+  lastModifiedBy: null
 _key: '!folders!eStm5AQuX2U6hWnu'

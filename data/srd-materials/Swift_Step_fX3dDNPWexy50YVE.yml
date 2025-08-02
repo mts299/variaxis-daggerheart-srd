@@ -1,14 +1,13 @@
 name: Swift Step
 type: item
 folder: YKf7ChR05gYcKg4M
-img: systems/daggerheart/assets/domains/bone.svg
+img: modules/daggerheart-srd/assets/domains/bone.svg
 system:
   description: >-
-    <h3>Level 10 Bone Ability</h3><p>Recall Cost: 2</p><p>When an attack made
-    against you fails, clear a Stress. If you can't clear a Stress, gain a
-    Hope.</p>
-  category: ''
-  rarity: ''
+    <p>When an attack made against you fails, clear a Stress. If you can't clear
+    a Stress, gain a Hope.</p>
+  category: Bone - Level 10
+  rarity: Recall Cost 2
   location: abilities
   quantity: 1
   weight: 0
@@ -16,9 +15,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -26,10 +22,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752014869469
-  modifiedTime: 1752014869469
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139703511
+  modifiedTime: 1754139930332
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: fX3dDNPWexy50YVE
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!fX3dDNPWexy50YVE'

@@ -1,11 +1,11 @@
 type: Item
-folder: jY4NFEN6KskKCWzH
+folder: Ke4W1WvbGUhiCO34
 name: Level 5
 color: null
 sorting: a
 _id: TuhPp6Dh428YHIwG
 description: ''
-sort: 5
+sort: 300000
 flags: {}
 _stats:
   compendiumSource: null
@@ -13,7 +13,6 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  lastModifiedBy: Hv1JCJEjUNITYeqB
-  modifiedTime: 1752018344536
+  systemVersion: 2.11.5
+  lastModifiedBy: null
 _key: '!folders!TuhPp6Dh428YHIwG'

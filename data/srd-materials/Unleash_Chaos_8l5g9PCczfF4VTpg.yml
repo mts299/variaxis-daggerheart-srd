@@ -1,0 +1,41 @@
+name: Unleash Chaos
+type: domain
+folder: UsahBSR7OiOyPnUH
+_id: 8l5g9PCczfF4VTpg
+img: modules/daggerheart-srd/assets/domains/arcana.svg
+system:
+  description: >-
+    <p>At the beginning of a session, place a number of tokens equal to your
+    Spellcast trait on this card.</p><p>Make a <strong>Spellcast Roll</strong>
+    against a target within <strong>Far</strong> range and spend any number of
+    tokens to channel raw energy from within yourself to unleash against them.
+    On a success, roll a number of [[/roll d10]] equal to the tokens you spent
+    and deal that much magic damage to the target. Mark a Stress to replenish
+    this card with tokens (up to your Spellcast trait).</p><p>At the end of each
+    session, clear all unspent tokens.</p>
+  category: Arcane - Level 1
+  rarity: Recall cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139700267
+  modifiedTime: 1754139748458
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!8l5g9PCczfF4VTpg'

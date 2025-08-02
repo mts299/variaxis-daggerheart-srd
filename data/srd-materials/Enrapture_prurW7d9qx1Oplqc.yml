@@ -1,0 +1,40 @@
+name: Enrapture
+type: domain
+folder: nltvr7ne5pc6QnZB
+_id: prurW7d9qx1Oplqc
+img: modules/daggerheart-srd/assets/domains/grace.svg
+system:
+  description: >-
+    <p>Make a <strong>Spellcast Roll</strong> against a target within
+    <strong>Close</strong> range. On a success, they become temporarily
+    <em><strong>Enraptured</strong></em>. </p><p>While
+    <em><strong>Enraptured</strong></em>, a target's attention is fixed on you,
+    narrowing their field of view and drowning out any sound but your voice.
+    Once per rest on a success, you can mark a Stress to force the Enraptured
+    target to mark a Stress as well.</p>
+  category: Grace - level 1
+  rarity: recall cost 0
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139706333
+  modifiedTime: 1754143548717
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!prurW7d9qx1Oplqc'

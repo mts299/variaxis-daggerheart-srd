@@ -1,19 +1,18 @@
 name: Notorious
 type: item
 folder: qZD3LnnM4ldxzeIq
-img: systems/daggerheart/assets/domains/grace.svg
+img: modules/daggerheart-srd/assets/domains/grace.svg
 system:
   description: >-
-    <h3>Level 10 Grace Ability</h3><p>Recall Cost: 0</p><p>People know who you
-    are and what you've done, and they treat you differently because of it. When
-    you leverage your notoriety to get what you want, you can mark a Stress
-    before you roll to gain a +10 bonus to the result. Your food and drinks are
-    always free wherever you go, and everything else you buy is reduced in price
-    by one bag of gold (to a minimum of one handful). This card doesn't count
-    against your loadout's domain card maximum of 5 and can't be placed in your
-    vault.</p>
-  category: ''
-  rarity: ''
+    <p>People know who you are and what you've done, and they treat you
+    differently because of it. When you leverage your notoriety to get what you
+    want, you can mark a Stress before you roll to gain a +10 bonus to the
+    result.</p><p>Your food and drinks are always free wherever you go, and
+    everything else you buy is reduced in price by one bag of gold (to a minimum
+    of one handful). </p><p>This card doesn't count against your loadout's
+    domain card maximum of 5 and can't be placed in your vault.</p>
+  category: Grace - level 10
+  rarity: Recall cost 0
   location: abilities
   quantity: 1
   weight: 0
@@ -21,9 +20,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -31,10 +27,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752015706759
-  modifiedTime: 1752015706759
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139706333
+  modifiedTime: 1754143776107
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: EWZKWLczeKLVb4Pz
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!EWZKWLczeKLVb4Pz'
