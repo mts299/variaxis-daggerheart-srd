@@ -1,0 +1,36 @@
+name: Major Arcane Shard
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: 7rgE3g9kwLZEhF5h
+img: icons/commodities/gems/gem-faceted-teardrop-blue.webp
+system:
+  description: >-
+    <p>You can make a Finesse Roll to throw this shard at a group of adversaries
+    within Far range. </p><p>Targets you succeed against take [[/roll 4d20]]
+    magic damage</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 5000000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!7rgE3g9kwLZEhF5h'

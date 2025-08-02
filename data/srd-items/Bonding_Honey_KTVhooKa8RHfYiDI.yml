@@ -1,0 +1,33 @@
+name: Bonding Honey
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: KTVhooKa8RHfYiDI
+img: icons/consumables/food/honey-beehive-brown.webp
+system:
+  description: <p>This honey can be used to glue two objects together permanently.</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 1000000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!KTVhooKa8RHfYiDI'

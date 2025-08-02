@@ -1,0 +1,35 @@
+name: Ogre Musk
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: YzByTWLgWISFojex
+img: icons/magic/acid/dissolve-vomit-green-brown.webp
+system:
+  description: >-
+    <p>You can use this musk to prevent anyone from tracking you by mundane or
+    magical means until your next rest.</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 5700000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!YzByTWLgWISFojex'

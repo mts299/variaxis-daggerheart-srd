@@ -1,0 +1,42 @@
+name: Distances in Combat
+type: item
+folder: 61WWExuBldpmE4UT
+img: icons/sundries/scrolls/scroll-runed-brown.webp
+system:
+  description: >-
+    <ul><li><p>Characters can move from <strong>Close </strong>into
+    <strong>Melee </strong>as part of their
+    action</p></li></ul><ul><li><p>Moving from <strong>Far or Very Far
+    </strong>into <strong>Melee </strong>requires an Agility
+    Roll</p></li><li><p>Range is measured from the source of an effect, such as
+    the attacker or spellcaster, to the target or object of an
+    effect.</p></li><li><p>A weapon, spell, ability, item, or other effect’s
+    stated range is a maximum range; unless otherwise noted, it can be used at
+    closer distances</p></li></ul>
+  category: Rule
+  rarity: Reference
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754061337691
+  modifiedTime: 1754061345700
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: GxLuPIqVlCnFQ7o8
+sort: 900000
+_key: '!items!GxLuPIqVlCnFQ7o8'

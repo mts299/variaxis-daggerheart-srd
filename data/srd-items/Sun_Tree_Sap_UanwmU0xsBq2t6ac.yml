@@ -1,0 +1,37 @@
+name: Sun Tree Sap
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: UanwmU0xsBq2t6ac
+img: icons/environment/wilderness/tree-oak.webp
+system:
+  description: >-
+    <p>Consume this sap to roll a [[/roll d6]]. </p><ul><li><p>On a result of
+    5–6, clear 2 HP. </p></li><li><p>On a result of 2–4, clear 3 Stress.
+    </p></li><li><p>On a result of 1, see through the veil of death and return
+    changed, gaining one scar.</p></li></ul>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 5300000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!UanwmU0xsBq2t6ac'

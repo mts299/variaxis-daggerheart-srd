@@ -1,0 +1,36 @@
+name: Bridge Seed
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: WXEdhXcPqJBU33DH
+img: icons/commodities/materials/plant-sprout-seed-brown-green.webp
+system:
+  description: >-
+    <p>Thick vines grow from your location to a point of your choice within Far
+    range, allowing you to climb up or across them. The vines dissipate on your
+    next short rest.</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 1200000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!WXEdhXcPqJBU33DH'

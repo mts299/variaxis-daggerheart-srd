@@ -1,0 +1,38 @@
+name: Valorstone
+type: item
+folder: YayQIYitpacIM2u2
+_id: u1KFHud0GXXaln9L
+img: icons/commodities/currency/coin-engraved-tail-gold.webp
+system:
+  description: >-
+    <p>You can attach this stone to armor that doesn’t already have a feature.
+    </p><p>The armor gains the following
+    feature:</p><p><em><strong>Resilient:</strong></em> Before you mark your
+    last Armor Slot, roll a d6. On a result of 6, reduce the severity by one
+    threshold without marking an Armor Slot</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!u1KFHud0GXXaln9L'

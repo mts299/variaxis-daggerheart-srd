@@ -1,0 +1,36 @@
+name: Improved Grindletooth Venom
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: WpPcnzxQlFcOy9zq
+img: >-
+  icons/consumables/potions/bottle-conical-corked-labeled-skull-poison-green.webp
+system:
+  description: >-
+    <p>You can apply this venom to a weapon that deals physical damage to add a
+    [[/roll d8]] to your next damage roll with that weapon</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 2600000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!WpPcnzxQlFcOy9zq'

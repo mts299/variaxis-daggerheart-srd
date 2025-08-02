@@ -1,0 +1,33 @@
+name: Stride Potion
+type: item
+folder: mBkEaHY2IDFQbm6q
+img: icons/consumables/potions/bottle-bulb-corked-green.webp
+system:
+  description: <p>You gain a +1 bonus to your next Agility Roll.</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: DrAbe3vSR7ukUjmR
+sort: 1700000
+_key: '!items!DrAbe3vSR7ukUjmR'

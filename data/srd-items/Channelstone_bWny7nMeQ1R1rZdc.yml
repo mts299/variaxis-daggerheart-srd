@@ -1,0 +1,35 @@
+name: Channelstone
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: bWny7nMeQ1R1rZdc
+img: icons/commodities/stone/engraved-symbol-water-grey.webp
+system:
+  description: >-
+    <p>You can use this stone to take a spell or grimoire from your vault, use
+    it once, and return it to your vault.</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 4600000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!bWny7nMeQ1R1rZdc'

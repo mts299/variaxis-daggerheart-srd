@@ -1,0 +1,33 @@
+name: Varik Leaves
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: NVrHzR8Gw8SPVmeN
+img: assets/daggerheart/items/milkweed-stem-serrated-leaves-green.webp
+system:
+  description: <p>You can eat these paired leaves to immediately gain 2 Hope</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 5900000
+ownership:
+  default: 2
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!NVrHzR8Gw8SPVmeN'

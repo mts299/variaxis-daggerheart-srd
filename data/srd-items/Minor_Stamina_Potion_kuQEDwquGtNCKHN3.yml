@@ -1,0 +1,33 @@
+name: Minor Stamina Potion
+type: item
+system:
+  description: <p>Clear [[/roll 1d4]] Stress</p>
+  category: Item
+  rarity: consumable
+  location: backpack
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+_id: kuQEDwquGtNCKHN3
+img: icons/consumables/potions/potion-tube-corked-green.webp
+effects: []
+folder: mBkEaHY2IDFQbm6q
+sort: 6000000
+ownership:
+  default: 2
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: Actor.ruFDiQlCGl2LPeD3.Item.8D8a4YZcuBaJDhGF
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!kuQEDwquGtNCKHN3'

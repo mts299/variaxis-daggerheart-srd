@@ -1,0 +1,35 @@
+name: Sleeping Sap
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: 8oAUJsThjpuTxM7D
+img: icons/consumables/potions/bottle-conical-corked-cyan.webp
+system:
+  description: >-
+    <p>You can drink this potion to fall asleep for a full night’s rest.
+    </p><p>You clear allStress upon waking.</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 600000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!8oAUJsThjpuTxM7D'

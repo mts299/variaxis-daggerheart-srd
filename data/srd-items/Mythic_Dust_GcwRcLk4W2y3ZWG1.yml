@@ -1,0 +1,35 @@
+name: Mythic Dust
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: GcwRcLk4W2y3ZWG1
+img: icons/tools/laboratory/bowl-powder-purple.webp
+system:
+  description: >-
+    <p>You can apply this dust to a weapon that deals magic damage to add a
+    [[/roll d12]] to your next damage roll with that weapon.</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 4700000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!GcwRcLk4W2y3ZWG1'

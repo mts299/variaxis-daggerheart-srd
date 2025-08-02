@@ -1,0 +1,35 @@
+name: Minor Stamina Potion Recipe
+type: item
+folder: YayQIYitpacIM2u2
+_id: NVNJhQCydsapzDIr
+img: icons/sundries/documents/document-letter-formal-tan.webp
+system:
+  description: >-
+    <p>As a downtime move, you can use the bone of a creature to craft a Minor
+    Stamina Potion.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!NVNJhQCydsapzDIr'

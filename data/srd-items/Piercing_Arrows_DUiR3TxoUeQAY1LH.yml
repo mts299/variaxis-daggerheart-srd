@@ -1,0 +1,35 @@
+name: Piercing Arrows
+type: item
+folder: YayQIYitpacIM2u2
+_id: DUiR3TxoUeQAY1LH
+img: icons/skills/ranged/arrow-flying-spiral-blue.webp
+system:
+  description: >-
+    <p>Three times per rest when you succeed on an attack with one of these
+    arrows, you can add your Proficiency to the damage roll.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!DUiR3TxoUeQAY1LH'

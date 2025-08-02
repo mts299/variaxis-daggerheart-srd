@@ -1,0 +1,35 @@
+name: Sweet Moss
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: AsLPnbn8ftlkhmLB
+img: icons/tools/laboratory/bowl-herbs-green.webp
+system:
+  description: >-
+    <p>You can consume this moss during a rest to clear [[/roll 1d10]] HP or
+    [[/roll 1d10]] Stress.</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 700000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!AsLPnbn8ftlkhmLB'

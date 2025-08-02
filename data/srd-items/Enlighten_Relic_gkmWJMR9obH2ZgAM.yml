@@ -1,0 +1,33 @@
+name: Enlighten Relic
+type: item
+folder: YayQIYitpacIM2u2
+_id: gkmWJMR9obH2ZgAM
+img: icons/commodities/treasure/brooch-eye-silver-teal.webp
+system:
+  description: <p>You gain a +1 bonus to your Knowledge. You can only carry one relic</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!gkmWJMR9obH2ZgAM'

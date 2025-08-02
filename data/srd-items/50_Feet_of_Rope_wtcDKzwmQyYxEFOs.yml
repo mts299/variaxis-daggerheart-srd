@@ -1,0 +1,33 @@
+name: 50 Feet of Rope
+type: item
+system:
+  description: <p>Useful for climbing a wall or rappelling down a cliff.</p>
+  category: Handheld
+  rarity: Common
+  location: backpack
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+_id: wtcDKzwmQyYxEFOs
+img: icons/sundries/survival/rope-wrapped-grey.webp
+effects: []
+folder: iYwlAEyD23PgVBdC
+sort: 100000
+ownership:
+  default: 2
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: Actor.ruFDiQlCGl2LPeD3.Item.GsFcO0iatyUFyNkm
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138334641
+  modifiedTime: 1754138334641
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!wtcDKzwmQyYxEFOs'

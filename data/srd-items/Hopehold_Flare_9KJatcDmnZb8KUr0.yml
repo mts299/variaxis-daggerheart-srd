@@ -1,0 +1,36 @@
+name: Hopehold Flare
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: 9KJatcDmnZb8KUr0
+img: icons/magic/light/projectile-flare-blue.webp
+system:
+  description: >-
+    <p>When you use this flare, allies within Close range roll a [[/roll d6]]
+    when they spend a Hope. On a result of 6, they gain the effect of that Hope
+    without spending it. </p><p>The flare lasts until the end of the scene.</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 4900000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!9KJatcDmnZb8KUr0'

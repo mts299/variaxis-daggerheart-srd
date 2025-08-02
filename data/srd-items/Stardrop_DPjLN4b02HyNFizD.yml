@@ -1,0 +1,35 @@
+name: Stardrop
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: DPjLN4b02HyNFizD
+img: icons/magic/light/explosion-star-glow-blue.webp
+system:
+  description: >-
+    <p>You can use this stardrop to summon a hailstorm of comets that deals
+    [[/roll 8d20]] physical damage to all targets within Very Far range</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 800000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!DPjLN4b02HyNFizD'

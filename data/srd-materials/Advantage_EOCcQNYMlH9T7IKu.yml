@@ -1,0 +1,36 @@
+name: Advantage
+type: inventory
+folder: 61WWExuBldpmE4UT
+img: icons/sundries/scrolls/scroll-runed-brown.webp
+system:
+  description: >-
+    <p>Advantage represents an opportunity that you seize to increase your
+    chances of success. When you roll with advantage, you <strong>add a [[/roll
+    1d6]] advantage die</strong> to your total.</p>
+  category: Rule
+  rarity: Reference
+  location: backpack
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754061334215
+  modifiedTime: 1754061345700
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: EOCcQNYMlH9T7IKu
+sort: 800000
+_key: '!items!EOCcQNYMlH9T7IKu'

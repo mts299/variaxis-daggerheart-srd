@@ -1,0 +1,51 @@
+name: Tag Team Rolls
+type: item
+folder: 61WWExuBldpmE4UT
+img: icons/sundries/scrolls/scroll-runed-brown.webp
+system:
+  description: >-
+    <p><strong>Once per session per player</strong>, each player can choose to
+    spend 3 Hope and initiate a <strong>Tag Team Roll</strong> between their
+    character and another PC. When you do, work with the other character’s
+    player to describe how you combine your actions in a unique and exciting
+    way. You both make separate action rolls, but before resolving the roll’s
+    outcome, choose one of the rolls to apply for both of your
+    results.</p><p><br />On a roll with Hope, all PCs involved gain a Hope. <br
+    />On a roll with Fear , the GM gains a Fear for each PC involved.<br /><br
+    /><strong>Notes</strong></p><ul><li><p><strong>Both roll damage and add the
+    totals together</strong> to determine the damage dealt</p></li><li><p>If the
+    attacks deal different types of damage (physical or magic), you choose which
+    type to deal.</p></li><li><p>A Tag Team Roll counts as a single action roll
+    for the purposes of any countdowns or features that track action
+    rolls.</p></li></ul><p></p><blockquote><p>Tip: Though you can only initiate
+    one Tag Team Roll per session, you can be involved in multiple Tag Team
+    Rolls. For example, you might spend 3 Hope to initiate a Tag Team Roll with
+    a partner, and the same partner can later spend 3 Hope to initiate one with
+    you.</p></blockquote>
+  category: rule
+  rarity: Reference
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754061346610
+  modifiedTime: 1754061346610
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: Ub19kKYoxsvAHoZZ
+sort: 0
+_key: '!items!Ub19kKYoxsvAHoZZ'

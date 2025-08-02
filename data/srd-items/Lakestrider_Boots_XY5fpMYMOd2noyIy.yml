@@ -1,0 +1,33 @@
+name: Lakestrider Boots
+type: item
+folder: YayQIYitpacIM2u2
+_id: XY5fpMYMOd2noyIy
+img: icons/equipment/feet/shoes-collared-leather-blue.webp
+system:
+  description: <p>You can walk on the surface of water as if it were soft ground</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!XY5fpMYMOd2noyIy'
