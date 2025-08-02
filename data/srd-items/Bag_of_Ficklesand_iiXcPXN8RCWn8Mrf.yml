@@ -1,0 +1,37 @@
+name: Bag of Ficklesand
+type: item
+folder: YayQIYitpacIM2u2
+_id: iiXcPXN8RCWn8Mrf
+img: icons/containers/bags/sack-worn-brown.webp
+system:
+  description: >-
+    <p>You can convince this small bag of sand to be much heavier or lighter
+    with a successful Presence Roll (10).</p><p>Additionally, on a successful
+    Finesse Roll (10), you can blow a bit of sand into a target’s face to make
+    them temporarily <em><strong>Vulnerable</strong></em>.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!iiXcPXN8RCWn8Mrf'

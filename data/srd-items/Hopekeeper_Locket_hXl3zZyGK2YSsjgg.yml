@@ -1,0 +1,37 @@
+name: Hopekeeper Locket
+type: item
+folder: YayQIYitpacIM2u2
+_id: hXl3zZyGK2YSsjgg
+img: icons/equipment/neck/amulet-round-engraved-spiral-gold.webp
+system:
+  description: >-
+    <p>During a long rest, if you have 6 Hope, you can spend a Hope to imbue
+    this locket with your bountiful resolve.</p><p>When you have 0 Hope, you can
+    use the locket to immediately gain a Hope. </p><p>The locket must be
+    re-imbued before it can be used this way again</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!hXl3zZyGK2YSsjgg'

@@ -1,0 +1,35 @@
+name: Arcane Cloak
+type: item
+folder: YayQIYitpacIM2u2
+img: icons/equipment/back/cloak-collared-feathers-green.webp
+system:
+  description: >-
+    <p>A creature with a Spellcast trait wearing this cloak can adjust its
+    color, texture, and size at will.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: Om51b249yPsP520e
+sort: 0
+_key: '!items!Om51b249yPsP520e'

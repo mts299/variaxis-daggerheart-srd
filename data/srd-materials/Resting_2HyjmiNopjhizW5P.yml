@@ -1,0 +1,40 @@
+name: Resting
+type: item
+folder: 61WWExuBldpmE4UT
+img: icons/sundries/scrolls/scroll-runed-brown.webp
+system:
+  description: >-
+    <p>When the characters decide they want to have downtime</p><p>- They choose
+    between a short rest and a long rest. </p><p>- <strong>A party can take up
+    to three short rests before their next rest must be a long rest</strong>
+    </p><p>- If a short rest is interrupted (such as by an adversary’s attack),
+    characters don’t gain its benefits. </p><p>- If a long rest is interrupted,
+    the characters instead gain the benefits of a short rest (even if they’ve
+    already had three short rests).</p>
+  category: Rule
+  rarity: Reference
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754061343916
+  modifiedTime: 1754061345700
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: 2HyjmiNopjhizW5P
+sort: 600000
+_key: '!items!2HyjmiNopjhizW5P'

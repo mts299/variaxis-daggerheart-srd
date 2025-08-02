@@ -1,0 +1,36 @@
+name: Infinite Bag
+type: item
+folder: YayQIYitpacIM2u2
+_id: AP1Dia1WFioQgqQn
+img: icons/containers/bags/pack-leather-black-brown.webp
+system:
+  description: >-
+    <p>When you store items in this bag, they are kept in a pocket dimension
+    that never runs out of space. </p><p>You can retrieve an item at any
+    time</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!AP1Dia1WFioQgqQn'

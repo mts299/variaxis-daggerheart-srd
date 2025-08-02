@@ -1,0 +1,36 @@
+name: Corrector Sprite
+type: item
+folder: YayQIYitpacIM2u2
+_id: AUswRFhYeZqLhGUq
+img: icons/magic/control/mouth-smile-deception-purple.webp
+system:
+  description: >-
+    <p>This tiny sprite sits in the curve of your ear canal and whispers helpful
+    advice during combat. </p><p>Once per short rest, you can gain
+    <em><strong>advantage</strong></em> on an attack roll.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!AUswRFhYeZqLhGUq'

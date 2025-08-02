@@ -1,0 +1,35 @@
+name: Vial of Moondrip
+type: item
+folder: mBkEaHY2IDFQbm6q
+_id: ovzjGp0UUVSic8Lc
+img: icons/magic/perception/eye-ringed-glow-angry-small-teal.webp
+system:
+  description: >-
+    <p>When you drink the contents of this vial, you can see in total darkness
+    until your next rest.</p>
+  category: Item
+  rarity: consumable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 2300000
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138330052
+  modifiedTime: 1754138330052
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!ovzjGp0UUVSic8Lc'

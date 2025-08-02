@@ -1,0 +1,36 @@
+name: Companion Case
+type: item
+folder: YayQIYitpacIM2u2
+_id: MvVqDUKpVEEYwIuC
+img: icons/containers/chest/chest-simple-box-blue.webp
+system:
+  description: >-
+    <p>This case can fit a small animal companion. </p><p>While the companion is
+    inside, the animal and case are immune to all damage and harmful
+    effects.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!MvVqDUKpVEEYwIuC'

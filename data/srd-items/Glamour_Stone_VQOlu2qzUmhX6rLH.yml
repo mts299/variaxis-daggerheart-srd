@@ -1,0 +1,36 @@
+name: Glamour Stone
+type: item
+folder: YayQIYitpacIM2u2
+_id: VQOlu2qzUmhX6rLH
+img: icons/commodities/gems/gem-cut-faceted-square-purple.webp
+system:
+  description: >-
+    <p>Activate this pebble-sized stone to memorize the appearance of someone
+    you can see. </p><p>Spend a Hope to magically recreate this guise on
+    yourself as an illusion.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!VQOlu2qzUmhX6rLH'

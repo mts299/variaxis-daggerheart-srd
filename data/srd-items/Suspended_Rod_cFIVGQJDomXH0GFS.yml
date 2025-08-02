@@ -1,0 +1,36 @@
+name: Suspended Rod
+type: item
+folder: YayQIYitpacIM2u2
+_id: cFIVGQJDomXH0GFS
+img: icons/commodities/tech/pipe-lead-closed.webp
+system:
+  description: >-
+    <p>This flat rod is inscribed with runes. When you activate the rod, it is
+    immediately suspended in place. Until the rod is deactivated, it can’t move,
+    doesn’t abide by the rules of gravity, and remains in place.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!cFIVGQJDomXH0GFS'

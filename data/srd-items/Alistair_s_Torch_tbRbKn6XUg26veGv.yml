@@ -1,0 +1,36 @@
+name: Alistair's Torch
+type: item
+folder: YayQIYitpacIM2u2
+img: icons/sundries/lights/torch-brown-lit.webp
+system:
+  description: >-
+    <p>You can light this magic torch at will. </p><p>The flame’s light fills a
+    much larger space than it should, enough to illuminate a cave bright as
+    day.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: tbRbKn6XUg26veGv
+sort: 0
+_key: '!items!tbRbKn6XUg26veGv'

@@ -1,0 +1,37 @@
+name: Portal Seed
+type: item
+folder: YayQIYitpacIM2u2
+_id: XQDJECHAp0qcGvgc
+img: icons/commodities/materials/plant-sprout-teal.webp
+system:
+  description: >-
+    <p>You can plant this seed in the ground to grow a portal in that spot. The
+    portal is ready to use in 24 hours. </p><p>You can use this portal to travel
+    to any other location where you planted a portal seed. </p><p>A portal can
+    be destroyed by dealing any amount of magic damage to it.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!XQDJECHAp0qcGvgc'

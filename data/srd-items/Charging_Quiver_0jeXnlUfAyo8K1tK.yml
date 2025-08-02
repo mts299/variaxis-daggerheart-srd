@@ -1,0 +1,35 @@
+name: Charging Quiver
+type: item
+folder: YayQIYitpacIM2u2
+img: icons/containers/ammunition/arrows-quiver-black.webp
+system:
+  description: >-
+    <p>When you succeed on an attack with an arrow stored in this quiver, gain a
+    bonus to the damage roll equal to your current tier.</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: 0jeXnlUfAyo8K1tK
+sort: 200000
+_key: '!items!0jeXnlUfAyo8K1tK'

@@ -1,0 +1,33 @@
+name: Basic Supplies
+type: item
+system:
+  description: <p>Tent, bedroll, tinderbox, rations, etc.</p>
+  category: Backpack
+  rarity: Common
+  location: backpack
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+_id: R7UxXtaOOuTwOkaV
+img: icons/containers/bags/pack-leather-black-brown.webp
+effects: []
+folder: iYwlAEyD23PgVBdC
+sort: 200000
+ownership:
+  default: 2
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: Actor.ruFDiQlCGl2LPeD3.Item.2pnKyQIp0qNntZmG
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138334641
+  modifiedTime: 1754138334641
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!R7UxXtaOOuTwOkaV'

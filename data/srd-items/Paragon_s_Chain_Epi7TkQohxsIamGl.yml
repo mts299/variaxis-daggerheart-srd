@@ -1,0 +1,37 @@
+name: Paragon’s Chain
+type: item
+folder: YayQIYitpacIM2u2
+_id: Epi7TkQohxsIamGl
+img: icons/equipment/neck/amulet-round-engraved-blue.webp
+system:
+  description: >-
+    <p>As a downtime move, you can meditate on an ideal or principle you hold
+    dear and focus your will into this chain.</p><p>Once per long rest, you can
+    spend a Hope to roll a d20 as your Hope Die for rolls that directly align
+    with that principle</p>
+  category: Item
+  rarity: Reusable
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754138332487
+  modifiedTime: 1754138332487
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!items!Epi7TkQohxsIamGl'

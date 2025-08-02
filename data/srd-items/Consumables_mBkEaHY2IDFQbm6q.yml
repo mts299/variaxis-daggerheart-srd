@@ -3,17 +3,17 @@ folder: d1Plqr3fVwgunOL6
 name: Consumables
 color: null
 sorting: a
-_id: P067RWgDsaJq2S5r
+_id: mBkEaHY2IDFQbm6q
 description: ''
-sort: 0
+sort: 100000
 flags: {}
 _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  lastModifiedBy: GURa9Tm6QJyl1rY7
-  modifiedTime: 1751914876192
-_key: '!folders!P067RWgDsaJq2S5r'
+  systemVersion: 2.11.5
+  lastModifiedBy: PBdPE9squMuZKhHK
+  modifiedTime: 1754138330075
+_key: '!folders!mBkEaHY2IDFQbm6q'

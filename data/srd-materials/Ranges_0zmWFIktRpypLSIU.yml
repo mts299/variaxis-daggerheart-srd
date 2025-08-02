@@ -1,0 +1,46 @@
+name: Ranges
+type: item
+folder: 61WWExuBldpmE4UT
+img: icons/sundries/scrolls/scroll-runed-brown.webp
+system:
+  description: >-
+    <p>Daggerheart uses the following ranges to translate fictional positioning
+    into relative distance for the purposes of targeting, movement, and other
+    game mechanics:</p><p></p><ul><li><p><strong>Melee:</strong> Close enough to
+    touch, up to a few feet away. (1 sq.)</p></li><li><p><strong>Very
+    Close:</strong> Close enough to see fine details, about 5–10 feet away. (3
+    sq.)</p></li><li><p><strong>Close:</strong> Close enough to see prominent
+    details, about 10–30 feet away. (6 sq.)</p></li><li><p><strong>Far</strong>:
+    Close enough to see very little detail, about 30–100 feet away. (12
+    sq.)</p></li><li><p><strong>Very Far</strong>: Too far to make out any
+    details, about 100–300 feet away. (13+ sq.)</p></li><li><p><strong>Out of
+    Range</strong>: Anything beyond a character’s Very Far range is Out of Range
+    and usually can’t be targeted.</p></li></ul><p></p><p><em>Battlemap
+    distances are notes in squares and listed in parentheses. </em></p>
+  category: Rule
+  rarity: Reference
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754061342049
+  modifiedTime: 1754061345700
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: 0zmWFIktRpypLSIU
+sort: 400000
+_key: '!items!0zmWFIktRpypLSIU'

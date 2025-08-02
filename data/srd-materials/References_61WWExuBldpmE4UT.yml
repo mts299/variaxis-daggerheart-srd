@@ -1,0 +1,20 @@
+type: Item
+folder: null
+name: References
+color: null
+sorting: a
+_id: 61WWExuBldpmE4UT
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754061209439
+  modifiedTime: 1754061209439
+  lastModifiedBy: PBdPE9squMuZKhHK
+_key: '!folders!61WWExuBldpmE4UT'

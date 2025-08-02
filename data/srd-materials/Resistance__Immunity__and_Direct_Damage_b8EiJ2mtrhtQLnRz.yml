@@ -1,0 +1,37 @@
+name: Resistance, Immunity, and Direct Damage
+type: inventory
+folder: 61WWExuBldpmE4UT
+img: icons/sundries/scrolls/scroll-runed-brown.webp
+system:
+  description: >-
+    <p><em><strong>Resistance:</strong> </em>Halve the damage before comparing
+    to thresholds.</p><p><em><strong>Immunity: </strong></em>Ignores the damage
+    of that type.</p><p><em><strong>Direct Damage: </strong></em>Can't be
+    reduced by marking an armor slot.</p>
+  category: Rule
+  rarity: Reference
+  location: backpack
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754061342998
+  modifiedTime: 1754061345700
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: b8EiJ2mtrhtQLnRz
+sort: 500000
+_key: '!items!b8EiJ2mtrhtQLnRz'

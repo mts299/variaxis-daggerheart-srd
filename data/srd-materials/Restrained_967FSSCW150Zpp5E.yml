@@ -1,0 +1,36 @@
+name: Restrained
+type: inventory
+folder: 61WWExuBldpmE4UT
+img: icons/sundries/scrolls/scroll-runed-brown.webp
+system:
+  description: >-
+    <p>When you gain the <em><strong>Restrained</strong></em> condition, you
+    can’t move until this condition is cleared, but you can still take actions
+    from your current position</p>
+  category: Condition
+  rarity: Reference
+  location: backpack
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754061344841
+  modifiedTime: 1754061345700
+  lastModifiedBy: PBdPE9squMuZKhHK
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_id: 967FSSCW150Zpp5E
+sort: 700000
+_key: '!items!967FSSCW150Zpp5E'
