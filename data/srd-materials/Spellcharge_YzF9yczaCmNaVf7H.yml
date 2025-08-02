@@ -1,16 +1,16 @@
 name: Spellcharge
 type: item
 folder: s8pn3KLRe1vr59Pv
-img: systems/daggerheart/assets/domains/midnight.svg
+img: modules/daggerheart-srd/assets/domains/midnight.svg
 system:
   description: >-
-    <h3>Level 8 Midnight Spell</h3><p>Recall Cost: 1</p><p>When you take magic
-    damage, place tokens equal to the number of Hit Points you marked on this
-    card. You can store a number of tokens equal to your Spellcast trait. When
-    you make a successful attack against a target, you can spend any number of
-    tokens to add a d6 for each token spent to your damage roll.</p>
-  category: ''
-  rarity: ''
+    <p>When you take magic damage, place tokens equal to the number of Hit
+    Points you marked on this card. You can store a number of tokens equal to
+    your Spellcast trait. When you make a successful attack against a target,
+    you can spend any number of tokens to add a [[/roll d6]] for each token
+    spent to your damage roll.</p>
+  category: Midnight - level 8
+  rarity: Recall cost 1
   location: abilities
   quantity: 1
   weight: 0
@@ -18,9 +18,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -28,10 +25,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752016113182
-  modifiedTime: 1752016113182
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139707625
+  modifiedTime: 1754140248610
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: YzF9yczaCmNaVf7H
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!YzF9yczaCmNaVf7H'

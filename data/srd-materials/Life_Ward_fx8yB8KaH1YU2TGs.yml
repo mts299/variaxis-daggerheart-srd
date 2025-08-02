@@ -1,16 +1,16 @@
 name: Life Ward
 type: item
 folder: IsA8VNSMwTVslRbC
-img: systems/daggerheart/assets/domains/splendor.svg
+img: modules/daggerheart-srd/assets/domains/splendor.svg
 system:
   description: >-
-    <h3>Level 4 Splendor Spell</h3><p>Recall Cost: 1</p><p>Spend 3 Hope and
-    choose an ally within Close range. They are marked with a glowing sigil of
-    protection. When this ally would make a death move, they clear a Hit Point
-    instead. This effect ends when it saves the target from a death move, you
-    cast Life Ward on another target, or you take a long rest.</p>
-  category: ''
-  rarity: ''
+    <p>Spend 3 Hope and choose an ally within <strong>Close</strong> range. They
+    are marked with a glowing sigil of protection. When this ally would make a
+    death move, they clear a Hit Point instead. </p><p>This effect ends when it
+    saves the target from a death move, you cast <em><strong>Life
+    Ward</strong></em> on another target, or you take a long rest.</p>
+  category: Splendor - Level 4
+  rarity: Recall cost 1
   location: abilities
   quantity: 1
   weight: 0
@@ -18,9 +18,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -28,10 +25,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752018511081
-  modifiedTime: 1752018511081
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754144474861
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: fx8yB8KaH1YU2TGs
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!fx8yB8KaH1YU2TGs'

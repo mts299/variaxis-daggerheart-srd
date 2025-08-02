@@ -1,19 +1,20 @@
 name: Stunning Sunlight
 type: item
 folder: LyP7CeMlH2Jl4ZZT
-img: systems/daggerheart/assets/domains/splendor.svg
+img: modules/daggerheart-srd/assets/domains/splendor.svg
 system:
   description: >-
-    <h3>Level 8 Splendor Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast Roll
-    to unleash powerful rays of burning sunlight against all adversaries in
-    front of you within Far range. On a success, spend any number of Hope and
-    force that many targets you succeeded against to make a Reaction Roll (14).
-    Targets who succeed take 3d20+3 magic damage. Targets who fail take 4d20+5
-    magic damage and are temporarily Stunned. While Stunned, they can't use
-    reactions and can't take any other actions until they clear this
-    condition.</p>
-  category: ''
-  rarity: ''
+    <p>Make a <strong>Spellcast Roll</strong> to unleash powerful rays of
+    burning sunlight against all adversaries in front of you within Far range.
+    On a success, spend any number of Hope and force that many targets you
+    succeeded against to make a <strong>Reaction Roll
+    (14</strong>).</p><p>Targets who succeed take [[/roll 3d20+3]] magic damage.
+    <br />Targets who fail take [[/roll 4d20+5]] magic damage and are
+    temporarily <em><strong>Stunned</strong></em>. </p><p>While
+    <em><strong>Stunned</strong></em>, they can't use reactions and can't take
+    any other actions until they clear this condition.</p>
+  category: Splendor - Level 8
+  rarity: Recall cost 2
   location: abilities
   quantity: 1
   weight: 0
@@ -21,9 +22,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -31,10 +29,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752018621634
-  modifiedTime: 1752018621634
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754140383890
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: 6wz8NqbGEIxycAPw
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!6wz8NqbGEIxycAPw'

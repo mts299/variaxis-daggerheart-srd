@@ -1,0 +1,37 @@
+name: I Am Your Shield
+type: domain
+folder: 5NbAabDkKoZptRTa
+_id: QvGAIBLTo2eboWRH
+img: modules/daggerheart-srd/assets/domains/valor.svg
+system:
+  description: >-
+    <p>When an ally within <strong>Very Close</strong> range would take damage,
+    you can mark a Stress to stand in the way and make yourself the target of
+    the attack instead. </p><p>When you take damage from this attack, you can
+    mark any number of Armor Slots.</p>
+  category: Valor - Level 1
+  rarity: recall cost 0
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139711318
+  modifiedTime: 1754144561766
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!QvGAIBLTo2eboWRH'

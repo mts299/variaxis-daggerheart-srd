@@ -1,14 +1,13 @@
 name: Full Surge
 type: item
 folder: 2N3j0hkT3G7KYkET
-img: systems/daggerheart/assets/domains/valor.svg
+img: modules/daggerheart-srd/assets/domains/valor.svg
 system:
   description: >-
-    <h3>Level 8 Valor Ability</h3><p>Recall Cost: 1</p><p>Once per long rest,
-    mark 3 Stress to gain a +2 bonus to all your traits until your next
-    rest.</p>
-  category: ''
-  rarity: ''
+    <p>Once per long rest, mark 3 Stress to gain a +2 bonus to all your traits
+    until your next rest.</p>
+  category: Valor - Level 8
+  rarity: Recall Cost 1
   location: abilities
   quantity: 1
   weight: 0
@@ -16,9 +15,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -26,10 +22,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752018966701
-  modifiedTime: 1752018966701
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139711318
+  modifiedTime: 1754140488583
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: 1w4sT84f7vjpGE9l
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!1w4sT84f7vjpGE9l'

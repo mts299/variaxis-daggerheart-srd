@@ -1,0 +1,38 @@
+name: Deft Maneuvers
+type: domain
+folder: rfXd6VBhDWVAeQT7
+_id: M5VJYMVijUkdOktm
+img: modules/daggerheart-srd/assets/domains/bone.svg
+system:
+  description: >-
+    <p>Once per rest, mark a Stress to sprint anywhere within
+    <strong>Far</strong> range without making an Agility Roll to get
+    there.</p><p>If you end this movement within Melee range of an adversary and
+    immediately make an attack against them, gain a +1 bonus to the attack
+    roll.</p>
+  category: Bone - Level 1
+  rarity: recall cost 0
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139703511
+  modifiedTime: 1754139996044
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!M5VJYMVijUkdOktm'

@@ -1,21 +1,23 @@
 name: Book of Grynn
 type: item
 folder: cWgtiqpmIPxJijeZ
-img: systems/daggerheart/assets/domains/codex.svg
+img: modules/daggerheart-srd/assets/domains/codex.svg
 system:
   description: >-
-    <h3>Level 4 Codex Grimoire</h3><p>Recall Cost: 2</p><p>Arcane Deflection:
-    Once per long rest, spend a Hope to negate the damage of an attack targeting
-    you or an ally within Very Close range. Time Lock: Target an object within
-    Far range. That object stops in time and space exactly where it is until
-    your next rest. If a creature tries to move it, make a Spellcast Roll
-    against them to maintain this spell. Wall of Flame: Make a Spellcast Roll
-    (15). On a success, create a temporary wall of magical flame between two
-    points within Far range. All creatures in its path must choose a side to be
-    on, and anything that subsequently passes through the wall takes 4d10+3
-    magic damage.</p>
-  category: ''
-  rarity: ''
+    <p><em><strong>Arcane Deflection:</strong></em> Once per long rest, spend a
+    Hope to negate the damage of an attack targeting you or an ally within
+    <strong>Very Close</strong> range.</p><p><em><strong>Time
+    Lock:</strong></em> Target an object within <strong>Far</strong> range. That
+    object stops in time and space exactly where it is until your next rest. If
+    a creature tries to move it, make a <strong>Spellcast Roll</strong> against
+    them to maintain this spell.</p><p><em><strong>Wall of Flame:</strong></em>
+    Make a <strong>Spellcast Roll</strong> (15). On a success, create a
+    temporary wall of magical flame between two points within
+    <strong>Far</strong> range. All creatures in its path must choose a side to
+    be on, and anything that subsequently passes through the wall takes [[/roll
+    4d10+3]] magic damage.</p>
+  category: Codex - level 4
+  rarity: Recall Cost 2
   location: abilities
   quantity: 1
   weight: 0
@@ -23,9 +25,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -33,10 +32,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752015216759
-  modifiedTime: 1752015216759
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139704923
+  modifiedTime: 1754140057451
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: IeC7brN25UOH6dft
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!IeC7brN25UOH6dft'

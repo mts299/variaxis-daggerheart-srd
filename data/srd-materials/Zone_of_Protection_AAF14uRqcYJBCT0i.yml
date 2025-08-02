@@ -1,18 +1,18 @@
 name: Zone of Protection
 type: item
 folder: hMgdW7ICgENM4rS5
-img: systems/daggerheart/assets/domains/splendor.svg
+img: modules/daggerheart-srd/assets/domains/splendor.svg
 system:
   description: >-
-    <h3>Level 6 Splendor Spell</h3><p>Recall Cost: 2</p><p>Make a Spellcast Roll
-    (16). Once per long rest on a success, choose a point within Far range and
-    create a visible zone of protection there for all allies within Very Close
-    range of that point. When you do, place a d6 on this card with the 1 value
-    facing up. When an ally in this zone takes damage, they reduce it by the
-    die's value. You then increase the die's value by one. When the die's value
-    would exceed 6, this effect ends.</p>
-  category: ''
-  rarity: ''
+    <p>Make a <strong>Spellcast Roll (16)</strong>. Once per long rest on a
+    success, choose a point within <strong>Far</strong> range and create a
+    visible zone of protection there for all allies within <strong>Very
+    Close</strong> range of that point. When you do, place a [[/roll d6]] on
+    this card with the 1 value facing up. </p><p>When an ally in this zone takes
+    damage, they reduce it by the die's value. You then increase the die's value
+    by one. </p><p>When the die's value would exceed 6, this effect ends.</p>
+  category: Splendor - Level 6
+  rarity: Recall cost 2
   location: abilities
   quantity: 1
   weight: 0
@@ -20,9 +20,6 @@ system:
   groups: {}
   resourceTrackers: []
 effects: []
-ownership:
-  default: 0
-  Hv1JCJEjUNITYeqB: 3
 flags: {}
 _stats:
   compendiumSource: null
@@ -30,10 +27,14 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.10.5
-  createdTime: 1752018635171
-  modifiedTime: 1752018635171
-  lastModifiedBy: Hv1JCJEjUNITYeqB
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754140393827
+  lastModifiedBy: PBdPE9squMuZKhHK
 _id: AAF14uRqcYJBCT0i
 sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
 _key: '!items!AAF14uRqcYJBCT0i'

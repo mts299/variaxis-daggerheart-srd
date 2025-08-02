@@ -1,0 +1,45 @@
+name: Book of Sitil
+type: domain
+folder: YwILAldujohRbA0E
+img: modules/daggerheart-srd/assets/domains/codex.svg
+system:
+  description: >-
+    <p><em><strong>Adjust Appearance:</strong></em> You magically shift your
+    appearance and clothing to avoid
+    recognition.</p><p><em><strong>Parallecta:</strong></em> Spend 2 Hope to
+    cast this spell on yourself or an ally within <strong>Close</strong> range.
+    The next time the target makes an attack, they can roll an additional target
+    within range that their attack roll would succeed against. You can only hold
+    this spell on one creature at a
+    time.</p><p><em><strong>Illusion:</strong></em> Make a <strong>Spellcast
+    Roll</strong> (14). On a success, create a temporary visual illusion no
+    larger than you within <strong>Close</strong> range that lasts for as long
+    as you look at it. It holds up to scrutiny until an observer is within
+    <strong>Melee</strong> range.</p><p></p>
+  category: Codex - level 2
+  rarity: recall cost 2
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139704923
+  modifiedTime: 1754140070910
+  lastModifiedBy: PBdPE9squMuZKhHK
+_id: yKHOApfgw6oDtffz
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!yKHOApfgw6oDtffz'

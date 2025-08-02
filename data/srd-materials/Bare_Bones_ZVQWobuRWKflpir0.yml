@@ -1,0 +1,47 @@
+name: Bare Bones
+type: domain
+folder: 5NbAabDkKoZptRTa
+_id: ZVQWobuRWKflpir0
+img: modules/daggerheart-srd/assets/domains/valor.svg
+system:
+  description: >-
+    <p>When you choose not to equip <span><a style="border-bottom:1px dotted
+    rgb(0, 0, 0);text-decoration:none" class="tooltip-link
+    tooltip-link-rule">armor</a></span>, you have a base <span><a
+    style="border-bottom:1px dotted rgb(0, 0, 0);text-decoration:none"
+    class="tooltip-link tooltip-link-rule">Armor Score</a></span> of 3 + your
+    <span><a style="border-bottom:1px dotted rgb(0, 0, 0);text-decoration:none"
+    class="tooltip-link tooltip-link-rule">Strength</a> </span>and use the
+    following as your base damage thresholds:<br /></p><ul><li
+    class="vertical-card-list-found"><em><strong>Tier 1:</strong></em>
+    9/19</li><li class="vertical-card-list-found"><em><strong>Tier
+    2:</strong></em> 11/24</li><li
+    class="vertical-card-list-found"><em><strong>Tier 3:</strong></em>
+    13/31</li><li class="vertical-card-list-found"><em><strong>Tier
+    4:</strong></em> 15/38</li></ul>
+  category: Valor - Level 1
+  rarity: recall cost 0
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139711318
+  modifiedTime: 1754140532903
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: '!items!ZVQWobuRWKflpir0'
