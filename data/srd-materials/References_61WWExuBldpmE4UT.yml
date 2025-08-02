@@ -5,7 +5,7 @@ color: null
 sorting: a
 _id: 61WWExuBldpmE4UT
 description: ''
-sort: 0
+sort: 100000
 flags: {}
 _stats:
   compendiumSource: null
@@ -15,6 +15,6 @@ _stats:
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754061209439
-  modifiedTime: 1754061209439
-  lastModifiedBy: PBdPE9squMuZKhHK
+  modifiedTime: 1754167131412
+  lastModifiedBy: GHK9xQYeYjLhONPd
 _key: '!folders!61WWExuBldpmE4UT'

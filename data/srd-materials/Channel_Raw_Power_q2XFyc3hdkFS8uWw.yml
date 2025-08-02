@@ -1,0 +1,48 @@
+name: Channel Raw Power
+type: item
+folder: So80HPwViPCkYZwa
+img: modules/daggerheart-srd/assets/classes/sorcerer.svg
+system:
+  description: >-
+    <p>Once per <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-long-rest"
+    data-bs-original-title>long rest</a>, you can place a <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card"
+    data-bs-original-title>domain card</a> from your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-loadout"
+    data-bs-original-title>loadout</a> into your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-loadout"
+    data-bs-original-title>vault</a> and choose to either:</p><ul
+    class="og-list-disc"><li>Gain <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title>Hope</a> equal to the level of the
+    card.</li><li>Enhance a spell that deals damage, gaining a bonus to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-damage-roll"
+    data-bs-original-title>damage roll</a> equal to twice the level of the
+    card.</li></ul>
+  category: Class Feat
+  rarity: Sorcerer
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754176700450
+  modifiedTime: 1754177955612
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: q2XFyc3hdkFS8uWw
+sort: 200000
+_key: '!items!q2XFyc3hdkFS8uWw'

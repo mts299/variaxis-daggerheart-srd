@@ -2,7 +2,7 @@ name: Primal Origin
 type: subclass
 folder: DqhtOk8xgbk6Ndsz
 _id: 5T6kdnPsISSjmcw1
-img: icons/svg/item-bag.svg
+img: modules/daggerheart-srd/assets/classes/sorcerer.svg
 system:
   description: >-
     <p>Play the Primal Origin if you want to extend the versatility of your
@@ -41,11 +41,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
   systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  modifiedTime: 1754178402512
+  lastModifiedBy: GHK9xQYeYjLhONPd
 sort: 0
 ownership:
   default: 0

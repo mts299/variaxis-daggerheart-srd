@@ -2,7 +2,7 @@ name: Call of the Brave
 type: subclass
 folder: G6QREH7srMdFHgxy
 _id: WfPZBznMNfOGZkQq
-img: icons/svg/item-bag.svg
+img: modules/daggerheart-srd/assets/classes/warrior.svg
 system:
   description: >-
     <p>Play the Call of the Brave if you want to use the might of your enemies
@@ -34,11 +34,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
   systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  modifiedTime: 1754178423652
+  lastModifiedBy: GHK9xQYeYjLhONPd
 sort: 0
 ownership:
   default: 0

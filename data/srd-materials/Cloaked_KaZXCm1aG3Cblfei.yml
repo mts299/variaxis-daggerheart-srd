@@ -1,0 +1,46 @@
+name: Cloaked
+type: item
+folder: LzTGBGGT29UQkFny
+img: modules/daggerheart-srd/assets/classes/rogue.svg
+system:
+  description: >-
+    <p>Any time you would be <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-condition"
+    data-bs-original-title><em>Hidden</em></a>, you are instead
+    <em>Cloaked</em>. In addition to the benefits of the <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-condition"
+    data-bs-original-title><em>Hidden</em></a> condition, while <em>Cloaked</em>
+    you remain unseen if you are stationary when an <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-adversary"
+    data-bs-original-title>adversary</a> moves to where they would normally see
+    you. After you make an <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-attack-roll"
+    data-bs-original-title>attack</a> or end a move within line of sight of an
+    adversary, you are no longer <em>Cloaked</em>. Otherwise, this bonus lasts
+    until your next rest.</p>
+  category: Class Feat
+  rarity: Rogue
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754175723134
+  modifiedTime: 1754178096766
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: KaZXCm1aG3Cblfei
+sort: 200000
+_key: '!items!KaZXCm1aG3Cblfei'

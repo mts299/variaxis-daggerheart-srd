@@ -1,0 +1,39 @@
+name: Strange Patterns
+type: item
+folder: AIPStYP3zb18V78c
+img: modules/daggerheart-srd/assets/classes/wizard.svg
+system:
+  description: >-
+    <p>Choose a number between 1 and 12. When you roll that number on a Duality
+    Die, gain a <a href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title>Hope</a> or clear a <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-stress"
+    data-bs-original-title>Stress</a>.</p><p>You can change this number when you
+    take a <a href="https://callmepartario.github.io/og-dhsrd/#define-long-rest"
+    data-bs-original-title>long rest</a>.</p>
+  category: Class Feat
+  rarity: Wizard
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754172085938
+  modifiedTime: 1754177838869
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: gKUmkrtrMrSWJ8IL
+sort: 100000
+_key: '!items!gKUmkrtrMrSWJ8IL'

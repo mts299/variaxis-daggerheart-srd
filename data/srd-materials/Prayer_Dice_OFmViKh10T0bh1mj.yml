@@ -1,0 +1,44 @@
+name: Prayer Dice
+type: item
+folder: ZwKSS4JzJRqtFmtF
+img: modules/daggerheart-srd/assets/classes/seraph.svg
+system:
+  description: >-
+    <p>At the beginning of each session, roll a number of <strong>d4s</strong>
+    equal to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-subclass"
+    data-bs-original-title>subclass</a>'s Spellcast trait and place them on your
+    character sheet in the space provided. These are your Prayer Dice. You can
+    spend any number of Prayer Dice to aid yourself or an ally within <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Far</a> range. You can use a spent die's value to
+    reduce incoming damage, add to a roll's result after the roll is made, or
+    gain <a href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title>Hope</a> equal to the result. At the end of each
+    session, clear all unspent Prayer Dice.</p>
+  category: Class Feat
+  rarity: Seraph
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754175905011
+  modifiedTime: 1754178046331
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: OFmViKh10T0bh1mj
+sort: 0
+_key: '!items!OFmViKh10T0bh1mj'

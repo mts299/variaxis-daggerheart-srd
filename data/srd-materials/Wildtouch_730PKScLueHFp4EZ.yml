@@ -1,0 +1,35 @@
+name: Wildtouch
+type: item
+folder: MQCPDzw19X5ZvmiN
+img: modules/daggerheart-srd/assets/classes/druid.svg
+system:
+  description: >-
+    <p>You can perform harmless, subtle effects that involve nature—such as
+    causing a flower to rapidly grow, summoning a slight gust of wind, or
+    starting a campfire—at will.</p>
+  category: Class Feat
+  rarity: Druid
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754173419197
+  modifiedTime: 1754178188981
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: 730PKScLueHFp4EZ
+sort: 100000
+_key: '!items!730PKScLueHFp4EZ'

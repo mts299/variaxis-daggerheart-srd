@@ -1,0 +1,63 @@
+name: Beastform
+type: item
+folder: MQCPDzw19X5ZvmiN
+img: modules/daggerheart-srd/assets/classes/druid.svg
+system:
+  description: >-
+    <p><a href="https://callmepartario.github.io/og-dhsrd/#define-stress"
+    data-bs-original-title aria-describedby="tooltip351527"><strong>Mark a
+    Stress</strong></a> to magically transform into a creature of your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-tier"
+    data-bs-original-title>tier</a> or lower from the <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-druid-beastform-options"
+    data-bs-original-title>Beastform</a> list. You can drop out of this form at
+    any time. While transformed, you can't use weapons or cast spells from <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card"
+    data-bs-original-title>domain cards</a>, but you can still use other
+    features or abilities you have access to. Spells you cast before you
+    transform stay active and last for their normal duration, and you can talk
+    and communicate as normal. Additionally, you gain the Beastform's features,
+    add their <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-evasion"
+    data-bs-original-title>Evasion</a> bonus to your Evasion, and use the <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-trait"
+    data-bs-original-title>trait</a> specified in their <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-druid-beastform-categories"
+    data-bs-original-title>statistics</a> for your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-attack-roll"
+    data-bs-original-title>attack</a>. While you're in a Beastform, your armor
+    becomes part of your body and you mark <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-armor"
+    data-bs-original-title>Armor Slots</a> as usual; when you drop out of a
+    Beastform, those marked <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-armor"
+    data-bs-original-title>Armor Slots</a> remain marked. If you mark your last
+    <a href="https://callmepartario.github.io/og-dhsrd/#define-hit-point"
+    data-bs-original-title>Hit Point</a>, you automatically drop out of this
+    form.</p>
+  category: Class Feat
+  rarity: Druid
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754173425488
+  modifiedTime: 1754178199960
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: EPN0IfF8Pvwv5SHx
+sort: 200000
+_key: '!items!EPN0IfF8Pvwv5SHx'

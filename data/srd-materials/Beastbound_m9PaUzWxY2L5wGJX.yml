@@ -2,7 +2,7 @@ name: Beastbound
 type: subclass
 folder: OibQ9wUw5Bqg2thu
 _id: m9PaUzWxY2L5wGJX
-img: icons/svg/item-bag.svg
+img: modules/daggerheart-srd/assets/classes/ranger.svg
 system:
   description: >-
     <p>Play the Beastbound if you want to form a deep bond with an animal
@@ -36,11 +36,11 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.344'
+  coreVersion: '13.346'
   systemId: daggerheart
   systemVersion: 2.9.7
-  modifiedTime: 1751776752202
-  lastModifiedBy: GURa9Tm6QJyl1rY7
+  modifiedTime: 1754178326794
+  lastModifiedBy: GHK9xQYeYjLhONPd
 sort: 0
 ownership:
   default: 0

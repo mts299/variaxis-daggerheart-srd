@@ -1,0 +1,46 @@
+name: Rally
+type: item
+folder: c3cWHACzGiKM9ACd
+img: modules/daggerheart-srd/assets/classes/bard.svg
+system:
+  description: >-
+    <p>Once per session, describe how you rally the party and give yourself and
+    each of your allies a Rally Die. At level 1, your Rally Die is a
+    <strong>d6</strong>. A PC can spend their Rally Die to roll it, adding the
+    result to their <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>action roll</a>, <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-reaction-roll"
+    data-bs-original-title>reaction roll</a>, <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-damage-roll"
+    data-bs-original-title>damage roll</a>, or to clear a number of <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-stress"
+    data-bs-original-title>Stress</a> equal to the result. At the end of each
+    session, clear all unspent Rally Dice. At level 5, your Rally Die increases
+    to a <strong>d8</strong>.</p>
+  category: Class Feat
+  rarity: Bard
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754173072090
+  modifiedTime: 1754178234858
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: 7wh709bErDoXoP5S
+sort: 0
+_key: '!items!7wh709bErDoXoP5S'

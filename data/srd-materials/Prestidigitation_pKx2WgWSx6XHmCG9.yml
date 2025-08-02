@@ -1,0 +1,35 @@
+name: Prestidigitation
+type: item
+folder: AIPStYP3zb18V78c
+img: modules/daggerheart-srd/assets/classes/wizard.svg
+system:
+  description: >-
+    <p>You can perform harmless, subtle magical effects at will. For example,
+    you can change an object's color, create a smell, light a candle, cause a
+    tiny object to float, illuminate a room, or repair a small object.</p>
+  category: Class Feat
+  rarity: Wizard
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754171975101
+  modifiedTime: 1754177845047
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: pKx2WgWSx6XHmCG9
+sort: 200000
+_key: '!items!pKx2WgWSx6XHmCG9'

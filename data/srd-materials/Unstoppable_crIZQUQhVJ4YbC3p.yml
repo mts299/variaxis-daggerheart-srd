@@ -1,0 +1,55 @@
+name: Unstoppable
+type: item
+folder: jJHmdfqftIJVtTMu
+img: modules/daggerheart-srd/assets/classes/guardian.svg
+system:
+  description: >-
+    <p>Once per <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-long-rest"
+    data-bs-original-title>long rest</a>, you can become <em>Unstoppable</em>.
+    You gain an Unstoppable Die. At level 1, your Unstoppable Die is a
+    <strong>d4</strong>. Place it on your character sheet in the space provided,
+    starting with the 1 value facing up. After you make a <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-damage-roll"
+    data-bs-original-title>damage roll</a> that deals 1 or more <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hit-point"
+    data-bs-original-title>Hit Points</a> to a target, increase the Unstoppable
+    Die value by one. When the die's value would exceed its maximum value or
+    when the scene ends, remove the die and drop out of <em>Unstoppable</em>. At
+    level 5, your Unstoppable Die increases to a
+    <strong>d6</strong>.</p><p>While <em>Unstoppable</em>, you gain the
+    following benefits:</p><ul class="og-list-disc"><li>You reduce the severity
+    of <a href="https://callmepartario.github.io/og-dhsrd/#define-damage-type"
+    data-bs-original-title>physical damage</a> by one threshold (Severe to
+    Major, Major to Minor, Minor to None).</li><li>You add the current value of
+    the Unstoppable Die to your damage roll.</li><li>You can't be <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-condition"
+    data-bs-original-title><em>Restrained</em></a> or <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-condition"
+    data-bs-original-title><em>Vulnerable</em></a>.</li></ul>
+  category: Class Feat
+  rarity: Guardian
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754174477499
+  modifiedTime: 1754178152074
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: crIZQUQhVJ4YbC3p
+sort: 0
+_key: '!items!crIZQUQhVJ4YbC3p'

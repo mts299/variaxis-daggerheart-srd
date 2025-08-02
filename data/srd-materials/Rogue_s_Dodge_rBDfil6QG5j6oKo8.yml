@@ -1,0 +1,40 @@
+name: Rogue's Dodge
+type: item
+folder: LzTGBGGT29UQkFny
+img: modules/daggerheart-srd/assets/classes/rogue.svg
+system:
+  description: >-
+    <p><a href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title aria-describedby="tooltip554299"><strong>Spend 3
+    Hope</strong></a> to gain a +2 bonus to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-evasion"
+    data-bs-original-title>Evasion</a> until the next time an attack succeeds
+    against you. Otherwise, this bonus lasts until your next <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-downtime"
+    data-bs-original-title>rest</a>.</p>
+  category: Class Feat
+  rarity: Rogue
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754175718913
+  modifiedTime: 1754178083670
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: rBDfil6QG5j6oKo8
+sort: 300000
+_key: '!items!rBDfil6QG5j6oKo8'
