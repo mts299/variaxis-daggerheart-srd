@@ -12,73 +12,49 @@ system:
     @UUID[Compendium.daggerheart-srd.srd-materials.Item.CkAjanKeKIQcSfky]{Warrior}</p><h4>Domain
     Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
     Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-get-back-up"
-    data-bs-original-title aria-describedby="tooltip842802">Get Back
-    Up</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-not-good-enough"
-    data-bs-original-title>Not Good Enough</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-whirlwind"
-    data-bs-original-title>Whirlwind</a></li></ul></td></tr><tr><td><p>2</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-a-soldiers-bond"
-    data-bs-original-title>A Soldier's Bond</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-reckless"
-    data-bs-original-title>Reckless</a></li></ul></td></tr><tr><td><p>3</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-scramble"
-    data-bs-original-title>Scramble</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-versatile-fighter"
-    data-bs-original-title>Versatile
-    Fighter</a></li></ul></td></tr><tr><td><p>4</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-deadly-focus"
-    data-bs-original-title>Deadly Focus</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-fortified-armor"
-    data-bs-original-title>Fortified
-    Armor</a></li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-champions-edge"
-    data-bs-original-title>Champion's Edge</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-vitality"
-    data-bs-original-title>Vitality</a></li></ul></td></tr><tr><td><p>6</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-battle-hardened"
-    data-bs-original-title>Battle-Hardened</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-rage-up"
-    data-bs-original-title>Rage
-    Up</a></li></ul></td></tr><tr><td><p>7</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-blade-touched"
-    data-bs-original-title>Blade-Touched</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-glancing-blow"
-    data-bs-original-title>Glancing
-    Blow</a></li></ul></td></tr><tr><td><p>8</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-battle-cry"
-    data-bs-original-title>Battle Cry</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-frenzy"
-    data-bs-original-title>Frenzy</a></li></ul></td></tr><tr><td><p>9</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-battle-cry"
-    data-bs-original-title>Battle Cry</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-frenzy"
-    data-bs-original-title>Frenzy</a></li></ul></td></tr><tr><td><p>10</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-battle-monster"
-    data-bs-original-title>Battle Monster</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-onslaught"
-    data-bs-original-title>Onslaught</a></li></ul></td></tr></tbody></table>
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.MSRbOSkUw2dkZ4wo]{Get
+    Back Up}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.9Lf3tfZb5AWc08Jh]{Not
+    Good Enough}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.qMqc7fYdifPKnuzc]{Whirlwind}</li></ul></td></tr><tr><td><p>2</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.SVa0iM6u69gEFI1b]{A
+    Soldier’s Bond}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.9xQo2t1CvjjYz798]{Reckless}</li></ul></td></tr><tr><td><p>3</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.BPVdAbtdPsG9BLXv]{Scramble}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.VdlaQs3eIIAGzt0c]{Versatile
+    Fighter}</li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.jxnGpqPfR4S4Xkx8]{Deadly
+    Focus}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.ZUedbughvjsDZZ33]{Fortified
+    Armor}</li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.asbvqspPmmRNNM8z]{Champion's
+    Edge}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.GH6n4CHnGjhk0KUx]{Vitality}</li></ul></td></tr><tr><td><p>6</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.XtEuEZvvISgw4YCP]{Battle-Hardened}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.KI6r9gONB2VDHEEN]{Rage
+    Up}</li></ul></td></tr><tr><td><p>7</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.sjTEekX2S6KAJk0M]{Blade-Touched}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.0sEgIMst8WQzyQei]{Glancing
+    Blow}</li></ul></td></tr><tr><td><p>8</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.VfkONoeucDYc5skS]{Battle
+    Cry}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.6hZuC8ol3xsuDPe7]{Frenzy}</li></ul></td></tr><tr><td><p>9</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.uLQhRphHDLmNBc4b]{Gore
+    and Glory}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.3QU9iSW2vdqA5qiK]{Reaper's
+    Strike}</li></ul></td></tr><tr><td><p>10</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.cmuBRfkoyheaUBrE]{Battle
+    Monster}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.osszKVL3VrvtEwcm]{Onslaught}</li></ul></td></tr></tbody></table>
   category: Domain
   rarity: SRD
   location: abilities
@@ -95,8 +71,8 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.11.1
-  modifiedTime: 1754078232950
+  systemVersion: 2.11.4
+  modifiedTime: 1754162515131
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: tWvcuXfvuphNmMQe
 sort: 0

@@ -13,77 +13,54 @@ system:
     @UUID[Compendium.daggerheart-srd.srd-materials.Item.pOxeDyxIdsTqXLgk]{Wizard}</p><h4>Domain
     Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
     Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-ava"
-    data-bs-original-title>Book of Ava</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-illiat"
-    data-bs-original-title>Book of Illiat</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-tyfar"
-    data-bs-original-title>Book of
-    Tyfar</a></li></ul></td></tr><tr><td><p>2</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-sitil"
-    data-bs-original-title aria-describedby="tooltip648438">Book of
-    Sitil</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-vagras"
-    data-bs-original-title>Book of
-    Vagras</a></li></ul></td></tr><tr><td><p>3</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-korvax"
-    data-bs-original-title>Book of Korvax</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-norai"
-    data-bs-original-title>Book of
-    Norai</a></li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-exota"
-    data-bs-original-title>Book of Exota</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-grynn"
-    data-bs-original-title>Book of
-    Grynn</a></li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-manifest-wall"
-    data-bs-original-title>Manifest Wall</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-teleport"
-    data-bs-original-title>Teleport</a></li></ul></td></tr><tr><td><p>6</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-banish"
-    data-bs-original-title>Banish</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-sigil-of-retribution"
-    data-bs-original-title>Sigil of
-    Retribution</a></li></ul></td></tr><tr><td><p>7</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-homet"
-    data-bs-original-title>Book of Homet</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-codex-touched"
-    data-bs-original-title>Codex-Touched</a></li></ul></td></tr><tr><td><p>8</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-vyola"
-    data-bs-original-title>Book of Vyola</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-safe-haven"
-    data-bs-original-title>Safe
-    Haven</a></li></ul></td></tr><tr><td><p>9</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-ronin"
-    data-bs-original-title>Book of Ronin</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-disintegration-wave"
-    data-bs-original-title>Disintegration
-    Wave</a></li></ul></td></tr><tr><td><p>10</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-book-of-yarrow"
-    data-bs-original-title>Book of Yarrow</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-transcendent-union"
-    data-bs-original-title>Transcendent
-    Union</a></li></ul></td></tr></tbody></table>
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.nhTAE8eEgzwhxNPy]{Book
+    of Ava}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.DhaRNVcSuZww1ok4]{Book
+    of Illiat}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.FQVc2F47dRfzaqiz]{Book
+    of Tyfar}</li></ul></td></tr><tr><td><p>2</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.yKHOApfgw6oDtffz]{Book
+    of Sitil}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.STUVqs7hNhaWkgBj]{Book
+    of Vagras}</li></ul></td></tr><tr><td><p>3</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.013PLKRnnrYpLPmb]{Book
+    of Korvax}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.z9JwN1LW8Wzq9fKc]{Book
+    of Norai}</li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.5kyXbhVsdFAZyBzt]{Book
+    of Exota}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.IeC7brN25UOH6dft]{Book
+    of Grynn}</li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.FQvsOeUDmJFZGu5f]{Manifest
+    Wall}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.Mzdwuw0FBlTEbfYc]{Teleport}</li></ul></td></tr><tr><td><p>6</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.fnYFZGbjOKH14xop]{Banish}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.SUMJOUITzRSfSs2s]{Sigil
+    of Retribution}</li></ul></td></tr><tr><td><p>7</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.QIh9KdJV9JgOMks4]{Book
+    of Homet}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.kcfjRKgYa4pfVd5w]{Codex-Touched}</li></ul></td></tr><tr><td><p>8</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.w8wACQUNt1kSEyT3]{Book
+    of Vyola}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.RqHSRtRXPr9pL8AE]{Safe
+    Haven}</li></ul></td></tr><tr><td><p>9</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.tFWJqPvPuaNRJ8JA]{Book
+    of Ronin}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.pTr4H94mSeOE3TUv]{Disintegration
+    Wave}</li></ul></td></tr><tr><td><p>10</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.AToXSUXYM4opmM9M]{Book
+    of Yarrow}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.XHfIsA3o2TChzGJO]{Transcendent
+    Union}</li></ul></td></tr></tbody></table>
   category: Domain
   rarity: SRD
   location: abilities
@@ -100,8 +77,8 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.11.1
-  modifiedTime: 1754078180428
+  systemVersion: 2.11.4
+  modifiedTime: 1754163048990
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: q0u966dVjADauCYA
 sort: 0

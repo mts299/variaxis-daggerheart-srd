@@ -12,80 +12,53 @@ system:
     @UUID[Compendium.daggerheart-srd.srd-materials.Item.pfPdBN5qX3UrT3d9]{Seraph}</em></p><h4>Domain
     Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
     Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-bare-bones"
-    data-bs-original-title aria-describedby="tooltip463273">Bare
-    Bones</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-i-am-your-shield"
-    data-bs-original-title>I Am Your Shield</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-bold-presence"
-    data-bs-original-title>Bold
-    Presence</a></li></ul></td></tr><tr><td><p>2</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-body-basher"
-    data-bs-original-title aria-describedby="tooltip754854">Body
-    Basher</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-bold-presence"
-    data-bs-original-title>Bold
-    Presence</a></li></ul></td></tr><tr><td><p>3</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-critical-inspiration"
-    data-bs-original-title aria-describedby="tooltip187590">Critical
-    Inspiration</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-lean-on-me"
-    data-bs-original-title>Lean On
-    Me</a></li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-goad-them-on"
-    data-bs-original-title aria-describedby="tooltip831075">Goad Them
-    On</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-support-tank"
-    data-bs-original-title>Support
-    Tank</a></li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-armorer"
-    data-bs-original-title aria-describedby="tooltip354271">Armorer</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-rousing-strike"
-    data-bs-original-title>Rousing
-    Strike</a></li></ul></td></tr><tr><td><p>6</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-inevitable"
-    data-bs-original-title
-    aria-describedby="tooltip352612">Inevitable</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-rise-up"
-    data-bs-original-title>Rise
-    Up</a></li></ul></td></tr><tr><td><p>7</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-shrug-it-off"
-    data-bs-original-title aria-describedby="tooltip95523">Shrug It
-    Off</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-valor-touched"
-    data-bs-original-title>Valor-Touched</a></li></ul></td></tr><tr><td><p>8</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-full-surge"
-    data-bs-original-title aria-describedby="tooltip114763">Full
-    Surge</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-ground-pound"
-    data-bs-original-title>Ground
-    Pound</a></li></ul></td></tr><tr><td><p>9</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-hold-the-line"
-    data-bs-original-title aria-describedby="tooltip346194">Hold The
-    Line</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-lead-by-example"
-    data-bs-original-title>Lead By
-    Example</a></li></ul></td></tr><tr><td><p>10</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-unbreakable"
-    data-bs-original-title
-    aria-describedby="tooltip84399">Unbreakable</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-unyielding-armor"
-    data-bs-original-title>Unyielding
-    Armor</a></li></ul></td></tr></tbody></table>
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.ZVQWobuRWKflpir0]{Bare
+    Bones}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.nn9kkwgnhJ3BbaIR]{Forceful
+    Push}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.QvGAIBLTo2eboWRH]{I
+    Am Your Shield}</li></ul></td></tr><tr><td><p>2</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.W0c81ZX4ktxv0lAW]{Body
+    Basher}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.NVsgcKti1PT3Uxrt]{Bold
+    Presence}</li></ul></td></tr><tr><td><p>3</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.7OV6p72tQeMssvF3]{Critical
+    Inspiration}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.R7rDct7aYAMsP3vY]{Lean
+    On Me}</li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.5cCPhOcb3LEQDgPb]{Goad
+    Them On}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.rf4e3ozsKhyPzqMk]{Support
+    Tank}</li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.AA5dlwx8c680NNk8]{Armorer}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.TvaoSOEAabgWHHRd]{Rousing
+    Strike}</li></ul></td></tr><tr><td><p>6</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.sOpJUhjDRM31rCOp]{Inevitable}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.GclfYnyvgNnUKagD]{Rise
+    Up}</li></ul></td></tr><tr><td><p>7</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.E5scaBQlcla1D5OB]{Shrug
+    It Off}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.gNZJGW4Nc5GjB4Zs]{Valor-Touched}</li></ul></td></tr><tr><td><p>8</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.1w4sT84f7vjpGE9l]{Full
+    Surge}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.TtUAo3QJ1lcwRUBG]{Ground
+    Pound}</li></ul></td></tr><tr><td><p>9</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.Mz6iqwByaDzMVhPL]{Hold
+    the Line}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.SRKFp5rgBQyjcDI1]{Lead
+    By Example}</li></ul></td></tr><tr><td><p>10</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.9qy1IkZZXArE9dF2]{Unbreakable}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.DdcmyPJ5T0b6vI8s]{Unyielding
+    Armor}</li></ul></td></tr></tbody></table>
   category: Domain
   rarity: SRD
   location: abilities
@@ -102,8 +75,8 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.11.1
-  modifiedTime: 1754078064991
+  systemVersion: 2.11.4
+  modifiedTime: 1754165193907
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: kRq1nQxq63vBQYSd
 sort: 0

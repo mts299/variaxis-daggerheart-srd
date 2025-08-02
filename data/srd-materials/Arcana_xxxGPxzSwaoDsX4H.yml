@@ -13,78 +13,55 @@ system:
     Deck:</h4><table><tbody><tr><td data-colwidth="49"><p>Level</p></td><td
     data-colwidth="166"><p>Domain Cards</p></td></tr><tr><td
     data-colwidth="49"><p>1</p></td><td data-colwidth="166"><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-rune-ward"
-    data-bs-original-title>Rune Ward</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-unleash-chaos"
-    data-bs-original-title>Unleash Chaos</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-wall-walk"
-    data-bs-original-title>Wall Walk</a></li></ul></td></tr><tr><td
-    data-colwidth="49"><p>2</p></td><td data-colwidth="166"><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-cinder-grasp"
-    data-bs-original-title aria-describedby="tooltip762777">Cinder
-    Grasp</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-floating-eye"
-    data-bs-original-title>Floating Eye</a></li></ul></td></tr><tr><td
-    data-colwidth="49"><p>3</p></td><td data-colwidth="166"><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-counterspell"
-    data-bs-original-title>Counterspell</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-flight"
-    data-bs-original-title>Flight</a></li></ul></td></tr><tr><td
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.DI9jA2nIzlAIcyNq]{Rune
+    Ward}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.8l5g9PCczfF4VTpg]{Unleash
+    Chaos}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.6uthnh337h0Q1DbM]{Wall
+    Walk}</li></ul></td></tr><tr><td data-colwidth="49"><p>2</p></td><td
+    data-colwidth="166"><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.FLuVQVeNnLWWYDnM]{Cinder
+    Grasp}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.o5L0m0fWk5SkGda5]{Floating
+    Eye}</li></ul></td></tr><tr><td data-colwidth="49"><p>3</p></td><td
+    data-colwidth="166"><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.LjztTkih0iV1PxzR]{Counterspell}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.hzaBWrAALt1umO1z]{Flight}</li></ul></td></tr><tr><td
     data-colwidth="49"><p>4</p></td><td data-colwidth="166"><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-blink-out"
-    data-bs-original-title>Blink Out</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-preservation-blast"
-    data-bs-original-title>Preservation Blast</a></li></ul></td></tr><tr><td
-    data-colwidth="49"><p>5</p></td><td data-colwidth="166"><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-chain-lightning"
-    data-bs-original-title>Chain Lightning</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-premonition"
-    data-bs-original-title>Premonition</a></li></ul></td></tr><tr><td
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.q7q5uuLMZLDxnXAT]{Blink
+    Out}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.IdJW8xPQAuBXw1Rz]{Preservation
+    Blast}</li></ul></td></tr><tr><td data-colwidth="49"><p>5</p></td><td
+    data-colwidth="166"><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.bBTwEV92ZO4CvEgh]{Chain
+    Lightning}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.dAKLV8wWolr3fPNN]{Premonition}</li></ul></td></tr><tr><td
     data-colwidth="49"><p>6</p></td><td data-colwidth="166"><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-rift-walker"
-    data-bs-original-title>Rift Walker</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-telekinesis"
-    data-bs-original-title>Telekinesis</a></li></ul></td></tr><tr><td
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.ZnhTI9xDBARucYlr]{Rift
+    Walker}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.TwdneMHvSN7W1HLj]{Telekinesis}</li></ul></td></tr><tr><td
     data-colwidth="49"><p>7</p></td><td data-colwidth="166"><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-arcana-touched"
-    data-bs-original-title>Arcana-Touched</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-cloaking-blast"
-    data-bs-original-title>Cloaking Blast</a></li></ul></td></tr><tr><td
-    data-colwidth="49"><p>8</p></td><td data-colwidth="166"><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-arcane-reflection"
-    data-bs-original-title aria-describedby="tooltip974986">Arcane
-    Reflection</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-confusing-aura"
-    data-bs-original-title>Confusing Aura</a></li></ul></td></tr><tr><td
-    data-colwidth="49"><p>9</p></td><td data-colwidth="166"><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-earthquake"
-    data-bs-original-title>Earthquake</a></li><li class="list-inline-item"><a
-    class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-sensory-projection"
-    data-bs-original-title>Sensory Projection</a></li></ul></td></tr><tr><td
-    data-colwidth="49"><p>10</p></td><td data-colwidth="166"><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-adjust-reality"
-    data-bs-original-title>Adjust Reality</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-falling-sky"
-    data-bs-original-title>Falling Sky</a></li></ul></td></tr></tbody></table>
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.jTdvJEzfJHdcQFC7]{Arcana-Touched}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.XPx4dIYE1xmEYH3j]{Cloaking
+    Blast}</li></ul></td></tr><tr><td data-colwidth="49"><p>8</p></td><td
+    data-colwidth="166"><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.iIwIakboMN3cOgk0]{Arcane
+    Reflection}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.2lHFCn5eLpLM8OWO]{Confusing
+    Aura}</li></ul></td></tr><tr><td data-colwidth="49"><p>9</p></td><td
+    data-colwidth="166"><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.duzvIoFIT8PZbaos]{Earthquake}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.FYiZeZkw5ZdEIXmH]{Sensory
+    Projection}</li></ul></td></tr><tr><td data-colwidth="49"><p>10</p></td><td
+    data-colwidth="166"><ul class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.yAA2zAitisfCESZl]{Adjust
+    Reality}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.q5Mgp6WJwEEHubp9]{Falling
+    Sky}</li></ul></td></tr></tbody></table>
   category: Domain
   rarity: SRD
   location: abilities
@@ -101,8 +78,8 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.11.1
-  modifiedTime: 1754078248051
+  systemVersion: 2.11.4
+  modifiedTime: 1754162202297
   lastModifiedBy: GHK9xQYeYjLhONPd
 ownership:
   default: 0

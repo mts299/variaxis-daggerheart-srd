@@ -12,78 +12,52 @@ system:
     @UUID[Compendium.daggerheart-srd.srd-materials.Item.9tpicQBdcAApd01G]{Ranger}</p><h4>Domain
     Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
     Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-gifted-tracker"
-    data-bs-original-title aria-describedby="tooltip3822">Gifted
-    Tracker</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-natures-tongue"
-    data-bs-original-title>Nature's Tongue</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-vicious-entangle"
-    data-bs-original-title>Vicious
-    Entangle</a></li></ul></td></tr><tr><td><p>2</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-conjure-swarm"
-    data-bs-original-title aria-describedby="tooltip845193">Conjure
-    Swarm</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-natural-familiar"
-    data-bs-original-title>Natural
-    Familiar</a></li></ul></td></tr><tr><td><p>3</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-corrosive-projectile"
-    data-bs-original-title aria-describedby="tooltip773090">Corrosive
-    Projectile</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-towering-stalk"
-    data-bs-original-title>Towering
-    Stalk</a></li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-death-grip"
-    data-bs-original-title aria-describedby="tooltip675753">Death
-    Grip</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-healing-field"
-    data-bs-original-title>Healing
-    Field</a></li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-thorn-skin"
-    data-bs-original-title aria-describedby="tooltip868990">Thorn
-    Skin</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-wild-fortress"
-    data-bs-original-title>Wild
-    Fortress</a></li></ul></td></tr><tr><td><p>6</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-conjured-steeds"
-    data-bs-original-title>Conjured Steeds</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-forager"
-    data-bs-original-title>Forager</a></li></ul></td></tr><tr><td><p>7</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-sage-touched"
-    data-bs-original-title
-    aria-describedby="tooltip55596">Sage-Touched</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-wild-surge"
-    data-bs-original-title>Wild
-    Surge</a></li></ul></td></tr><tr><td><p>8</p></td><td><ul class="list-inline
-    mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-forest-sprites"
-    data-bs-original-title>Forest Sprites</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-rejuvenation-barrier"
-    data-bs-original-title>Rejuvenation
-    Barrier</a></li></ul></td></tr><tr><td><p>9</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-fane-of-the-wilds"
-    data-bs-original-title>Fane of the Wilds</a></li><li
-    class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-plant-dominion"
-    data-bs-original-title>Plant
-    Dominion</a></li></ul></td></tr><tr><td><p>10</p></td><td><ul
-    class="list-inline mb-0"><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-force-of-nature"
-    data-bs-original-title aria-describedby="tooltip404166">Force of
-    Nature</a></li><li class="list-inline-item"><a class="og-nowrap"
-    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card-tempest"
-    data-bs-original-title>Tempest</a></li></ul></td></tr></tbody></table>
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.d2ewrPkbwt0WkrgD]{Gifted
+    Tracker}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.jreX7GZREB2Hq5Ue]{Nature's
+    Tongue}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.l91N3i1R6tGTenWx]{Vicious
+    Entangle}</li></ul></td></tr><tr><td><p>2</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.iaJz7512pgMCfIc7]{Conjure
+    Swarm}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.dORVGLzvXs4MLCsH]{Natural
+    Familiar}</li></ul></td></tr><tr><td><p>3</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.GI1bnWUEIBZPgh9d]{Corrosive
+    Projectile}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.XEONDmtXpP2mYhdQ]{Towering
+    Stalk}</li></ul></td></tr><tr><td><p>4</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.sPHCRnmh4Q8jNK1y]{Death
+    Grip}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.pKUf2tre1YrDc4P4]{Healing
+    Field}</li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.v7Xyxfi8baLK9VkE]{Thorn
+    Skin}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.q8GLXYpNCF0U7daB]{Wild
+    Fortress}</li></ul></td></tr><tr><td><p>6</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.tfQ1cODeyIA4WE7x]{Conjured
+    Steeds}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.k3g03takB8eroo8H]{Forager}</li></ul></td></tr><tr><td><p>7</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.FOgHvyxPBPaYtZUB]{Sage-Touched}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.jSgCqBXeDD8uzAcP]{Wild
+    Surge}</li></ul></td></tr><tr><td><p>8</p></td><td><ul class="list-inline
+    mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.QYt8YnvHNoZigCUr]{Forest
+    Sprites}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.RopfqJRhMw6VIWT3]{Rejuvenation
+    Barrier}</li></ul></td></tr><tr><td><p>9</p></td><td><ul><li><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.rMJK4aWhvYZnyWsx]{Fane
+    of the Wilds}</p></li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.VKPgo9K2hqPSy1O8]{Plant
+    Dominion}</li></ul></td></tr><tr><td><p>10</p></td><td><ul
+    class="list-inline mb-0"><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.5IXqaK7ACJ2hNdiT]{Force
+    of Nature}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-srd.srd-materials.Item.ryJVDgTz3P3lvnXB]{Tempest}</li></ul></td></tr></tbody></table>
   category: Domain
   rarity: SRD
   location: abilities
@@ -100,8 +74,8 @@ _stats:
   exportSource: null
   coreVersion: '13.346'
   systemId: daggerheart
-  systemVersion: 2.11.1
-  modifiedTime: 1754078114984
+  systemVersion: 2.11.4
+  modifiedTime: 1754163931505
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: q0GrMrQsDuAl4z1B
 sort: 0
