@@ -1,5 +1,5 @@
 name: Unstoppable
-type: item
+type: class
 folder: jJHmdfqftIJVtTMu
 img: modules/daggerheart-srd/assets/classes/guardian.svg
 system:
@@ -44,7 +44,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754174477499
@@ -52,4 +52,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: crIZQUQhVJ4YbC3p
 sort: 0
-_key: '!items!crIZQUQhVJ4YbC3p'
+_key: "!items!crIZQUQhVJ4YbC3p"

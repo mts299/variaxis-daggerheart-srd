@@ -1,5 +1,5 @@
 name: Ranger's Focus
-type: item
+type: class
 folder: QYoCk2yuNSD9yJzJ
 img: modules/daggerheart-srd/assets/classes/ranger.svg
 system:
@@ -37,7 +37,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754175111148
@@ -45,4 +45,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: Ya9xbw68YahciLGL
 sort: 0
-_key: '!items!Ya9xbw68YahciLGL'
+_key: "!items!Ya9xbw68YahciLGL"

@@ -10,7 +10,7 @@ system:
     You can transition between using your own senses and seeing through the orb
     freely. </p><p>If the orb takes damage or moves out of range, the spell
     ends.</p>
-  category: Arcane - Level 2
+  category: Arcana - Level 2
   rarity: Recall cost 0
   location: abilities
   quantity: 1
@@ -24,7 +24,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -36,4 +36,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!o5L0m0fWk5SkGda5'
+_key: "!items!o5L0m0fWk5SkGda5"

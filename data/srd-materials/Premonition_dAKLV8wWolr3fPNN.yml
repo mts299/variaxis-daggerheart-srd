@@ -1,5 +1,5 @@
 name: Premonition
-type: item
+type: domain
 folder: yDeODsymKMdnWBqF
 img: modules/daggerheart-srd/assets/domains/arcana.svg
 system:
@@ -8,7 +8,7 @@ system:
     long rest, immediately after the GM conveys the consequences of a roll you
     made, you can rescind the move and consequences like they never happened and
     make another move instead.</p>
-  category: Arcane - Level 5
+  category: Arcana - Level 5
   rarity: Recall cost 2
   location: abilities
   quantity: 1
@@ -22,7 +22,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -34,4 +34,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!dAKLV8wWolr3fPNN'
+_key: "!items!dAKLV8wWolr3fPNN"

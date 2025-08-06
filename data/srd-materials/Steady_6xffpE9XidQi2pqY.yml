@@ -1,5 +1,5 @@
 name: Steady
-type: item
+type: community
 folder: 6huYU1fST3yJbt5k
 img: modules/daggerheart-srd/assets/communities/ridgeborne.svg
 system:
@@ -26,7 +26,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753950240119
@@ -34,4 +34,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: 6xffpE9XidQi2pqY
 sort: 0
-_key: '!items!6xffpE9XidQi2pqY'
+_key: "!items!6xffpE9XidQi2pqY"

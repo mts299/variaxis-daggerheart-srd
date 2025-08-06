@@ -1,5 +1,5 @@
 name: Elemental Breath
-type: item
+type: ancestry
 folder: 5sb1QSrD9PxwPUpa
 _id: YOwGjb8eCCSXWOx5
 img: modules/daggerheart-srd/assets/ancestry/drakona.svg
@@ -35,10 +35,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946350711
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!YOwGjb8eCCSXWOx5'
+_key: "!items!YOwGjb8eCCSXWOx5"

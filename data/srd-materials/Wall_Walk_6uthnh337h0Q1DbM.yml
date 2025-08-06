@@ -8,7 +8,7 @@ system:
     <p><strong>Spend a Hope</strong> to allow a creature you can touch to climb
     on walls and ceilings as easily as walking on the ground. This lasts until
     the end of the scene or you cast Wall Walk again.</p><p></p>
-  category: Arcane - Level 1
+  category: Arcana - Level 1
   rarity: RECALL COST 1
   location: abilities
   quantity: 1
@@ -22,7 +22,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -33,4 +33,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!6uthnh337h0Q1DbM'
+_key: "!items!6uthnh337h0Q1DbM"

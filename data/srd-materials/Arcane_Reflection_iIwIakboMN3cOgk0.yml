@@ -1,5 +1,5 @@
 name: Arcane Reflection
-type: item
+type: domain
 folder: KHhn5UbIbW3wzRkn
 img: modules/daggerheart-srd/assets/domains/arcana.svg
 system:
@@ -7,7 +7,7 @@ system:
     <p>When you would take magic damage, you can spend any number of Hope to
     roll that many [[/roll d6]]s. If any roll a 6, the attack is reflected back
     to the caster, dealing the damage to them instead.</p>
-  category: Arcane - Level 8
+  category: Arcana - Level 8
   rarity: Recall cost 1
   location: abilities
   quantity: 1
@@ -21,7 +21,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -33,4 +33,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!iIwIakboMN3cOgk0'
+_key: "!items!iIwIakboMN3cOgk0"

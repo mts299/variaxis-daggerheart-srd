@@ -1,5 +1,5 @@
 name: Prestidigitation
-type: item
+type: class
 folder: AIPStYP3zb18V78c
 img: modules/daggerheart-srd/assets/classes/wizard.svg
 system:
@@ -24,7 +24,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754171975101
@@ -32,4 +32,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: pKx2WgWSx6XHmCG9
 sort: 200000
-_key: '!items!pKx2WgWSx6XHmCG9'
+_key: "!items!pKx2WgWSx6XHmCG9"

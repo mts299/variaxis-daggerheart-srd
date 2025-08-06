@@ -1,5 +1,5 @@
 name: Fungril Network
-type: item
+type: ancestry
 folder: yzxhMuuHH0mtQQZw
 _id: d2N7M5ZaeE0ximbY
 img: modules/daggerheart-srd/assets/ancestry/fungril.svg
@@ -28,10 +28,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946563976
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!d2N7M5ZaeE0ximbY'
+_key: "!items!d2N7M5ZaeE0ximbY"

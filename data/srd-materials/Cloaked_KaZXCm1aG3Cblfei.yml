@@ -1,5 +1,5 @@
 name: Cloaked
-type: item
+type: class
 folder: LzTGBGGT29UQkFny
 img: modules/daggerheart-srd/assets/classes/rogue.svg
 system:
@@ -35,7 +35,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754175723134
@@ -43,4 +43,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: KaZXCm1aG3Cblfei
 sort: 200000
-_key: '!items!KaZXCm1aG3Cblfei'
+_key: "!items!KaZXCm1aG3Cblfei"

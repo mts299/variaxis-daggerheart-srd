@@ -1,5 +1,5 @@
 name: Luckbringer
-type: item
+type: ancestry
 folder: AxOrC7tLHgc3zGE0
 _id: XepNmwqAknI23umz
 img: modules/daggerheart-srd/assets/ancestry/halfling.svg
@@ -23,10 +23,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946678098
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!XepNmwqAknI23umz'
+_key: "!items!XepNmwqAknI23umz"

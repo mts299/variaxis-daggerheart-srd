@@ -1,5 +1,5 @@
 name: Luckbender
-type: item
+type: ancestry
 folder: y8tBVglddFZzsn5H
 _id: eKO7Yfqa5VAfqc61
 img: modules/daggerheart-srd/assets/ancestry/faerie.svg
@@ -30,10 +30,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946477060
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!eKO7Yfqa5VAfqc61'
+_key: "!items!eKO7Yfqa5VAfqc61"

@@ -1,5 +1,5 @@
 name: Dread Visage
-type: item
+type: ancestry
 folder: 66FbrIKVw9Y9SlwR
 _id: 3bI1zivFstu6rPuU
 img: modules/daggerheart-srd/assets/ancestry/infernis.svg
@@ -27,10 +27,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946719323
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!3bI1zivFstu6rPuU'
+_key: "!items!3bI1zivFstu6rPuU"

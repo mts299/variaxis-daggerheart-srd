@@ -1,5 +1,5 @@
 name: Veil of Night
-type: item
+type: domain
 folder: Uh6M41jVEdhnS68W
 img: modules/daggerheart-srd/assets/domains/midnight.svg
 system:
@@ -27,7 +27,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139707625
@@ -39,4 +39,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!UtdzXnTiqB5JaNc3'
+_key: "!items!UtdzXnTiqB5JaNc3"

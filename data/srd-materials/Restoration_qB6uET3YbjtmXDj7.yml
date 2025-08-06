@@ -1,5 +1,5 @@
 name: Restoration
-type: item
+type: domain
 folder: hMgdW7ICgENM4rS5
 img: modules/daggerheart-srd/assets/domains/splendor.svg
 system:
@@ -26,7 +26,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139710068
@@ -38,4 +38,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!qB6uET3YbjtmXDj7'
+_key: "!items!qB6uET3YbjtmXDj7"

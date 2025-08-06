@@ -1,5 +1,5 @@
 name: Strange Patterns
-type: item
+type: class
 folder: AIPStYP3zb18V78c
 img: modules/daggerheart-srd/assets/classes/wizard.svg
 system:
@@ -28,7 +28,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754172085938
@@ -36,4 +36,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: gKUmkrtrMrSWJ8IL
 sort: 100000
-_key: '!items!gKUmkrtrMrSWJ8IL'
+_key: "!items!gKUmkrtrMrSWJ8IL"

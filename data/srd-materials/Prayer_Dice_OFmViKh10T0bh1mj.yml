@@ -1,5 +1,5 @@
 name: Prayer Dice
-type: item
+type: class
 folder: ZwKSS4JzJRqtFmtF
 img: modules/daggerheart-srd/assets/classes/seraph.svg
 system:
@@ -33,7 +33,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754175905011
@@ -41,4 +41,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: OFmViKh10T0bh1mj
 sort: 0
-_key: '!items!OFmViKh10T0bh1mj'
+_key: "!items!OFmViKh10T0bh1mj"

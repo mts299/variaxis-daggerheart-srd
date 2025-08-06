@@ -1,5 +1,5 @@
 name: Sturdy
-type: item
+type: ancestry
 folder: ACAFbvK8ljzxWUAT
 _id: 1xCRnUdcPJdgowau
 img: modules/daggerheart-srd/assets/ancestry/orc.svg
@@ -28,10 +28,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946766362
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!1xCRnUdcPJdgowau'
+_key: "!items!1xCRnUdcPJdgowau"

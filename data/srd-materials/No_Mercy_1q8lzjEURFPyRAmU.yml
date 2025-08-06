@@ -1,5 +1,5 @@
 name: No Mercy
-type: item
+type: class
 folder: DcxEvBNWxgJ8gMEr
 img: modules/daggerheart-srd/assets/classes/warrior.svg
 system:
@@ -28,7 +28,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754177467254
@@ -36,4 +36,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: 1q8lzjEURFPyRAmU
 sort: 100000
-_key: '!items!1q8lzjEURFPyRAmU'
+_key: "!items!1q8lzjEURFPyRAmU"

@@ -1,5 +1,5 @@
 name: Unshakable
-type: item
+type: ancestry
 folder: gc7oA7omRmYKKqdK
 _id: ic85hZaFXGZeCK37
 img: modules/daggerheart-srd/assets/ancestry/firbolg.svg
@@ -25,10 +25,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946537729
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!ic85hZaFXGZeCK37'
+_key: "!items!ic85hZaFXGZeCK37"

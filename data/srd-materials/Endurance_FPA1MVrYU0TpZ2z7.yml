@@ -1,5 +1,5 @@
 name: Endurance
-type: item
+type: ancestry
 folder: YDzzzdXRJqLk6cNZ
 _id: FPA1MVrYU0TpZ2z7
 img: modules/daggerheart-srd/assets/ancestry/giant.svg
@@ -28,10 +28,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946627640
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!FPA1MVrYU0TpZ2z7'
+_key: "!items!FPA1MVrYU0TpZ2z7"

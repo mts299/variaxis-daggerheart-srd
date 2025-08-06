@@ -1,5 +1,5 @@
 name: Telekinesis
-type: item
+type: domain
 folder: O5ETtgyUq27vbXY9
 img: modules/daggerheart-srd/assets/domains/arcana.svg
 system:
@@ -11,7 +11,7 @@ system:
     Roll</strong> against the second target you're trying to attack. On a
     success, deal [[/roll d12+4]] physical damage to the second target using
     your <strong>Proficiency</strong>. This spell then ends.</p>
-  category: Arcane - Level 6
+  category: Arcana - Level 6
   rarity: Recall cost 0
   location: abilities
   quantity: 1
@@ -25,7 +25,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -37,4 +37,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!TwdneMHvSN7W1HLj'
+_key: "!items!TwdneMHvSN7W1HLj"

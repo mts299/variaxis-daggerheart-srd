@@ -1,5 +1,5 @@
 name: Adjust Reality
-type: item
+type: domain
 folder: KhnXAecyKm2Hx2CX
 img: modules/daggerheart-srd/assets/domains/arcana.svg
 system:
@@ -7,7 +7,7 @@ system:
     <p>After you or a willing ally make any roll, you can spend 5 Hope to change
     the numerical result of that roll to a result of your choice instead. The
     result must be plausible within the range of the dice.</p>
-  category: Arcane - Level 10
+  category: Arcana - Level 10
   rarity: Recall cost 1
   location: abilities
   quantity: 1
@@ -21,7 +21,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -33,4 +33,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!yAA2zAitisfCESZl'
+_key: "!items!yAA2zAitisfCESZl"

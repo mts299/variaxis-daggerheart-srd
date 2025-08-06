@@ -1,5 +1,5 @@
 name: Ground Pound
-type: item
+type: domain
 folder: 2N3j0hkT3G7KYkET
 img: modules/daggerheart-srd/assets/domains/valor.svg
 system:
@@ -23,7 +23,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139711318
@@ -35,4 +35,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!TtUAo3QJ1lcwRUBG'
+_key: "!items!TtUAo3QJ1lcwRUBG"

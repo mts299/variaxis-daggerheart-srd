@@ -1,5 +1,5 @@
 name: Tempest
-type: item
+type: domain
 folder: C6qnqG5r1eW3c5AW
 img: modules/daggerheart-srd/assets/domains/sage.svg
 system:
@@ -29,7 +29,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139708798
@@ -41,4 +41,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!ryJVDgTz3P3lvnXB'
+_key: "!items!ryJVDgTz3P3lvnXB"

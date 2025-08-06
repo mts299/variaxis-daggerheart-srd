@@ -11,7 +11,7 @@ system:
     damage by [[/roll 1d8]].</p><p>If the Ward Die result is 8, the ward's power
     ends after it reduces damage this turn. It can be recharged for free on your
     next rest.</p>
-  category: Arcane - Level 1
+  category: Arcana - Level 1
   rarity: Recall cost 0
   location: abilities
   quantity: 1
@@ -25,7 +25,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -36,4 +36,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!DI9jA2nIzlAIcyNq'
+_key: "!items!DI9jA2nIzlAIcyNq"

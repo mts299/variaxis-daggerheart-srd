@@ -33,7 +33,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   modifiedTime: 1753957655526
@@ -42,4 +42,4 @@ sort: 0
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
-_key: '!items!8Kqm0blqhHfJgr5H'
+_key: "!items!8Kqm0blqhHfJgr5H"

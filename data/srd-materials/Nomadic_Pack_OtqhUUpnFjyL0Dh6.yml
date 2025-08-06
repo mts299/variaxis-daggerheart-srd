@@ -1,5 +1,5 @@
 name: Nomadic Pack
-type: item
+type: community
 folder: fav1s8VFmjSVL2gC
 img: modules/daggerheart-srd/assets/communities/wanderborne.svg
 system:
@@ -27,7 +27,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753950327121
@@ -35,4 +35,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: OtqhUUpnFjyL0Dh6
 sort: 0
-_key: '!items!OtqhUUpnFjyL0Dh6'
+_key: "!items!OtqhUUpnFjyL0Dh6"

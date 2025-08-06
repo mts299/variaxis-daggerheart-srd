@@ -1,5 +1,5 @@
 name: Rally
-type: item
+type: class
 folder: c3cWHACzGiKM9ACd
 img: modules/daggerheart-srd/assets/classes/bard.svg
 system:
@@ -35,7 +35,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754173072090
@@ -43,4 +43,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: 7wh709bErDoXoP5S
 sort: 0
-_key: '!items!7wh709bErDoXoP5S'
+_key: "!items!7wh709bErDoXoP5S"

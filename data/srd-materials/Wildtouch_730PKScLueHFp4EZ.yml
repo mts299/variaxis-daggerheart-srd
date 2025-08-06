@@ -1,5 +1,5 @@
 name: Wildtouch
-type: item
+type: class
 folder: MQCPDzw19X5ZvmiN
 img: modules/daggerheart-srd/assets/classes/druid.svg
 system:
@@ -24,7 +24,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754173419197
@@ -32,4 +32,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: 730PKScLueHFp4EZ
 sort: 100000
-_key: '!items!730PKScLueHFp4EZ'
+_key: "!items!730PKScLueHFp4EZ"

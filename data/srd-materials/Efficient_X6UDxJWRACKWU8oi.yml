@@ -1,5 +1,5 @@
 name: Efficient
-type: item
+type: ancestry
 folder: uwrZGXqoemtdc5zZ
 _id: X6UDxJWRACKWU8oi
 img: modules/daggerheart-srd/assets/ancestry/clank.svg
@@ -28,10 +28,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946323781
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!X6UDxJWRACKWU8oi'
+_key: "!items!X6UDxJWRACKWU8oi"

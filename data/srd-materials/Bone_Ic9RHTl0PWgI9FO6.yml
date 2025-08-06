@@ -4,16 +4,16 @@ name: Bone
 color: null
 sorting: m
 _id: Ic9RHTl0PWgI9FO6
-description: ''
+description: ""
 sort: 300000
 flags: {}
 _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   lastModifiedBy: PBdPE9squMuZKhHK
   modifiedTime: 1754139703519
-_key: '!folders!Ic9RHTl0PWgI9FO6'
+_key: "!folders!Ic9RHTl0PWgI9FO6"

@@ -1,5 +1,5 @@
 name: Confusing Aura
-type: item
+type: domain
 folder: KHhn5UbIbW3wzRkn
 img: modules/daggerheart-srd/assets/domains/arcana.svg
 system:
@@ -12,7 +12,7 @@ system:
     active. If any roll a 5 or higher, one layer of the aura is destroyed and
     the attack fails. If all the results are 4 or lower, you take the damage and
     this spell ends.</p>
-  category: Arcane - Level 8
+  category: Arcana - Level 8
   rarity: Recall cost 2
   location: abilities
   quantity: 1
@@ -26,7 +26,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -38,4 +38,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!2lHFCn5eLpLM8OWO'
+_key: "!items!2lHFCn5eLpLM8OWO"

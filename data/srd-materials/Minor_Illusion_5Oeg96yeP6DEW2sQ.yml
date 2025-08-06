@@ -1,5 +1,5 @@
 name: Minor Illusion
-type: item
+type: class
 folder: So80HPwViPCkYZwa
 img: modules/daggerheart-srd/assets/classes/sorcerer.svg
 system:
@@ -29,7 +29,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754176697425
@@ -37,4 +37,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: 5Oeg96yeP6DEW2sQ
 sort: 300000
-_key: '!items!5Oeg96yeP6DEW2sQ'
+_key: "!items!5Oeg96yeP6DEW2sQ"

@@ -1,5 +1,5 @@
 name: Scoundrel
-type: item
+type: community
 folder: fdzdYYu8TfhWR06j
 img: modules/daggerheart-srd/assets/communities/slyborne.svg
 system:
@@ -25,7 +25,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753950282631
@@ -33,4 +33,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: CSF1KbbQkWIm4SBt
 sort: 0
-_key: '!items!CSF1KbbQkWIm4SBt'
+_key: "!items!CSF1KbbQkWIm4SBt"

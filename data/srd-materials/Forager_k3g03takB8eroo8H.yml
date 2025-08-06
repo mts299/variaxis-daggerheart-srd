@@ -1,5 +1,5 @@
 name: Forager
-type: item
+type: domain
 folder: R3Dd5rt1CzK7lCXS
 img: modules/daggerheart-srd/assets/domains/sage.svg
 system:
@@ -26,7 +26,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139708798
@@ -38,4 +38,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!k3g03takB8eroo8H'
+_key: "!items!k3g03takB8eroo8H"

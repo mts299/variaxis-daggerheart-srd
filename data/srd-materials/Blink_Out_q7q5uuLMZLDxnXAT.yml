@@ -1,5 +1,5 @@
 name: Blink Out
-type: item
+type: domain
 folder: kcjLe2fB5sgql4v1
 img: modules/daggerheart-srd/assets/domains/arcana.svg
 system:
@@ -8,7 +8,7 @@ system:
     to teleport to another point you can see within <strong>Far</strong> range.
     If any willing creatures are within <strong>Very Close</strong> range, spend
     an additional Hope for each creature to bring them with you.</p>
-  category: Arcane - Level 4
+  category: Arcana - Level 4
   rarity: Recall cost 1
   location: abilities
   quantity: 1
@@ -22,7 +22,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -34,4 +34,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!q7q5uuLMZLDxnXAT'
+_key: "!items!q7q5uuLMZLDxnXAT"

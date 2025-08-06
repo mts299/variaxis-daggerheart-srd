@@ -1,5 +1,5 @@
 name: Frontline Tank
-type: item
+type: class
 folder: jJHmdfqftIJVtTMu
 img: modules/daggerheart-srd/assets/classes/guardian.svg
 system:
@@ -26,7 +26,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754174481104
@@ -34,4 +34,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: nwoHjRsXHCmRr4TF
 sort: 0
-_key: '!items!nwoHjRsXHCmRr4TF'
+_key: "!items!nwoHjRsXHCmRr4TF"

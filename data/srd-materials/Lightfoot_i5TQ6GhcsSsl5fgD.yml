@@ -1,5 +1,5 @@
 name: Lightfoot
-type: item
+type: community
 folder: AXuCBDB5ytMVtD51
 img: modules/daggerheart-srd/assets/communities/wildborne.svg
 system:
@@ -25,7 +25,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753950338168
@@ -33,4 +33,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: i5TQ6GhcsSsl5fgD
 sort: 0
-_key: '!items!i5TQ6GhcsSsl5fgD'
+_key: "!items!i5TQ6GhcsSsl5fgD"

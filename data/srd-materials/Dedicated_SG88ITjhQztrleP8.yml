@@ -1,5 +1,5 @@
 name: Dedicated
-type: item
+type: community
 folder: 15Lcf1EDiuFg76At
 _id: SG88ITjhQztrleP8
 img: modules/daggerheart-srd/assets/communities/orderborne.svg
@@ -30,10 +30,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753950216104
   modifiedTime: 1753957463448
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!SG88ITjhQztrleP8'
+_key: "!items!SG88ITjhQztrleP8"

@@ -1,5 +1,5 @@
 name: Thick Skin
-type: item
+type: ancestry
 folder: GuqilbQ16DglIFXk
 _id: ft3foVRqJxAxBW4o
 img: modules/daggerheart-srd/assets/ancestry/dwarf.svg
@@ -30,10 +30,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946412845
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!ft3foVRqJxAxBW4o'
+_key: "!items!ft3foVRqJxAxBW4o"

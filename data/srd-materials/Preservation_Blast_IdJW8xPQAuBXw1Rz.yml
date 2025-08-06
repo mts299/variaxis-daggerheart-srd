@@ -1,5 +1,5 @@
 name: Preservation Blast
-type: item
+type: domain
 folder: kcjLe2fB5sgql4v1
 img: modules/daggerheart-srd/assets/domains/arcana.svg
 system:
@@ -8,7 +8,7 @@ system:
     <strong>Melee</strong> range. Targets you succeed against are forced back to
     <strong>Far</strong> range and take [[/roll d8+3]] magic damage using your
     Spellcast trait.</p>
-  category: Arcane - Level 4
+  category: Arcana - Level 4
   rarity: Recall cost 2
   location: abilities
   quantity: 1
@@ -22,7 +22,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -34,4 +34,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!IdJW8xPQAuBXw1Rz'
+_key: "!items!IdJW8xPQAuBXw1Rz"

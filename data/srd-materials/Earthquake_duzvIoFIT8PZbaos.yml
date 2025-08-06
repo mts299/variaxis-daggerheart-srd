@@ -1,5 +1,5 @@
 name: Earthquake
-type: item
+type: domain
 folder: d3VcFxhzDXaqk0zP
 img: modules/daggerheart-srd/assets/domains/arcana.svg
 system:
@@ -13,7 +13,7 @@ system:
     Roll, all terrain within <strong>Very Far</strong> range becomes difficult
     to move through and structures within this range might sustain damage or
     crumble.</p>
-  category: Arcane - Level 9
+  category: Arcana - Level 9
   rarity: Recall cost 2
   location: abilities
   quantity: 1
@@ -27,7 +27,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139700267
@@ -39,4 +39,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!duzvIoFIT8PZbaos'
+_key: "!items!duzvIoFIT8PZbaos"

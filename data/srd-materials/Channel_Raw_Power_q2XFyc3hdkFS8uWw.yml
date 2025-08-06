@@ -1,5 +1,5 @@
 name: Channel Raw Power
-type: item
+type: class
 folder: So80HPwViPCkYZwa
 img: modules/daggerheart-srd/assets/classes/sorcerer.svg
 system:
@@ -37,7 +37,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754176700450
@@ -45,4 +45,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: q2XFyc3hdkFS8uWw
 sort: 200000
-_key: '!items!q2XFyc3hdkFS8uWw'
+_key: "!items!q2XFyc3hdkFS8uWw"

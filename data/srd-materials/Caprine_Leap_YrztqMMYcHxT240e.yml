@@ -1,5 +1,5 @@
 name: Caprine Leap
-type: item
+type: ancestry
 folder: tI41XKZiPLmR5RQu
 _id: YrztqMMYcHxT240e
 img: modules/daggerheart-srd/assets/ancestry/faun.svg
@@ -28,10 +28,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946503805
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!YrztqMMYcHxT240e'
+_key: "!items!YrztqMMYcHxT240e"

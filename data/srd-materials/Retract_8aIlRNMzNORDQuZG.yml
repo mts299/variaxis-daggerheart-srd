@@ -1,5 +1,5 @@
 name: Retract
-type: item
+type: ancestry
 folder: MtL2a1xZ5wuZnzDL
 _id: 8aIlRNMzNORDQuZG
 img: modules/daggerheart-srd/assets/ancestry/galapa.svg
@@ -34,10 +34,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946578177
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!8aIlRNMzNORDQuZG'
+_key: "!items!8aIlRNMzNORDQuZG"
