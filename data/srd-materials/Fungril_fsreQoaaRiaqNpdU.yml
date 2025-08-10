@@ -1,12 +1,12 @@
 name: Fungril
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-srd/assets/ancestry/fungril.svg
+img: modules/daggerheart-unofficial-srd/assets/ancestry/fungril.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.d2N7M5ZaeE0ximbY]{Fungril
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.d2N7M5ZaeE0ximbY]{Fungril
     Network}
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.sAlPhwGOLmbpntoi]{Death
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.sAlPhwGOLmbpntoi]{Death
     Connection}</p><h2>Description</h2><p>Fungril resemble humanoid mushrooms.
     <span class="og-omit">They can be either more humanoid or more fungal in
     appearance, and they come in an assortment of colors, from earth tones to
@@ -29,10 +29,10 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-srd.srd-materials.Item.zsRjKx7CqZvkjS6I
+  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.zsRjKx7CqZvkjS6I
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
@@ -43,4 +43,4 @@ ownership:
   GHK9xQYeYjLhONPd: 3
 _id: fsreQoaaRiaqNpdU
 sort: 0
-_key: '!items!fsreQoaaRiaqNpdU'
+_key: "!items!fsreQoaaRiaqNpdU"

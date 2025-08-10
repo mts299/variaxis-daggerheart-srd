@@ -1,11 +1,11 @@
 name: Faun
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-srd/assets/ancestry/faun.svg
+img: modules/daggerheart-unofficial-srd/assets/ancestry/faun.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.SOCl5q8PXFvZMYPg]{Kick}
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.YrztqMMYcHxT240e]{Caprine
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.SOCl5q8PXFvZMYPg]{Kick}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.YrztqMMYcHxT240e]{Caprine
     Leap}</p><h2>Description</h2><p>Fauns resemble humanoid goats with curving
     horns, square pupils, and cloven hooves. <span class="og-omit">Though their
     appearances may vary, most fauns have a humanoid torso and a goatlike lower
@@ -30,10 +30,10 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-srd.srd-materials.Item.8BX7F4HvZBLqaJJm
+  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.8BX7F4HvZBLqaJJm
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
@@ -44,4 +44,4 @@ ownership:
   GHK9xQYeYjLhONPd: 3
 _id: PqC9tDBn2pkhJvPE
 sort: 0
-_key: '!items!PqC9tDBn2pkhJvPE'
+_key: "!items!PqC9tDBn2pkhJvPE"

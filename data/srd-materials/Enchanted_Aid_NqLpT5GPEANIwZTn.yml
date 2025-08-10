@@ -1,0 +1,45 @@
+name: Enchanted Aid
+type: subclass
+folder: kD2IpjNRnugpHVDE
+img: modules/daggerheart-unofficial-srd/assets/subclasses/primal-origin.svg
+system:
+  description: >-
+    <p>You can enhance the magic of others with your essence. When you <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title>Help an Ally</a> with a <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-spellcast-roll"
+    data-bs-original-title>Spellcast Roll</a>, you can roll a
+    <strong>d8</strong> as your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-advantage"
+    data-bs-original-title>advantage</a> die. Once per <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-long-rest"
+    data-bs-original-title>long rest</a>, after an ally has made a Spellcast
+    Roll with your help, you can swap the results of their <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>Duality Dice</a>.</p>
+  category: Subclass Feat
+  rarity: Primal Origin
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754759492995
+  modifiedTime: 1754773633163
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: NqLpT5GPEANIwZTn
+sort: 300000
+_key: "!items!NqLpT5GPEANIwZTn"

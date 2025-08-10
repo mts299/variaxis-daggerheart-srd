@@ -1,14 +1,14 @@
 name: Restoration
 type: domain
 folder: hMgdW7ICgENM4rS5
-img: modules/daggerheart-srd/assets/domains/splendor.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/splendor.svg
 system:
   description: >-
     <p>After a long rest, place a number of tokens equal to your Spellcast trait
     on this card. Touch a creature and spend any number of tokens to clear 2 Hit
     Points or 2 Stress for each token spent. You can also spend a token from
     this card when touching a creature to clear the
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}
     condition or heal a physical or magical ailment (the GM might require
     additional tokens depending on the strength of the ailment).</p><p>When you
     take a long rest, clear all unspent tokens.</p>

@@ -2,7 +2,7 @@ name: Forceful Push
 type: domain
 folder: 5NbAabDkKoZptRTa
 _id: nn9kkwgnhJ3BbaIR
-img: modules/daggerheart-srd/assets/domains/valor.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/valor.svg
 system:
   description: >-
     <p>Make an attack with your primary weapon against a target within
@@ -10,7 +10,7 @@ system:
     back to <strong>Close</strong> range. On a success with Hope, add a [[/roll
     d6]] to your damage roll.</p><p>Additionally, you can spend a Hope to make
     them temporarily
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}.</p>
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}.</p>
   category: Valor - Level 1
   rarity: recall cost 0
   location: abilities
@@ -25,7 +25,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139711318
@@ -36,4 +36,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!nn9kkwgnhJ3BbaIR'
+_key: "!items!nn9kkwgnhJ3BbaIR"

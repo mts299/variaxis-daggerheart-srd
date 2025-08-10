@@ -1,0 +1,18 @@
+type: Item
+folder: 73qFzl3t1WQi3Obg
+name: School of War
+color: null
+sorting: a
+_id: 8G7LiSFP55RVT9bI
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.347'
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  lastModifiedBy: null
+_key: '!folders!8G7LiSFP55RVT9bI'

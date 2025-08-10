@@ -1,0 +1,35 @@
+name: At Ease
+type: subclass
+folder: 52trlJboa9avOhlg
+img: modules/daggerheart-unofficial-srd/assets/subclasses/vengeance.svg
+system:
+  description: >-
+    <p>Gain an additional <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-stress"
+    data-bs-original-title>Stress</a> slot.</p>
+  category: Subclass Feat
+  rarity: Vengeance
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754753801175
+  modifiedTime: 1754771473194
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: J5OjuZ24xsH2n4KE
+sort: 200000
+_key: "!items!J5OjuZ24xsH2n4KE"

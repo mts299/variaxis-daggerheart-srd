@@ -1,13 +1,13 @@
 name: Battle Cry
 type: domain
 folder: JkrD0fNDSH8w6q74
-img: modules/daggerheart-srd/assets/domains/blade.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/blade.svg
 system:
   description: >-
     <p>Once per long rest, while you're charging into danger, you can muster a
     rousing call that inspires your allies. All allies who can hear you each
     clear a Stress and gain a Hope. </p><p>Additionally, your allies gain
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
     on attack rolls until you or an ally rolls a failure with Fear.</p>
   category: Blade - Level 8
   rarity: Recall cost 2

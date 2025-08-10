@@ -1,11 +1,11 @@
 name: Voice of Reason
 type: domain
 folder: uVAqqRY2rmF09bnn
-img: modules/daggerheart-srd/assets/domains/splendor.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/splendor.svg
 system:
   description: >-
     <p>You speak with an unmatched power and authority. You have
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
     on action rolls to de-escalate violent situations or convince someone to
     follow your lead.</p><p>Additionally, you're emboldened in moments of
     duress. When all of your Stress slots are marked, you gain a +1 bonus to

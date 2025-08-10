@@ -2,7 +2,7 @@ name: Purposeful Design
 type: ancestry
 folder: uwrZGXqoemtdc5zZ
 _id: Uhx8L1uH5KR2uQfM
-img: modules/daggerheart-srd/assets/ancestry/clank.svg
+img: modules/daggerheart-unofficial-srd/assets/ancestry/clank.svg
 system:
   description: >-
     <p>Decide who made you and for what purpose. At character creation, choose
@@ -28,10 +28,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946331547
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!Uhx8L1uH5KR2uQfM'
+_key: "!items!Uhx8L1uH5KR2uQfM"

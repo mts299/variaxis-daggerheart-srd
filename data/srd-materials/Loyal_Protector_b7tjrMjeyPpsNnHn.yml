@@ -1,0 +1,40 @@
+name: Loyal Protector
+type: subclass
+folder: hNM7ScVtc5e1XeBw
+img: modules/daggerheart-unofficial-srd/assets/subclasses/stalwart.svg
+system:
+  description: >-
+    <p>When an ally within <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Close</a> range has 2 or fewer <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hit-point"
+    data-bs-original-title>Hit Points</a> and would take damage, you can <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-stress"
+    data-bs-original-title><strong>mark a Stress</strong></a> to sprint to their
+    side and take the damage instead.</p>
+  category: Subclass Feat
+  rarity: Stalwart
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754751320642
+  modifiedTime: 1754771396728
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: b7tjrMjeyPpsNnHn
+sort: 500000
+_key: "!items!b7tjrMjeyPpsNnHn"

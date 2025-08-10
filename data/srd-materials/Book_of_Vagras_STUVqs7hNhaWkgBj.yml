@@ -1,7 +1,7 @@
 name: Book of Vagras
 type: domain
 folder: YwILAldujohRbA0E
-img: modules/daggerheart-srd/assets/domains/codex.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/codex.svg
 system:
   description: >-
     <p><em><strong>Runic Lock:</strong></em> Make a <strong>Spellcast
@@ -30,7 +30,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139704923
@@ -42,4 +42,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!STUVqs7hNhaWkgBj'
+_key: "!items!STUVqs7hNhaWkgBj"

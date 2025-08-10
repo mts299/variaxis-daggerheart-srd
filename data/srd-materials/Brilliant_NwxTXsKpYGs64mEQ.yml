@@ -1,0 +1,36 @@
+name: Brilliant
+type: subclass
+folder: iJKEy82G1UJ4kCBl
+img: modules/daggerheart-unofficial-srd/assets/subclasses/school-of-knowledge.svg
+system:
+  description: >-
+    <p>Take an additional <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-domain-card"
+    data-bs-original-title>domain card</a> of your level or lower from a domain
+    you have access to.</p>
+  category: Subclass Feat
+  rarity: School of Knowledge
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754762223368
+  modifiedTime: 1754774114855
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: NwxTXsKpYGs64mEQ
+sort: 600000
+_key: "!items!NwxTXsKpYGs64mEQ"

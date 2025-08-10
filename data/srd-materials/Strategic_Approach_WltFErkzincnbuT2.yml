@@ -1,7 +1,7 @@
 name: Strategic Approach
 type: domain
 folder: KD1CFiq9QwMTxO9Z
-img: modules/daggerheart-srd/assets/domains/bone.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/bone.svg
 system:
   description: >-
     <p>After a long rest, place a number of tokens equal to your Knowledge on
@@ -26,7 +26,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.5
   createdTime: 1754139703511
@@ -38,4 +38,4 @@ ownership:
   default: 0
   y4XqAKELcbCBQHwR: 3
   PBdPE9squMuZKhHK: 3
-_key: '!items!WltFErkzincnbuT2'
+_key: "!items!WltFErkzincnbuT2"

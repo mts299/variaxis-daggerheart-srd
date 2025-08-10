@@ -1,8 +1,8 @@
 name: Surefooted
-type: item
+type: ancestry
 folder: s9zgru160WjbQuP9
 _id: Z9iDDPiPk13riiFa
-img: modules/daggerheart-srd/assets/ancestry/goblin.svg
+img: modules/daggerheart-unofficial-srd/assets/ancestry/goblin.svg
 system:
   description: >-
     <p>You ignore <a
@@ -28,10 +28,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946656706
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!Z9iDDPiPk13riiFa'
+_key: "!items!Z9iDDPiPk13riiFa"

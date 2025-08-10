@@ -1,7 +1,7 @@
 name: Force of Nature
 type: domain
 folder: C6qnqG5r1eW3c5AW
-img: modules/daggerheart-srd/assets/domains/sage.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/sage.svg
 system:
   description: >-
     <p>Mark a Stress to transform into a hulking nature spirit, gaining the
@@ -10,7 +10,7 @@ system:
     roll.</p></li><li><p>When you deal enough damage to defeat a creature within
     <strong>Close</strong> range, you absorb them and clear an Armor
     Slot.</p></li><li><p>You can't be
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.967FSSCW150Zpp5E]{restrained}.</p></li></ul><p>Before
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.967FSSCW150Zpp5E]{restrained}.</p></li></ul><p>Before
     you make an action roll, you must spend a Hope. If you can't, you revert to
     your normal form.</p>
   category: Sage - level 10

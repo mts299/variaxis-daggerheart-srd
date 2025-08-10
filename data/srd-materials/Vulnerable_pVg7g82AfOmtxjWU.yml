@@ -6,7 +6,7 @@ system:
   description: >-
     <p>While you are <em><strong>Vulnerable</strong></em>, all rolls targeting
     you have
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{Advantage}.</p>
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{Advantage}.</p>
   category: Condition
   rarity: Reference
   location: backpack
@@ -21,7 +21,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754061348482
@@ -33,4 +33,4 @@ ownership:
   PBdPE9squMuZKhHK: 3
 _id: pVg7g82AfOmtxjWU
 sort: 0
-_key: '!items!pVg7g82AfOmtxjWU'
+_key: "!items!pVg7g82AfOmtxjWU"

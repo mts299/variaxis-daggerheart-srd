@@ -1,16 +1,16 @@
 name: Veil of Night
 type: domain
 folder: Uh6M41jVEdhnS68W
-img: modules/daggerheart-srd/assets/domains/midnight.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
 system:
   description: >-
     <p>Make a <strong>Spellcast Roll (13)</strong>. On a success, you can create
     a temporary curtain of darkness between two points within
     <strong>Far</strong> range. Only you can see through this darkness. You're
     considered
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.TDFAueO3NKyB4mxZ]{hidden}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.TDFAueO3NKyB4mxZ]{hidden}
     to adversaries on the other side of the veil, and you have
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
     on attacks you make through the darkness. The veil remains until you cast
     another spell.</p>
   category: Midnight - level 3

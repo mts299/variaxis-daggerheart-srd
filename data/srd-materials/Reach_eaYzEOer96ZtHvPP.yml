@@ -1,8 +1,8 @@
 name: Reach
-type: item
+type: ancestry
 folder: YDzzzdXRJqLk6cNZ
 _id: eaYzEOer96ZtHvPP
-img: modules/daggerheart-srd/assets/ancestry/giant.svg
+img: modules/daggerheart-unofficial-srd/assets/ancestry/giant.svg
 system:
   description: >-
     <p>Treat any <a
@@ -30,10 +30,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946633164
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!eaYzEOer96ZtHvPP'
+_key: "!items!eaYzEOer96ZtHvPP"

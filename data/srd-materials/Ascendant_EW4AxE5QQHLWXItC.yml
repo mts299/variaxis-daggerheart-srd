@@ -1,0 +1,35 @@
+name: Ascendant
+type: subclass
+folder: z5bHP25x9cEJydGs
+img: modules/daggerheart-unofficial-srd/assets/subclasses/winged-sentinel.svg
+system:
+  description: >-
+    <p>Gain a permanent +4 bonus to your Severe <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hit-point"
+    data-bs-original-title>damage threshold</a>.</p>
+  category: Subclass Feat
+  rarity: Winged Sentinel
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754758581740
+  modifiedTime: 1754773153367
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: EW4AxE5QQHLWXItC
+sort: 0
+_key: "!items!EW4AxE5QQHLWXItC"

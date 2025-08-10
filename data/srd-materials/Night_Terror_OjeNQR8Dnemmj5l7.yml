@@ -1,7 +1,7 @@
 name: Night Terror
 type: domain
 folder: Mn10DVTIvft7cUdr
-img: modules/daggerheart-srd/assets/domains/midnight.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
 system:
   description: >-
     <p>Once per long rest, choose any targets within <strong>Very Close</strong>
@@ -9,7 +9,7 @@ system:
     <strong>Reaction Roll (16</strong>) or become temporarily
     <em><strong>Horrified</strong></em>. While
     <em><strong>Horrified</strong></em>, they're
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}.</p><p>Steal
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}.</p><p>Steal
     a number of Fear from the GM equal to the number of targets that are
     <em><strong>Horrified</strong></em> (up to the number of Fear in the GM's
     pool). Roll a number of d6s equal to the number of stolen Fear and deal the

@@ -1,0 +1,43 @@
+name: Loyal Friend
+type: subclass
+folder: 71Evf7faESGn52z8
+img: modules/daggerheart-unofficial-srd/assets/subclasses/beastbound.svg
+system:
+  description: >-
+    <p>Once per <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-long-rest"
+    data-bs-original-title>long rest</a>, when the damage from an attack would
+    mark your companion's last <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-stress"
+    data-bs-original-title>Stress</a> or your last <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hit-point"
+    data-bs-original-title>Hit Point</a> and you're within <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Close</a> range of each other, you or your companion
+    can rush to the other's side and take that damage instead.</p>
+  category: Subclass Feat
+  rarity: Beastbound
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754753944990
+  modifiedTime: 1754771744930
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: SubR8AHUZRoSfdxE
+sort: 300000
+_key: "!items!SubR8AHUZRoSfdxE"

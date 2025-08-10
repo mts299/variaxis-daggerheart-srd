@@ -1,6 +1,6 @@
 {
-  "id": "daggerheart-srd",
-  "title": "Daggerheart SRD",
+  "id": "daggerheart-unofficial-srd",
+  "title": "Daggerheart Unofficial SRD",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
@@ -9,9 +9,12 @@
   "relationships": {
     "systems": [
       {
-        "id": "daggerheart",
+        "id": "daggerheart-unofficial",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "3",
+          "verified": "3"
+        }
       }
     ]
   },
@@ -21,7 +24,7 @@
       "label": "srd-adversaries",
       "path": "packs/srd-adversaries",
       "type": "Actor",
-      "system": "daggerheart",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -32,7 +35,7 @@
       "label": "srd-frames",
       "path": "packs/srd-frames",
       "type": "JournalEntry",
-      "system": "daggerheart",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -43,7 +46,7 @@
       "label": "srd-items",
       "path": "packs/srd-items",
       "type": "Item",
-      "system": "daggerheart",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -54,7 +57,7 @@
       "label": "srd-materials",
       "path": "packs/srd-materials",
       "type": "Item",
-      "system": "daggerheart",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -65,7 +68,7 @@
       "label": "srd-rules",
       "path": "packs/srd-rules",
       "type": "JournalEntry",
-      "system": "daggerheart",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -76,11 +79,11 @@
       "label": "srd-tables",
       "path": "packs/srd-tables",
       "type": "RollTable",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "daggerheart"
+      }
     }
   ],
   "url": "https://github.com/unofficial-daggerheart/daggerheart-srd",

@@ -7,7 +7,7 @@ system:
     <p>You can spend a Hope to Help an Ally who is making an action roll you
     could feasibly support. When you do this, <strong>describe how you’re
     helping and roll a [[/roll 1d6]]
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{Advantage}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{Advantage}
     die</strong>.</p><p>Any number of PCs can Help an Ally as long as they spend
     a Hope to do so. The ally being helped might also gain advantage on the roll
     from another source; in this case, they’d roll their own d6 advantage die.
@@ -28,7 +28,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754061339971
@@ -40,4 +40,4 @@ ownership:
   PBdPE9squMuZKhHK: 3
 _id: HmWSlrKpDNnEDTGS
 sort: 100000
-_key: '!items!HmWSlrKpDNnEDTGS'
+_key: "!items!HmWSlrKpDNnEDTGS"

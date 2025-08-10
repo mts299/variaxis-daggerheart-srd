@@ -2,27 +2,21 @@ name: Stalwart
 type: subclass
 folder: 7p8P3aIftsyCt7N1
 _id: hJ3Bu6lul2CLrbY5
-img: modules/daggerheart-srd/assets/classes/guardian.svg
+img: modules/daggerheart-unofficial-srd/assets/subclasses/stalwart.svg
 system:
   description: >-
     <p>Play the Stalwart if you want to take heavy blows and keep
     fighting.</p><h6>Foundation
-    Features</h6><p><em><strong>Unwavering:</strong></em> Gain a permanent +1
-    bonus to your damage thresholds.</p><p><em><strong>Iron Will:</strong></em>
-    When you take physical damage, you can mark an additional Armor Slot to
-    reduce the severity.</p><h6>Specialization
-    Features</h6><p><em><strong>Unrelenting:</strong></em> Gain a permanent +2
-    bonus to your damage
-    thresholds.</p><p><em><strong>Partners-in-Arms:</strong></em> When an ally
-    within Very Close range takes damage, you can mark an Armor Slot to reduce
-    the severity by one threshold.</p><h6>Mastery
-    Features</h6><p><em><strong>Undaunted:</strong></em> Gain a permanent +3
-    bonus to your damage thresholds.</p><p><em><strong>Loyal
-    Protector:</strong></em> When an ally within Close range has 2 or fewer Hit
-    Points and would take damage, you can mark a Stress to sprint to their side
-    and take the damage instead.</p>
-  category: ''
-  rarity: ''
+    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.i7ooSdiJZ9i9dhaF]{Unwavering}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.qFCudTwPZ4h2HspB]{Iron
+    Will}</p><h6>Specialization
+    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.aN7FyF6FC1FT4s0o]{Unrelenting}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.M9aENxMX5ZUbubNL]{Partners-in-Arms}</p><h6>Mastery
+    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.TfMZtv2z2m1gGPBz]{Undaunted}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.b7tjrMjeyPpsNnHn]{Loyal
+    Protector}</p>
+  category: Subclass
+  rarity: Guardian
   location: subclass
   quantity: 1
   weight: 0
@@ -35,13 +29,13 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.347"
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1754178304289
+  systemVersion: 2.12.9
+  modifiedTime: 1754778665975
   lastModifiedBy: GHK9xQYeYjLhONPd
 sort: 0
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
-_key: '!items!hJ3Bu6lul2CLrbY5'
+_key: "!items!hJ3Bu6lul2CLrbY5"

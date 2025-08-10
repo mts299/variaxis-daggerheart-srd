@@ -1,0 +1,43 @@
+name: Nemesis
+type: subclass
+folder: 52trlJboa9avOhlg
+img: modules/daggerheart-unofficial-srd/assets/subclasses/vengeance.svg
+system:
+  description: >-
+    <p><a href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title><strong>Spend 2 Hope</strong></a> to
+    <em>Prioritize</em> an <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-adversary"
+    data-bs-original-title>adversary</a> until your next <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-downtime"
+    data-bs-original-title>rest</a>. When you make an attack against your
+    <em>Prioritized</em> adversary, you can swap the results of your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>Hope and Fear Dice</a>. You can only Prioritize one
+    adversary at a time.</p>
+  category: Subclass Feat
+  rarity: Vengeance
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754753798312
+  modifiedTime: 1754771468585
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: 1sbzGVMkLIAhKyGc
+sort: 300000
+_key: "!items!1sbzGVMkLIAhKyGc"

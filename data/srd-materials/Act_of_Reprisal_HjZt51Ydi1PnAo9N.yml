@@ -1,0 +1,40 @@
+name: Act of Reprisal
+type: subclass
+folder: 52trlJboa9avOhlg
+img: modules/daggerheart-unofficial-srd/assets/subclasses/vengeance.svg
+system:
+  description: >-
+    <p>When an <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-adversary"
+    data-bs-original-title>adversary</a> damages an ally within <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Melee</a> range, you gain a +1 bonus to your <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-damage-roll"
+    data-bs-original-title>Proficiency</a> for the next successful attack you
+    make against that adversary.</p>
+  category: Subclass Feat
+  rarity: Vengeance
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754753803934
+  modifiedTime: 1754771477374
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: HjZt51Ydi1PnAo9N
+sort: 0
+_key: "!items!HjZt51Ydi1PnAo9N"

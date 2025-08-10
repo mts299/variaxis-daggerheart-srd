@@ -1,0 +1,41 @@
+name: Vanishing Act
+type: subclass
+folder: Z2bhLbhf6pWhlV90
+img: modules/daggerheart-unofficial-srd/assets/subclasses/nightwalker.svg
+system:
+  description: >-
+    <p><a href="https://callmepartario.github.io/og-dhsrd/#define-stress"
+    data-bs-original-title aria-describedby="tooltip400025"><strong>Mark a
+    Stress</strong></a> to become <em>Cloaked</em> at any time. When
+    <em>Cloaked</em> from this feature, you automatically clear the <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-condition"
+    data-bs-original-title><em>Restrained</em></a> condition if you have it. You
+    remain <em>Cloaked</em> in this way until you roll with Fear or until your
+    next <a href="https://callmepartario.github.io/og-dhsrd/#define-downtime"
+    data-bs-original-title>rest</a>.</p>
+  category: Subclass Feat
+  rarity: Nightwalker
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754754976391
+  modifiedTime: 1754772474004
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: qTLDDA1XsD7eHK75
+sort: 300000
+_key: "!items!qTLDDA1XsD7eHK75"

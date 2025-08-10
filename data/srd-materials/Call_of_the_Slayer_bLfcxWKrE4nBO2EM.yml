@@ -1,0 +1,18 @@
+type: Item
+folder: G6QREH7srMdFHgxy
+name: Call of the Slayer
+color: null
+sorting: a
+_id: bLfcxWKrE4nBO2EM
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.347'
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  lastModifiedBy: null
+_key: '!folders!bLfcxWKrE4nBO2EM'

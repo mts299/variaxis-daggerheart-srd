@@ -1,7 +1,7 @@
 name: Beastform
 type: class
 folder: MQCPDzw19X5ZvmiN
-img: modules/daggerheart-srd/assets/classes/druid.svg
+img: modules/daggerheart-unofficial-srd/assets/classes/druid.svg
 system:
   description: >-
     <p><a href="https://callmepartario.github.io/og-dhsrd/#define-stress"
@@ -52,7 +52,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   createdTime: 1754173425488
@@ -60,4 +60,4 @@ _stats:
   lastModifiedBy: GHK9xQYeYjLhONPd
 _id: EPN0IfF8Pvwv5SHx
 sort: 200000
-_key: '!items!EPN0IfF8Pvwv5SHx'
+_key: "!items!EPN0IfF8Pvwv5SHx"

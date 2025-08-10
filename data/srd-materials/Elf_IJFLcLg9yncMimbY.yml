@@ -1,12 +1,12 @@
 name: Elf
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-srd/assets/ancestry/elf.svg
+img: modules/daggerheart-unofficial-srd/assets/ancestry/elf.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.ZyW73srlxgLxsUJ7]{Quick
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ZyW73srlxgLxsUJ7]{Quick
     Reactions}
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.pU9WCuEaHMVssDMD]{Celestial
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pU9WCuEaHMVssDMD]{Celestial
     Trance}</p><h2>Description</h2><p>Elves are typically tall humanoids with
     pointed ears and acutely attuned senses. <span class="og-omit">Their ears
     vary in size and pointed shape, and as they age, the tips begin to droop.
@@ -35,10 +35,10 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-srd.srd-materials.Item.nVlaYZo0h9VaMDa8
+  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.nVlaYZo0h9VaMDa8
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
@@ -49,4 +49,4 @@ ownership:
   GHK9xQYeYjLhONPd: 3
 _id: IJFLcLg9yncMimbY
 sort: 0
-_key: '!items!IJFLcLg9yncMimbY'
+_key: "!items!IJFLcLg9yncMimbY"

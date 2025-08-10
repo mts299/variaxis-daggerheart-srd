@@ -1,7 +1,7 @@
 name: Wizard
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: modules/daggerheart-srd/assets/classes/wizard.svg
+img: modules/daggerheart-unofficial-srd/assets/classes/wizard.svg
 system:
   description: >-
     <h2>Stats</h2><ul class="list-unstyled"><li><span
@@ -11,16 +11,16 @@ system:
     A book you're trying to translate, or a tiny, harmless
     elemental</li></ul><h2>Features</h2><ul
     class="list-unstyled"><li><strong>Domains:</strong>
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.q0u966dVjADauCYA]{Codex}
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.KNHZiWPXbHnLVOvZ]{Splendor}</li><li><strong>Subclasses:</strong>
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.wCdG1CMqihBXCNfy]{School
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.q0u966dVjADauCYA]{Codex}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.KNHZiWPXbHnLVOvZ]{Splendor}</li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.wCdG1CMqihBXCNfy]{School
     of War}
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.mRSYWryGWIGJV878]{School
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.mRSYWryGWIGJV878]{School
     of Knowledge}</li><li><strong>Wizard Features:
-    </strong>@UUID[Compendium.daggerheart-srd.srd-materials.Item.9DDdOsdUzR20DK2g]{Not
+    </strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.9DDdOsdUzR20DK2g]{Not
     This Time}
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.pKx2WgWSx6XHmCG9]{Prestidigitation}
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.gKUmkrtrMrSWJ8IL]{Strange
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pKx2WgWSx6XHmCG9]{Prestidigitation}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.gKUmkrtrMrSWJ8IL]{Strange
     Patterns}</li></ul><h2>Description</h2><p>Whether through an institution or
     individual study, those known as wizards acquire and hone immense magical
     power over years of learning using a variety of tools, including books,
@@ -47,7 +47,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.4
   modifiedTime: 1754173643027
@@ -57,4 +57,4 @@ sort: 0
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
-_key: '!items!pOxeDyxIdsTqXLgk'
+_key: "!items!pOxeDyxIdsTqXLgk"

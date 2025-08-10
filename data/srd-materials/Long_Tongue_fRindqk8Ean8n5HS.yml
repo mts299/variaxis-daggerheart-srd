@@ -1,8 +1,8 @@
 name: Long Tongue
-type: item
+type: ancestry
 folder: 8uA17W2PLDFQyvfY
 _id: fRindqk8Ean8n5HS
-img: modules/daggerheart-srd/assets/ancestry/ribbet.svg
+img: modules/daggerheart-unofficial-srd/assets/ancestry/ribbet.svg
 system:
   description: >-
     <p>You can use your long tongue to grab onto things within <a
@@ -38,10 +38,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946792008
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!fRindqk8Ean8n5HS'
+_key: "!items!fRindqk8Ean8n5HS"

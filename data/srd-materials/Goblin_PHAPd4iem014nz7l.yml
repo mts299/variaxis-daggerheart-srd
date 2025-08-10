@@ -1,11 +1,11 @@
 name: Goblin
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-srd/assets/ancestry/goblin.svg
+img: modules/daggerheart-unofficial-srd/assets/ancestry/goblin.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.Z9iDDPiPk13riiFa]{Surefooted}
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.1lF6zMb2tUAGbBlz]{Danger
+    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Z9iDDPiPk13riiFa]{Surefooted}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.1lF6zMb2tUAGbBlz]{Danger
     Sense}</p><h2>Description</h2><p>Goblins are small humanoids easily
     recognizable by their large eyes and massive membranous ears. <span
     class="og-omit">With keen hearing and sharp eyesight, they perceive details
@@ -28,10 +28,10 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-srd.srd-materials.Item.TfTB1j46KxCbN8Lv
+  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.TfTB1j46KxCbN8Lv
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
@@ -42,4 +42,4 @@ ownership:
   GHK9xQYeYjLhONPd: 3
 _id: PHAPd4iem014nz7l
 sort: 0
-_key: '!items!PHAPd4iem014nz7l'
+_key: "!items!PHAPd4iem014nz7l"

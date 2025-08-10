@@ -1,7 +1,7 @@
 name: Death Grip
 type: domain
 folder: gJv72Jd0fCiWzBk5
-img: modules/daggerheart-srd/assets/domains/sage.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/sage.svg
 system:
   description: >-
     <p>Make a <strong>Spellcast Roll</strong> against a target within
@@ -12,7 +12,7 @@ system:
     target must succeed on a <strong>Reaction Roll (13)</strong> or be hit by
     vines, taking [[/roll 3d6+2]] physical damage.</p></li></ul><p>On a success,
     vines reach out from your hands, causing the chosen effect and temporarily
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.967FSSCW150Zpp5E]{restraining}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.967FSSCW150Zpp5E]{restraining}
     the target.</p>
   category: Sage - level 4
   rarity: Recall cost 1

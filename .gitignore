@@ -8,7 +8,6 @@ npm-debug.log*
 *.log
 logs
 
-
 # Editors
 .DS_Store
 .vscode/*
@@ -20,9 +19,9 @@ logs
 *.sln
 *.sw?
 
-
 # Project
 node_modules
+private/*
 *.local
 backup
 packs

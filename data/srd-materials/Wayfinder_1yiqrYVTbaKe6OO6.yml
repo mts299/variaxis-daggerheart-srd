@@ -2,25 +2,21 @@ name: Wayfinder
 type: subclass
 folder: OibQ9wUw5Bqg2thu
 _id: 1yiqrYVTbaKe6OO6
-img: modules/daggerheart-srd/assets/classes/ranger.svg
+img: modules/daggerheart-unofficial-srd/assets/subclasses/wayfinder.svg
 system:
   description: >-
     <p>Play the Wayfinder if you want to hunt your prey and strike with deadly
     force.</p><h6>Spellcast Trait</h6><p>Agility</p><h6>Foundation
-    Features</h6><p><em><strong>Ruthless Predator:</strong></em> When you make a
-    damage roll, you can mark a Stress to gain a +1 bonus to your Proficiency.
-    Additionally, when you deal Severe damage to an adversary, they must mark a
-    Stress.</p><p><em><strong>Path Forward:</strong></em> When you're traveling
-    to a place you've previously visited or you carry an object that has been at
-    the location before, you can identify the shortest, most direct path to your
-    destination.</p><h6>Specialization Feature</h6><p><em><strong>Elusive
-    Predator:</strong></em> When your <em>Focus</em> makes an attack against
-    you, you gain a +2 bonus to your Evasion against the attack.</p><h6>Mastery
-    Feature</h6><p><em><strong>Apex Predator:</strong></em> Before you make an
-    attack roll against your <em>Focus</em>, you can spend a Hope. On a
-    successful attack, you remove a Fear from the GM's Fear pool.</p>
-  category: ''
-  rarity: ''
+    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.MqqXtRFJU121Igj6]{Ruthless
+    Predator}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.IFXquDsg0OK15pSI]{Path
+    Forward}</p><h6>Specialization
+    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.q0MVSGk3QcdNRsHN]{Elusive
+    Predator}</strong></em></p><h6>Mastery
+    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.BI8TAsoPje0IZ9Se]{Apex
+    Predator}</p>
+  category: Subclass
+  rarity: Ranger
   location: subclass
   quantity: 1
   weight: 0
@@ -33,13 +29,13 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.347"
   systemId: daggerheart
-  systemVersion: 2.9.7
-  modifiedTime: 1754178331231
+  systemVersion: 2.12.9
+  modifiedTime: 1754778360552
   lastModifiedBy: GHK9xQYeYjLhONPd
 sort: 0
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
-_key: '!items!1yiqrYVTbaKe6OO6'
+_key: "!items!1yiqrYVTbaKe6OO6"

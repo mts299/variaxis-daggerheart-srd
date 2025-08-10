@@ -2,12 +2,12 @@ name: Wanderborne
 type: community
 folder: JKK1U2Q9eeUWaXKy
 _id: cBU3eu1bWlLlkZYh
-img: modules/daggerheart-srd/assets/communities/wanderborne.svg
+img: modules/daggerheart-unofficial-srd/assets/communities/wanderborne.svg
 system:
   description: >-
     <blockquote><p>Wanderborne are often inscrutable, magnanimous, mirthful,
     reliable, savvy, and
-    unorthodox.</p></blockquote><h2>Features</h2><p>@UUID[Compendium.daggerheart-srd.srd-materials.Item.OtqhUUpnFjyL0Dh6]{Nomadic
+    unorthodox.</p></blockquote><h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.OtqhUUpnFjyL0Dh6]{Nomadic
     Pack}</p><h2>Description</h2><p>Being part of a wanderborne community means
     you've lived as a nomad, forgoing a permanent home and experiencing a wide
     variety of cultures. <span class="og-omit">Unlike many communities that are
@@ -34,7 +34,7 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   modifiedTime: 1753957618220
@@ -43,4 +43,4 @@ sort: 0
 ownership:
   default: 0
   GURa9Tm6QJyl1rY7: 3
-_key: '!items!cBU3eu1bWlLlkZYh'
+_key: "!items!cBU3eu1bWlLlkZYh"

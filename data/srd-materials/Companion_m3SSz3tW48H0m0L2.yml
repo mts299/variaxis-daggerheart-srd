@@ -1,0 +1,42 @@
+name: Companion
+type: subclass
+folder: 71Evf7faESGn52z8
+img: modules/daggerheart-unofficial-srd/assets/subclasses/beastbound.svg
+system:
+  description: >-
+    <p>You have an animal <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-beastbound-companion"
+    data-bs-original-title>companion</a> of your choice (at the GM's
+    discretion). They stay by your side unless you tell them
+    otherwise.</p><p>Take the <a
+    href="https://www.daggerheart.com/downloads/">Ranger Companion sheet</a>.
+    When you <a href="https://callmepartario.github.io/og-dhsrd/#define-level"
+    data-bs-original-title>level up</a>, choose a <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-beastbound-companion-advancement"
+    data-bs-original-title>level up option</a> for your companion as well.</p>
+  category: Subclass Feat
+  rarity: Beastbound
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754753953690
+  modifiedTime: 1754771682670
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: m3SSz3tW48H0m0L2
+sort: 150000
+_key: "!items!m3SSz3tW48H0m0L2"

@@ -1,0 +1,54 @@
+name: Gifted Performer
+type: subclass
+folder: QRhnECozZb8F1loZ
+img: modules/daggerheart-unofficial-srd/assets/subclasses/troubadour.svg
+system:
+  description: >-
+    <p>You can play three different types of songs, once each per <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-long-rest"
+    data-bs-original-title>long rest</a>; describe how you perform for others to
+    gain the listed benefit:</p><ul
+    class="og-list-disc"><li><em><strong>Relaxing Song:</strong></em> You and
+    all allies within <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Close</a> range clear a <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hit-point"
+    data-bs-original-title>Hit Point</a>.</li><li><em><strong>Epic
+    Song:</strong></em> Make a target within <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Close</a> range <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-temporary"
+    data-bs-original-title>temporarily</a> <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-condition"
+    data-bs-original-title><em>Vulnerable</em></a>.</li><li><em><strong>Heartbreaking
+    Song:</strong></em> You and all allies within <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Close</a> range gain a <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-hope"
+    data-bs-original-title>Hope</a>.</li></ul>
+  category: Subclass Feat
+  rarity: Troubadour
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754739551522
+  modifiedTime: 1754770525712
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: x3zswnv8VaWin50y
+sort: 200000
+_key: "!items!x3zswnv8VaWin50y"

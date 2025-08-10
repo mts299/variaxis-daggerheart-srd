@@ -1,0 +1,36 @@
+name: Regenerative Reach
+type: subclass
+folder: jWVUqkzGxtX62NfM
+img: modules/daggerheart-unofficial-srd/assets/subclasses/warden-of-the-renewal.svg
+system:
+  description: >-
+    <p>You can target creatures within <a
+    href="https://callmepartario.github.io/og-dhsrd/#define-range"
+    data-bs-original-title>Very Close</a> range with your "Regeneration"
+    feature.</p>
+  category: Subclass Feat
+  rarity: Warden of the Renewal
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754742865068
+  modifiedTime: 1754770993710
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: BMrrvl6CPQvut0Vz
+sort: 300000
+_key: "!items!BMrrvl6CPQvut0Vz"

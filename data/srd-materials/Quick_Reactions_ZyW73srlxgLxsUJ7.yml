@@ -1,8 +1,8 @@
 name: Quick Reactions
-type: item
+type: ancestry
 folder: yMznhwt7JcInf4TP
 _id: ZyW73srlxgLxsUJ7
-img: modules/daggerheart-srd/assets/ancestry/elf.svg
+img: modules/daggerheart-unofficial-srd/assets/ancestry/elf.svg
 system:
   description: >-
     <p><a href="https://callmepartario.github.io/og-dhsrd/#define-stress"
@@ -29,10 +29,10 @@ _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.346'
+  coreVersion: "13.346"
   systemId: daggerheart
   systemVersion: 2.11.1
   createdTime: 1753944147570
   modifiedTime: 1753946438094
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: '!items!ZyW73srlxgLxsUJ7'
+_key: "!items!ZyW73srlxgLxsUJ7"

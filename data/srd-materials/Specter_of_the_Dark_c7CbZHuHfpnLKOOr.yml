@@ -1,13 +1,13 @@
 name: Specter of the Dark
 type: domain
 folder: Dggg96ArR2wumEvU
-img: modules/daggerheart-srd/assets/domains/midnight.svg
+img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
 system:
   description: >-
     <p>Mark a Stress to become <em><strong>Spectral</strong></em> until you make
     an action roll targeting another creature. While
     <em><strong>Spectral</strong></em>, you're
-    @UUID[Compendium.daggerheart-srd.srd-materials.Item.b8EiJ2mtrhtQLnRz]{immune}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.b8EiJ2mtrhtQLnRz]{immune}
     to physical damage and can float and pass through solid objects.</p><p>Other
     creatures can still see you while you're in this form.</p>
   category: Midnight - level 10

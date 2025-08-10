@@ -1,0 +1,18 @@
+type: Item
+folder: 73qFzl3t1WQi3Obg
+name: School of Knowledge
+color: null
+sorting: a
+_id: iJKEy82G1UJ4kCBl
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.347'
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  lastModifiedBy: null
+_key: '!folders!iJKEy82G1UJ4kCBl'
