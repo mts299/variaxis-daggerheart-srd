@@ -86,10 +86,10 @@
       }
     }
   ],
-  "url": "https://github.com/unofficial-daggerheart/daggerheart-srd",
-  "bugs": "https://github.com/unofficial-daggerheart/daggerheart-srd/issues",
-  "download": "https://github.com/unofficial-daggerheart/daggerheart-srd/releases/latest/download/module.zip",
-  "manifest": "https://github.com/unofficial-daggerheart/daggerheart-srd/releases/latest/download/module.json",
+  "url": "https://github.com/mts299/daggerheart-srd",
+  "bugs": "https://github.com/mts299/daggerheart-srd/issues",
+  "download": "https://github.com/mts299/daggerheart-srd/releases/latest/download/module.zip",
+  "manifest": "https://github.com/mts299/daggerheart-srd/releases/latest/download/module.json",
   "description": "",
   "flags": {}
 }
