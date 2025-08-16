@@ -1,7 +1,7 @@
 name: Warlock
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: modules/daggerheart-unofficial-srd/assets/classes/wizard.svg
+img: modules/daggerheart-unofficial-srd/assets/classes/Warlock.svg
 system:
   description: >-
     <h2>Stats</h2><ul class="list-unstyled"><li><span
@@ -11,28 +11,17 @@ system:
     A book you're trying to translate, or a tiny, harmless
     elemental</li></ul><h2>Features</h2><ul
     class="list-unstyled"><li><strong>Domains:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.q0u966dVjADauCYA]{Codex}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.KNHZiWPXbHnLVOvZ]{Splendor}</li><li><strong>Subclasses:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.wCdG1CMqihBXCNfy]{School
-    of War}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.mRSYWryGWIGJV878]{School
-    of Knowledge}</li><li><strong>Wizard Features:
-    </strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.9DDdOsdUzR20DK2g]{Not
-    This Time}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pKx2WgWSx6XHmCG9]{Prestidigitation}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.gKUmkrtrMrSWJ8IL]{Strange
-    Patterns}</li></ul><h2>Description</h2><p>Whether through an institution or
-    individual study, those known as wizards acquire and hone immense magical
-    power over years of learning using a variety of tools, including books,
-    stones, potions, and herbs. <span class="og-omit">Some wizards dedicate
-    their lives to mastering a particular school of magic, while others learn
-    from a wide variety of disciplines. Many wizards become wise and powerful
-    figures in their communities, advising rulers, providing medicines and
-    healing, and even leading war councils. While these mages all work toward
-    the common goal of collecting magical knowledge, wizards often have the most
-    conflict within their own ranks, as the acquisition, keeping, and sharing of
-    powerful secrets is a topic of intense debate that has resulted in
-    innumerable deaths.</span></p>
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.C5ekTRkeUwirqISs]{Dread}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.jymUNChnzd1k4Vik]{Grace}</li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Ve9QbhN4N1Ll3Rvs]{Pact of the Endless}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.KdE1iEirH5RmSirh]{Pact of the Wrathful}</li><li><strong>Warlock Features:
+    </strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Gyfg5BMHsKYuWai7]{Patron's Boon}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.h4016qRzxKA2zeXl]{Warlock Patron}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.12rz9sY52XjpY8QQ]{Favor}
+    </li></ul><h2>Description</h2><p>Those who’ve traded their lives, or perhaps even their souls, 
+    to an otherworldly Patron in exchange for incredible power are known as Warlocks. Often, these mortals 
+    are at a point of desperation that leads them to such a sacrifice- to protect themselves or a loved one, 
+    aid their community, seek vengeance, increase their status, or otherwise further their ambitions.</p>
   category: Class
   rarity: SRD
   location: class

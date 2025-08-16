@@ -1,0 +1,43 @@
+name: Warlock Patron
+type: class
+folder: AIPStYP3zb18V78c
+img: modules/daggerheart-unofficial-srd/assets/classes/Warlock.svg
+system:
+  description: >-
+    <p>You have committed yourself to a <strong>patron</strong> (god, demon, fae, or other supernatural entity)
+    in exchange for power. Write their name in the space on your sheet. 
+    Then, choose their </strong>spheres of influence</strong> at GM discretion (like Nature & Mischief, 
+    Love & War, Knowledge & Shadow, etc.), record them in the space provided and set their value 
+    to <strong>+2</strong>. Anytime you increase your <a href="https://callmepartario.github.io/og-dhsrd/#define-tier"
+    data-bs-original-title>tier</a>, these <strong>spheres of influence</strong> 
+    also <strong>gain a permanent +1 bonus</strong>. 
+    Before making an <a href="https://callmepartario.github.io/og-dhsrd/#define-action-roll"
+    data-bs-original-title>Action Roll</a> that <strong>relates</strong> to one of your
+    <strong>patron’s spheres of influence</strong>, 
+    you can <strong>spend a Favor</strong> to call on them and <strong>add</strong> its value to the <strong>roll</strong>.</p>
+  category: Class Feat
+  rarity: Warlock
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.4
+  createdTime: 1754172085938
+  modifiedTime: 1754177838869
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: h4016qRzxKA2zeXl
+sort: 100000
+_key: "!items!h4016qRzxKA2zeXl"
