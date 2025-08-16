@@ -20,6 +20,17 @@
   },
   "packs": [
     {
+      "name": "srd-factions",
+      "label": "srd-factions",
+      "path": "packs/srd-factions",
+      "type": "Actor",
+      "system": "daggerheart-unofficial",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "srd-adversaries",
       "label": "srd-adversaries",
       "path": "packs/srd-adversaries",
@@ -87,7 +98,7 @@
     }
   ],
   "url": "https://github.com/mts299/daggerheart-srd",
-  "bugs": "https://github.com/mts299/daggerheart-srd/issues",
+  "bugs": "https://github.com/mtss/daggerheart-srd/issues",
   "download": "https://github.com/mts299/daggerheart-srd/releases/latest/download/module.zip",
   "manifest": "https://github.com/mts299/daggerheart-srd/releases/latest/download/module.json",
   "description": "",
