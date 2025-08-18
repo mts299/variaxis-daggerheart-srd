@@ -1,0 +1,40 @@
+name: Umbral Veil
+type: domain
+folder: 5uB6dgSzOJaOg8nx
+_id: E74EJRZTpQRDpbJC
+img: modules/daggerheart-unofficial-srd/assets/domains/dread.svg
+system:
+  description: >-
+    <p>
+    Make a <strong>Spellcast Roll (10)</strong>. On a <strong>success</strong>, 
+    spend <strong>any number of Hope</strong> and place an equal number of tokens
+    on this card to encase yourself in shadowy energy. 
+    After an <strong>attack roll</strong> is made against you, 
+    you may <strong>spend</strong> any number of tokens to 
+    gain a +1 bonus to your <strong>Evasion</strong> per token against that attack.</p>
+  category: Dread - Level 1
+  rarity: recall cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754144430877
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!E74EJRZTpQRDpbJC"

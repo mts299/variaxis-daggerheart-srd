@@ -6,15 +6,16 @@ system:
   description: >-
     <h2>Life</h2><p>Dread is the domain of life. Through this magic,
     followers gain the ability to heal and—to an extent—control
-    death.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pfPdBN5qX3UrT3d9]{Seraph}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pOxeDyxIdsTqXLgk]{Wizard}</p><h4>Domain
+    death.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.OFaVXNMzXPxzRuO5]{Warlock}
+    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pOxeDyxIdsTqXLgk]{Witch}</p><h4>Domain
     Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
     Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.mecGw1DP1gHudvLr]{Bolt
-    Beacon}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EzlvBEPNv28BaxL7]{Mending
-    Touch}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.HTZKqyTjCluDgSM3]{Reassurance}</li></ul></td></tr><tr><td><p>2</p></td><td><ul
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ttgXjpV2ZBlRUC7g]{Blighting 
+    Strike}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.E74EJRZTpQRDpbJC]{Umbral 
+    Veil}</li><li
+    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.TvYJcYHnP10HQjdm]{Voice of 
+    Dread}</li></ul></td></tr><tr><td><p>2</p></td><td><ul
     class="list-inline mb-0"><li
     class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.OxTnBAAyV2iD1AwP]{Final
     Words}</li><li
