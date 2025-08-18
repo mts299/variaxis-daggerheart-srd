@@ -1,0 +1,35 @@
+name: Diminish My Foes
+type: subclass
+folder: jqZ3aj11LZ45gnBl
+img: modules/variaxis-daggerheart-srd/assets/subclasses/wayfinder.svg
+system:
+  description: >-
+    <p>When you <strong>succeed with Hope</strong> on an action roll 
+    against a target, instead of taking a Hope, you can choose to have your 
+    target mark a Stress.</p>
+  category: Subclass Feat
+  rarity: Pact of the Wrathful
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754754776192
+  modifiedTime: 1754771799652
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: 4n45DSeEjiXolSEg
+sort: 100000
+_key: "!items!4n45DSeEjiXolSEg"

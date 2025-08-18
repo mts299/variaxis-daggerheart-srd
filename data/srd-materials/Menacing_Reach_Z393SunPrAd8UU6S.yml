@@ -1,0 +1,35 @@
+name: Menacing Reach
+type: subclass
+folder: jqZ3aj11LZ45gnBl
+img: modules/variaxis-daggerheart-srd/assets/subclasses/wayfinder.svg
+system:
+  description: >-
+    <p>When you <em>Imbue</em> your weapon with your Patron's fury,
+    you can mark a stress to increase its range by one step
+    (Melee to very close, very close to close, etc. ).</p>
+  category: Subclass Feat
+  rarity: Pact of the Wrathful
+  location: subclass
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.347"
+  systemId: daggerheart
+  systemVersion: 2.12.9
+  createdTime: 1754754776192
+  modifiedTime: 1754771799652
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: Z393SunPrAd8UU6S
+sort: 100000
+_key: "!items!Z393SunPrAd8UU6S"

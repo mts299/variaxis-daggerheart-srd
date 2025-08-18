@@ -5,18 +5,17 @@ _id: KdE1iEirH5RmSirh
 img: modules/variaxis-daggerheart-srd/assets/subclasses/Pact-of-the-Wrathful.svg
 system:
   description: >-
-    <p>Play the Pact-of-the-Wrathful if you want to hunt your prey and strike with deadly
-    force.</p><h6>Spellcast Trait</h6><p>Agility</p><h6>Foundation
-    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.MqqXtRFJU121Igj6]{Ruthless
-    Predator}
-    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.IFXquDsg0OK15pSI]{Path
-    Forward}</p><h6>Specialization
-    Feature</h6><p><em><strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.q0MVSGk3QcdNRsHN]{Elusive
-    Predator}</strong></em></p><h6>Mastery
-    Feature</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.BI8TAsoPje0IZ9Se]{Apex
-    Predator}</p>
+    <p>Play the Pact-of-the-Wrathful.</p><h6>Spellcast Trait</h6><p>Presence</p><h6>Foundation
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.62Kr7xOPw09AdcvS]{Favored Weapon}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.vFJJpVG3ctWQlQeN]{Hearld of Death}</p>
+    <h6>Specialization
+    Feature</h6><p><em><strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Z393SunPrAd8UU6S]{Menacing Reach}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.4n45DSeEjiXolSEg]{Diminish
+    My Foes}</strong></em></p><h6>Mastery
+    Feature</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.buYiJLDfi7akMUCs]{Fearsome Attack}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.91zDvwuVsc8HNxS7]{Divine Ire}</p>
   category: Subclass
-  rarity: Ranger
+  rarity: Warlock
   location: subclass
   quantity: 1
   weight: 0
