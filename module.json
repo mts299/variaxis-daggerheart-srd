@@ -9,7 +9,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "variaxis-daggerheart-unofficial",
+        "id": "daggerheart-unofficial",
         "type": "system",
         "compatibility": {
           "minimum": "3",
@@ -24,7 +24,7 @@
       "label": "srd-factions",
       "path": "packs/srd-factions",
       "type": "Actor",
-      "system": "variaxis-daggerheart-unofficial",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -35,7 +35,7 @@
       "label": "srd-adversaries",
       "path": "packs/srd-adversaries",
       "type": "Actor",
-      "system": "variaxis-daggerheart-unofficial",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -46,7 +46,7 @@
       "label": "srd-frames",
       "path": "packs/srd-frames",
       "type": "JournalEntry",
-      "system": "variaxis-daggerheart-unofficial",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -57,7 +57,7 @@
       "label": "srd-items",
       "path": "packs/srd-items",
       "type": "Item",
-      "system": "variaxis-daggerheart-unofficial",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -68,7 +68,7 @@
       "label": "srd-materials",
       "path": "packs/srd-materials",
       "type": "Item",
-      "system": "variaxis-daggerheart-unofficial",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -79,7 +79,7 @@
       "label": "srd-rules",
       "path": "packs/srd-rules",
       "type": "JournalEntry",
-      "system": "variaxis-daggerheart-unofficial",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -90,7 +90,7 @@
       "label": "srd-tables",
       "path": "packs/srd-tables",
       "type": "RollTable",
-      "system": "variaxis-daggerheart-unofficial",
+      "system": "daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
