@@ -1,0 +1,38 @@
+name: Chains of Affliction
+type: domain
+folder: 5uB6dgSzOJaOg8nx
+_id: Xe4Rh4fM8EyiBBdg
+img: modules/variaxis-daggerheart-srd/assets/domains/dread.svg
+system:
+  description: >-
+    <p>Mark 2 Stress to temporarily <em>chain</em> a target within
+    <strong>Close</strong> range. When a <em>Chained</em> creature
+    deals damage, the target of their attack reduces the number of
+    <strong>Hit Points</strong> they mark by one. You can't have more
+    than one creature <em>Chained</em> at a time.</p>
+  category: Dread - Level 4
+  rarity: recall cost 2
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754144430877
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!Xe4Rh4fM8EyiBBdg"

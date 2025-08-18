@@ -1,0 +1,41 @@
+name: Dark Army
+type: domain
+folder: 5uB6dgSzOJaOg8nx
+_id: 9I56lZQboESLklWM
+img: modules/variaxis-daggerheart-srd/assets/domains/dread.svg
+system:
+  description: >-
+    <p>Make a <strong>Spellcast Roll (14)</strong>. Once per long rest, 
+    on a success you can summon a group of fiends that surround and move
+    with you. Place 8 tokens on this card. When you deal damage to a target within
+    <strong>Very Clos</strong> range, you can spend a token to increase it
+    by [[/roll +1d8]]. Additionaly, when you take damage, you can spend a token, 
+    a fiend acts on your behalf, then dissappears. 
+    
+    Remove all tokens from this card on your next rest.</p>
+  category: Dread - Level 8
+  rarity: recall cost 2
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754144430877
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!9I56lZQboESLklWM"

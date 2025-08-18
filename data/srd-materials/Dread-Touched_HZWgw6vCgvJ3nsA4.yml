@@ -1,0 +1,41 @@
+name: Dread-Touched
+type: domain
+folder: 5uB6dgSzOJaOg8nx
+_id: HZWgw6vCgvJ3nsA4
+img: modules/variaxis-daggerheart-srd/assets/domains/dread.svg
+system:
+  description: >-
+    <p>When 4 or more of the domain cards in your loadout are from 
+    the <strong>Dread</strong> domain, gain the following benefits:
+    <ul>
+      <li>When you succeed with <strong>Fear</strong>, you can mark 2 Stress
+      to prevent the GM from gaining a Fear.</li>
+      <li>Once per rest, when making an action roll, you can add a +1 bonus
+      to a roll for each Fear token the GM has stored.</li>
+    </ul></p>
+  category: Dread - Level 7
+  rarity: recall cost 2
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754144430877
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!HZWgw6vCgvJ3nsA4"

@@ -1,0 +1,36 @@
+name: Jump Scare
+type: domain
+folder: 5uB6dgSzOJaOg8nx
+_id: 2BGK417H9Kv4RuC4
+img: modules/variaxis-daggerheart-srd/assets/domains/dread.svg
+system:
+  description: >-
+    <p>When you deal magic damage to a target, you can mark a Stress to
+    immediately teleport into <strong>Melee</strong> range of them. When you
+    do, they become vulnerable until they mark one of more Hit Points.</p>
+  category: Dread - Level 6
+  rarity: recall cost 0
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754144430877
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!2BGK417H9Kv4RuC4"

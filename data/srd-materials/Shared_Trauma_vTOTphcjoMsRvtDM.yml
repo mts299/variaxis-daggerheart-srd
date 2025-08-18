@@ -1,0 +1,38 @@
+name: Shared Trauma
+type: domain
+folder: 5uB6dgSzOJaOg8nx
+_id: vTOTphcjoMsRvtDM
+img: modules/variaxis-daggerheart-srd/assets/domains/dread.svg
+system:
+  description: >-
+    <p>You can transfer suffering from one creature to another.
+    Once per rest, mark any number of <strong>Hit Points</strong>
+    on a willing creature within <strong>Melee</strong> range to 
+    clear an equal number of Hit Points on another willing creature
+    within Melee range. You can choose yourself in place of either creature.</p>
+  category: Dread - Level 3
+  rarity: recall cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754144430877
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!vTOTphcjoMsRvtDM"

@@ -1,0 +1,40 @@
+name: Spectral Mist
+type: domain
+folder: 5uB6dgSzOJaOg8nx
+_id: 2jpxTRqm5ocDbtLw
+img: modules/variaxis-daggerheart-srd/assets/domains/dread.svg
+system:
+  description: >-
+    <p>Mark a stress to summon an eerie mist that turns
+    you and any targets within <strong>Close</strong> range
+    momentarily incorporeal. While a creature is incorporeal,
+    the can move through solid objects and are immune to physical
+    damage. A creature becomes corporeal again after they press through
+    a solid object or make an action roll. Otherwise, this effect drops
+    at the end of the scene.</p>
+  category: Dread - Level 5
+  rarity: recall cost 0
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754144430877
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!2jpxTRqm5ocDbtLw"

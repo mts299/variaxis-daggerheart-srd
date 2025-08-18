@@ -1,0 +1,40 @@
+name: Avatar of Terror
+type: domain
+folder: 5uB6dgSzOJaOg8nx
+_id: UJjGOIuKNJxKVb3e
+img: modules/variaxis-daggerheart-srd/assets/domains/dread.svg
+system:
+  description: >-
+    <p>Mark a Stress to transform into a creature fueled by fear.
+    While in this form, your damage rolls gain a [[/roll +1d6]] bonus
+    for each Fear the GM has. Additionally, gain a Hope when the GM uses
+    a Fear feature on an adversary within Close range. 
+    
+    You must spend a Hope to make an action roll while in this form. 
+    Otherwise, you drop out of this form.</p>
+  category: Dread - Level 10
+  rarity: recall cost 1
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.5
+  createdTime: 1754139710068
+  modifiedTime: 1754144430877
+  lastModifiedBy: PBdPE9squMuZKhHK
+sort: 0
+ownership:
+  default: 0
+  y4XqAKELcbCBQHwR: 3
+  PBdPE9squMuZKhHK: 3
+_key: "!items!UJjGOIuKNJxKVb3e"
