@@ -6,7 +6,7 @@ system:
   description: >-
     <p>While you are <em><strong>Vulnerable</strong></em>, all rolls targeting
     you have
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{Advantage}.</p>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{Advantage}.</p>
   category: Condition
   rarity: Reference
   location: backpack

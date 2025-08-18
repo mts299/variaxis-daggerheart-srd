@@ -2,15 +2,15 @@ name: Syndicate
 type: subclass
 folder: Eayp0LmOVUrcwpAj
 _id: SirX9MGUWV9D16n6
-img: modules/daggerheart-unofficial-srd/assets/subclasses/syndicate.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/syndicate.svg
 system:
   description: >-
     <p>Play the Syndicate if you want to have a web of contacts everywhere you
     go.</p><h6>Spellcast Trait</h6><p>Finesse</p><h6>Foundation
-    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.XWHuLrkQQRzt7mgn]{Well-Connected}</strong></em></p><h6>Specialization
-    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.jwE0dpYwSpeJrq60]{Contacts
+    Feature</h6><p><em><strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.XWHuLrkQQRzt7mgn]{Well-Connected}</strong></em></p><h6>Specialization
+    Feature</h6><p><em><strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.jwE0dpYwSpeJrq60]{Contacts
     Everywhere}</strong></em></p><h6>Mastery
-    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.AapVxihYlaCGyesH]{Reliable
+    Feature</h6><p><em><strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.AapVxihYlaCGyesH]{Reliable
     Backup}</strong></em></p>
   category: Subclass
   rarity: Rogue

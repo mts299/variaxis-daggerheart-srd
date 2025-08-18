@@ -1,7 +1,7 @@
 name: Rejuvenation Barrier
 type: domain
 folder: vjt5805KGhpEtwqn
-img: modules/daggerheart-unofficial-srd/assets/domains/sage.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/sage.svg
 system:
   description: >-
     <p>Make a <strong>Spellcast Roll (15)</strong>. Once per rest on a success,
@@ -9,7 +9,7 @@ system:
     Close</strong> range.</p><ul><li><p>You and all allies within the barrier
     when this spell is cast clear [[/roll 1d4]] Hit Points.
     </p></li><li><p>While the barrier is up, you and all allies within have
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.b8EiJ2mtrhtQLnRz]{resistance}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.b8EiJ2mtrhtQLnRz]{resistance}
     to physical damage from outside the barrier.</p></li><li><p>When you move,
     the barrier follows you.</p></li></ul>
   category: Sage - level 8

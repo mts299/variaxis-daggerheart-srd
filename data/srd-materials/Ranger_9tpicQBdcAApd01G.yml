@@ -1,7 +1,7 @@
 name: Ranger
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: modules/daggerheart-unofficial-srd/assets/classes/ranger.svg
+img: modules/variaxis-daggerheart-srd/assets/classes/ranger.svg
 system:
   description: >-
     <h2>Stats</h2><ul class="list-unstyled"><li><span
@@ -11,14 +11,14 @@ system:
     A trophy from your first kill, or a seemingly broken
     compass</li></ul><h2>Features</h2><ul
     class="list-unstyled"><li><strong>Domains:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.q0GrMrQsDuAl4z1B]{Sage}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.qpkZw4Z9Qym7Vt7i]{Bone}</li><li><strong>Subclasses:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.1yiqrYVTbaKe6OO6]{Wayfinder}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.m9PaUzWxY2L5wGJX]{Beastbound}</li><li><strong>Ranger
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.q0GrMrQsDuAl4z1B]{Sage}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.qpkZw4Z9Qym7Vt7i]{Bone}</li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.1yiqrYVTbaKe6OO6]{Wayfinder}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.m9PaUzWxY2L5wGJX]{Beastbound}</li><li><strong>Ranger
     Features:
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Ya9xbw68YahciLGL]{Ranger's
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Ya9xbw68YahciLGL]{Ranger's
     Focus}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.sN4OzvD4zdWLAhef]{Hold
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.sN4OzvD4zdWLAhef]{Hold
     Them Off}</strong></li></ul><h2>Description</h2><p>Rangers are highly
     skilled hunters who, despite their martial abilities, rarely lend their
     skills to an army. <span class="og-omit">Through mastery of the body and a

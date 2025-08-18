@@ -1,7 +1,7 @@
 name: Book of Yarrow
 type: domain
 folder: 8KUkDNG4X33bloXj
-img: modules/daggerheart-unofficial-srd/assets/domains/codex.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/codex.svg
 system:
   description: >-
     <p><em><strong>Timejammer:</strong></em> Make a <strong>Spellcast Roll
@@ -10,7 +10,7 @@ system:
     you make an action roll that targets another
     creature.</p><p><em><strong>Magic Immunity:</strong></em> Spend 5 Hope to
     become
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.b8EiJ2mtrhtQLnRz]{immune}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.b8EiJ2mtrhtQLnRz]{immune}
     to magic damage until your next rest.</p>
   category: Codex - level 10
   rarity: Recall Cost 2

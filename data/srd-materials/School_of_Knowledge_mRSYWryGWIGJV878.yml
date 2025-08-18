@@ -2,18 +2,18 @@ name: School of Knowledge
 type: subclass
 folder: 73qFzl3t1WQi3Obg
 _id: mRSYWryGWIGJV878
-img: modules/daggerheart-unofficial-srd/assets/subclasses/school-of-knowledge.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/school-of-knowledge.svg
 system:
   description: >-
     <p>Play the School of Knowledge if you want a keen understanding of the
     world around you.</p><h6>Spellcast Trait</h6><p>Knowledge</p><h6>Foundation
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ExboYOqSspSfHvSn]{Prepared}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.bhs0KMzo5HVKHRGa]{Adept}</p><h6>Specialization
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.lPpudPumq2r2vqVL]{Accomplished}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.qoCWuFnJ0E5H1up2]{Perfect
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.ExboYOqSspSfHvSn]{Prepared}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.bhs0KMzo5HVKHRGa]{Adept}</p><h6>Specialization
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.lPpudPumq2r2vqVL]{Accomplished}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.qoCWuFnJ0E5H1up2]{Perfect
     Recall}</p><h6>Mastery
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.NwxTXsKpYGs64mEQ]{Brilliant}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.6cTDX5CIwcwQqSFn]{Honed
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.NwxTXsKpYGs64mEQ]{Brilliant}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.6cTDX5CIwcwQqSFn]{Honed
     Expertise}</p>
   category: Subclass
   rarity: Wizard

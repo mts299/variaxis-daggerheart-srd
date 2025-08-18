@@ -2,17 +2,17 @@ name: Winged Sentinel
 type: subclass
 folder: tjazmAf4emSucxS5
 _id: uEsb3UAH7cOHizOW
-img: modules/daggerheart-unofficial-srd/assets/subclasses/winged-sentinel.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/winged-sentinel.svg
 system:
   description: >-
     <p>Play the Winged Sentinel if you want to take flight and strike crushing
     blows from the sky.</p><h6>Spellcast Trait</h6><p>Strength</p><h6>Foundation
-    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.7FzvIzwbhmHWLPGr]{Wings
+    Feature</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.7FzvIzwbhmHWLPGr]{Wings
     of Light}</p><h6>Specialization
-    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.yRsStNyZlT0eQhCt]{Ethereal
+    Feature</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.yRsStNyZlT0eQhCt]{Ethereal
     Visage}</p><h6>Mastery
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EW4AxE5QQHLWXItC]{Ascendant}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.BfbClG7pnMi1POR8]{Power
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.EW4AxE5QQHLWXItC]{Ascendant}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.BfbClG7pnMi1POR8]{Power
     of the Gods}</p>
   category: Subclass
   rarity: Winged Sentinel

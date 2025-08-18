@@ -1,11 +1,11 @@
 name: Orc
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/orc.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/orc.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.xWF5VVFgi8qVq5Q3]{Tusks}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.1xCRnUdcPJdgowau]{Sturdy}</p><h2>Description</h2><p>Orcs
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.xWF5VVFgi8qVq5Q3]{Tusks}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.1xCRnUdcPJdgowau]{Sturdy}</p><h2>Description</h2><p>Orcs
     are humanoids most easily recognized by their square features and boar-like
     tusks that protrude from their lower jaw.</p><p class="og-omit">Tusks come
     in various sizes, and though they extend from the mouth, they aren't used
@@ -26,7 +26,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.8PXUKfSXiN6SxJQM
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.8PXUKfSXiN6SxJQM
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

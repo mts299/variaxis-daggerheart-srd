@@ -1,7 +1,7 @@
 name: Seraph
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: modules/daggerheart-unofficial-srd/assets/classes/seraph.svg
+img: modules/variaxis-daggerheart-srd/assets/classes/seraph.svg
 system:
   description: >-
     <h2>Stats</h2><ul class="list-unstyled"><li><span
@@ -10,15 +10,15 @@ system:
     Points:</strong> 7</li><li class="d-block"><strong>Class Items:</strong> A
     bundle of offerings, or a sigil of your god</li></ul><h2>Features</h2><ul
     class="list-unstyled"><li><strong>Domains:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.kRq1nQxq63vBQYSd]{Valor}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.KNHZiWPXbHnLVOvZ]{Splendor}</li><li><strong>Subclasses:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.dV6VElZFg6Hvlpek]{Divine
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.kRq1nQxq63vBQYSd]{Valor}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.KNHZiWPXbHnLVOvZ]{Splendor}</li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.dV6VElZFg6Hvlpek]{Divine
     Wielder}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.uEsb3UAH7cOHizOW]{Winged
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.uEsb3UAH7cOHizOW]{Winged
     Sentinel}</li><li><strong>Seraph Features:
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.OFmViKh10T0bh1mj]{Prayer
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.OFmViKh10T0bh1mj]{Prayer
     Dice}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.z1OgcfjflinOjlky]{Life
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.z1OgcfjflinOjlky]{Life
     Support}</strong></li></ul><h2>Description</h2><p>Seraphs are divine
     fighters and healers imbued with sacred purpose. <span class="og-omit">A
     wide array of deities exist within the realms, and thus numerous kinds of

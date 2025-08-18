@@ -1,6 +1,6 @@
 {
-  "id": "daggerheart-unofficial-srd",
-  "title": "Daggerheart Unofficial SRD",
+  "id": "variaxis-daggerheart-srd",
+  "title": "Variaxis Daggerheart Unofficial SRD",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
@@ -9,7 +9,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "daggerheart-unofficial",
+        "id": "variaxis-daggerheart-unofficial",
         "type": "system",
         "compatibility": {
           "minimum": "3",
@@ -24,7 +24,7 @@
       "label": "srd-factions",
       "path": "packs/srd-factions",
       "type": "Actor",
-      "system": "daggerheart-unofficial",
+      "system": "variaxis-daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -35,7 +35,7 @@
       "label": "srd-adversaries",
       "path": "packs/srd-adversaries",
       "type": "Actor",
-      "system": "daggerheart-unofficial",
+      "system": "variaxis-daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -46,7 +46,7 @@
       "label": "srd-frames",
       "path": "packs/srd-frames",
       "type": "JournalEntry",
-      "system": "daggerheart-unofficial",
+      "system": "variaxis-daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -57,7 +57,7 @@
       "label": "srd-items",
       "path": "packs/srd-items",
       "type": "Item",
-      "system": "daggerheart-unofficial",
+      "system": "variaxis-daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -68,7 +68,7 @@
       "label": "srd-materials",
       "path": "packs/srd-materials",
       "type": "Item",
-      "system": "daggerheart-unofficial",
+      "system": "variaxis-daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -79,7 +79,7 @@
       "label": "srd-rules",
       "path": "packs/srd-rules",
       "type": "JournalEntry",
-      "system": "daggerheart-unofficial",
+      "system": "variaxis-daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -90,17 +90,17 @@
       "label": "srd-tables",
       "path": "packs/srd-tables",
       "type": "RollTable",
-      "system": "daggerheart-unofficial",
+      "system": "variaxis-daggerheart-unofficial",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     }
   ],
-  "url": "https://github.com/mts299/daggerheart-srd",
-  "bugs": "https://github.com/mtss/daggerheart-srd/issues",
-  "download": "https://github.com/mts299/daggerheart-srd/releases/latest/download/module.zip",
-  "manifest": "https://github.com/mts299/daggerheart-srd/releases/latest/download/module.json",
+  "url": "https://github.com/mts299/variaxis-daggerheart-srd",
+  "bugs": "https://github.com/mtss/variaxis-daggerheart-srd/issues",
+  "download": "https://github.com/mts299/variaxis-daggerheart-srd/releases/latest/download/module.zip",
+  "manifest": "https://github.com/mts299/variaxis-daggerheart-srd/releases/latest/download/module.json",
   "description": "",
   "flags": {}
 }

@@ -2,16 +2,16 @@ name: Elemental Origin
 type: subclass
 folder: DqhtOk8xgbk6Ndsz
 _id: i2vC1pdQtpFEBY9Z
-img: modules/daggerheart-unofficial-srd/assets/subclasses/elemental-origin.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/elemental-origin.svg
 system:
   description: >-
     <p>Play the Elemental Origin if you want to channel raw magic to take the
     shape of a particular element.</p><h6>Spellcast
     Trait</h6><p>Instinct</p><h6>Foundation
-    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.hJrG2JckG51UBBAO]{Elementalist}</strong></em></p><h6>Specialization
-    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Rrc1IMRnHJA4aytJ]{Natural
+    Feature</h6><p><em><strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.hJrG2JckG51UBBAO]{Elementalist}</strong></em></p><h6>Specialization
+    Feature</h6><p><em><strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Rrc1IMRnHJA4aytJ]{Natural
     Evasion}</strong></em></p><h6>Mastery
-    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.kNLHpexVdgWerZij]{Transcendence}</strong></em></p>
+    Feature</h6><p><em><strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.kNLHpexVdgWerZij]{Transcendence}</strong></em></p>
   category: Subclass
   rarity: Sorcerer
   location: subclass

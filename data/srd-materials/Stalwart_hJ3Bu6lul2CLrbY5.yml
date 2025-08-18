@@ -2,18 +2,18 @@ name: Stalwart
 type: subclass
 folder: 7p8P3aIftsyCt7N1
 _id: hJ3Bu6lul2CLrbY5
-img: modules/daggerheart-unofficial-srd/assets/subclasses/stalwart.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/stalwart.svg
 system:
   description: >-
     <p>Play the Stalwart if you want to take heavy blows and keep
     fighting.</p><h6>Foundation
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.i7ooSdiJZ9i9dhaF]{Unwavering}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.qFCudTwPZ4h2HspB]{Iron
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.i7ooSdiJZ9i9dhaF]{Unwavering}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.qFCudTwPZ4h2HspB]{Iron
     Will}</p><h6>Specialization
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.aN7FyF6FC1FT4s0o]{Unrelenting}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.M9aENxMX5ZUbubNL]{Partners-in-Arms}</p><h6>Mastery
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.TfMZtv2z2m1gGPBz]{Undaunted}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.b7tjrMjeyPpsNnHn]{Loyal
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.aN7FyF6FC1FT4s0o]{Unrelenting}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.M9aENxMX5ZUbubNL]{Partners-in-Arms}</p><h6>Mastery
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.TfMZtv2z2m1gGPBz]{Undaunted}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.b7tjrMjeyPpsNnHn]{Loyal
     Protector}</p>
   category: Subclass
   rarity: Guardian

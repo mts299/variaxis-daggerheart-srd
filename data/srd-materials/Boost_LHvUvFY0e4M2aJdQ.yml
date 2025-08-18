@@ -1,13 +1,13 @@
 name: Boost
 type: domain
 folder: 7KG0JMOKQjkozDq4
-img: modules/daggerheart-unofficial-srd/assets/domains/bone.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/bone.svg
 system:
   description: >-
     <p>Mark a Stress to boost off a willing ally within <strong>Close</strong>
     range, fling yourself into the air, and perform an aerial attack against a
     target within Far range.</p><p>You have
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
     on the attack, add a [[/roll d10]] to the damage roll, and end your move
     within <strong>Melee</strong> range of the target.</p>
   category: Bone - Level 4

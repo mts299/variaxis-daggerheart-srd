@@ -1,60 +1,60 @@
 name: Dread
 type: domain
 folder: CkTKhe4hp0YLzCnS
-img: modules/daggerheart-unofficial-srd/assets/domains/Dread.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/Dread.svg
 system:
   description: >-
     <h2>Life</h2><p>Dread is the domain of life. Through this magic,
     followers gain the ability to heal and—to an extent—control
-    death.</p><h4>Classes:</h4><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.OFaVXNMzXPxzRuO5]{Warlock}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pOxeDyxIdsTqXLgk]{Witch}</p><h4>Domain
+    death.</p><h4>Classes:</h4><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.OFaVXNMzXPxzRuO5]{Warlock}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.pOxeDyxIdsTqXLgk]{Witch}</p><h4>Domain
     Deck:</h4><table><tbody><tr><td><p>Level</p></td><td><p>Domain
     Cards</p></td></tr><tr><td><p>1</p></td><td><ul class="list-inline mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ttgXjpV2ZBlRUC7g]{Blighting 
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.ttgXjpV2ZBlRUC7g]{Blighting 
     Strike}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.E74EJRZTpQRDpbJC]{Umbral 
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.E74EJRZTpQRDpbJC]{Umbral 
     Veil}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.TvYJcYHnP10HQjdm]{Voice of 
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.TvYJcYHnP10HQjdm]{Voice of 
     Dread}</li></ul></td></tr><tr><td><p>2</p></td><td><ul
     class="list-inline mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.OxTnBAAyV2iD1AwP]{Final
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.OxTnBAAyV2iD1AwP]{Final
     Words}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.o3EvjCiOcxWu2i5M]{Healing
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.o3EvjCiOcxWu2i5M]{Healing
     Hands}</li></ul></td></tr><tr><td><p>3</p></td><td><ul class="list-inline
     mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.NIMane8REY0GOWMi]{Second
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.NIMane8REY0GOWMi]{Second
     Wind}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.NWcsBuhUS18h8H4i]{Voice
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.NWcsBuhUS18h8H4i]{Voice
     of Reason}</li></ul></td></tr><tr><td><p>4</p></td><td><ul
     class="list-inline mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.1CB5OaflvoXDJ51S]{Divination}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.fx8yB8KaH1YU2TGs]{Life
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.1CB5OaflvoXDJ51S]{Divination}</li><li
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.fx8yB8KaH1YU2TGs]{Life
     Ward}</li></ul></td></tr><tr><td><p>5</p></td><td><ul class="list-inline
     mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.RxqIYp4N4IVo6DNb]{Shape
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.RxqIYp4N4IVo6DNb]{Shape
     Material}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.WHqANUOsMSVe4ytm]{Smite}</li></ul></td></tr><tr><td><p>6</p></td><td><ul
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.WHqANUOsMSVe4ytm]{Smite}</li></ul></td></tr><tr><td><p>6</p></td><td><ul
     class="list-inline mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.qB6uET3YbjtmXDj7]{Restoration}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.AAF14uRqcYJBCT0i]{Zone
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.qB6uET3YbjtmXDj7]{Restoration}</li><li
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.AAF14uRqcYJBCT0i]{Zone
     of Protection}</li></ul></td></tr><tr><td><p>7</p></td><td><ul
     class="list-inline mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.m1UB6tQqpJod6J1L]{Healing
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.m1UB6tQqpJod6J1L]{Healing
     Strike}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.bradLyEJLV9bGDgT]{Dread-Touched}</li></ul></td></tr><tr><td><p>8</p></td><td><ul
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.bradLyEJLV9bGDgT]{Dread-Touched}</li></ul></td></tr><tr><td><p>8</p></td><td><ul
     class="list-inline mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.UjVxUpgV53awvRjk]{Shield
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.UjVxUpgV53awvRjk]{Shield
     Aura}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.6wz8NqbGEIxycAPw]{Stunning
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.6wz8NqbGEIxycAPw]{Stunning
     Sunlight}</li></ul></td></tr><tr><td><p>9</p></td><td><ul class="list-inline
     mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.2LgxYrxgDd2n06H6]{Overwhelming
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.2LgxYrxgDd2n06H6]{Overwhelming
     Aura}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.1IoaiJ9ruBO24GNI]{Salvation
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.1IoaiJ9ruBO24GNI]{Salvation
     Beam}</li></ul></td></tr><tr><td><p>10</p></td><td><ul class="list-inline
     mb-0"><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.xb4ISHbY8QaeKIHJ]{Invigoration}</li><li
-    class="list-inline-item">@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.zEaA5haeh38jMvv1]{Resurrection}</li></ul></td></tr></tbody></table>
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.xb4ISHbY8QaeKIHJ]{Invigoration}</li><li
+    class="list-inline-item">@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.zEaA5haeh38jMvv1]{Resurrection}</li></ul></td></tr></tbody></table>
   category: Domain
   rarity: SRD
   location: abilities

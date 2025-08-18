@@ -2,13 +2,13 @@ name: Uncanny Disguise
 type: domain
 folder: G457D0KGnvDb9yLf
 _id: WuDDDtCgOLA2pWjv
-img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/midnight.svg
 system:
   description: >-
     <p>When you have a few minutes to prepare, you can mark a Stress to don the
     facade of any humanoid you can picture clearly in your mind. While
     disguised, you have
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
     on Presence Rolls to avoid scrutiny.</p><p>Place a number of tokens equal to
     your Spellcast trait on this card. When you take an action while disguised,
     spend a token from this card. After the action that spends the last token is

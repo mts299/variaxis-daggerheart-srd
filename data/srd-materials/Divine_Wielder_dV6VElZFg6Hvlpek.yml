@@ -2,17 +2,17 @@ name: Divine Wielder
 type: subclass
 folder: tjazmAf4emSucxS5
 _id: dV6VElZFg6Hvlpek
-img: modules/daggerheart-unofficial-srd/assets/subclasses/divine-wielder.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/divine-wielder.svg
 system:
   description: >-
     <p>Play the Divine Wielder if you want to dominate the battlefield with a
     legendary weapon.</p><h6>Spellcast Trait</h6><p>Strength</p><h6>Foundation
-    Features</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.N4uh5InLS9qVyDVY]{Spirit
+    Features</h6><p><em><strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.N4uh5InLS9qVyDVY]{Spirit
     Weapon}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.JtsbpMeSheUXMbvy]{Sparing
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.JtsbpMeSheUXMbvy]{Sparing
     Touch}</strong></em></p><h6>Specialization
-    Feature</h6><p><em><strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.dgholm6kvL6v5PAk]{Devout}</strong></em></p><h6>Mastery
-    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.xT3SIIHq55LctWWd]{Sacred
+    Feature</h6><p><em><strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.dgholm6kvL6v5PAk]{Devout}</strong></em></p><h6>Mastery
+    Feature</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.xT3SIIHq55LctWWd]{Sacred
     Resonance}</p>
   category: Subclass
   rarity: Winged Sentinel

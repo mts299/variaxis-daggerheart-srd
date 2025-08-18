@@ -2,19 +2,19 @@ name: Warden of Renewal
 type: subclass
 folder: oOPjrB7U160kSlB9
 _id: aXJV5IyEZ85WiGKb
-img: modules/daggerheart-unofficial-srd/assets/subclasses/warden-of-the-elements.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/warden-of-the-elements.svg
 system:
   description: >-
     <p>Play the Warden of Renewal if you want to use powerful magic to heal your
     party.</p><h6>Spellcast Trait</h6><p>Instinct</p><h6>Foundation
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.E2hKeP5TLGqFOQwV]{Regeneration}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ZJqODpIxphVnH4YA]{Clarity
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.E2hKeP5TLGqFOQwV]{Regeneration}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.ZJqODpIxphVnH4YA]{Clarity
     of Nature}</p><h6>Specialization
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.BMrrvl6CPQvut0Vz]{Regenerative
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.BMrrvl6CPQvut0Vz]{Regenerative
     Reach}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.KG3ryiQ0ohGupEEK]{Warden’s
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.KG3ryiQ0ohGupEEK]{Warden’s
     Protection}</p><h6>Mastery
-    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.2d7ktEWovLWTTpUd]{Defender}</p>
+    Feature</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.2d7ktEWovLWTTpUd]{Defender}</p>
   category: Subclass
   rarity: Druid
   location: subclass

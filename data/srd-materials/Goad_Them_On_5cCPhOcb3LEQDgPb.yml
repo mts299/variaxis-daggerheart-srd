@@ -1,14 +1,14 @@
 name: Goad Them On
 type: domain
 folder: ZZNzqurB6enGzp3V
-img: modules/daggerheart-unofficial-srd/assets/domains/valor.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/valor.svg
 system:
   description: >-
     <p>Taunt a target within <strong>Close</strong> range and make a
     <strong>Presence Roll</strong> against them. On a success, they must mark a
     Stress and target you with their next attack. </p><p>They make that attack
     with
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ouVh4k105I1Jc1QS]{disadvantage}.</p>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.ouVh4k105I1Jc1QS]{disadvantage}.</p>
   category: Valor - Level 4
   rarity: Recall Cost 1
   location: abilities

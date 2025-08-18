@@ -1,11 +1,11 @@
 name: Human
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/human.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/human.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Yk3qeLauT96m7R0O]{Adaptability}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.8gsXCmZJr6ykmwhj]{High
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Yk3qeLauT96m7R0O]{Adaptability}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.8gsXCmZJr6ykmwhj]{High
     Stamina}</p><h2>Description</h2><p>Humans are most easily recognized by
     their dexterous hands, rounded ears, and bodies built for endurance. <span
     class="og-omit">Their average height ranges from just under 5–6½ feet
@@ -26,7 +26,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.ld6q9i3IXSuwn0kM
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.ld6q9i3IXSuwn0kM
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

@@ -1,7 +1,7 @@
 name: Rogue
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: modules/daggerheart-unofficial-srd/assets/classes/rogue.svg
+img: modules/variaxis-daggerheart-srd/assets/classes/rogue.svg
 system:
   description: >-
     <h2>Stats</h2><ul class="list-unstyled"><li><span
@@ -10,15 +10,15 @@ system:
     Hit Points:</strong> 6</li><li class="d-block"><strong>Class Items:</strong>
     A set of forgery tools, or a grappling hook</li></ul><h2>Features</h2><ul
     class="list-unstyled"><li><strong>Domains:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.M6tycAZRsAu135Dy]{Grace}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.kt8Ue5ykLD9Yee8a]{Midnight}</li><li><strong>Subclasses:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.SirX9MGUWV9D16n6]{Syndicate}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.kgMtIqXDPJGxCykx]{Nightwalker}</li><li><strong>Rogue
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.M6tycAZRsAu135Dy]{Grace}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.kt8Ue5ykLD9Yee8a]{Midnight}</li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.SirX9MGUWV9D16n6]{Syndicate}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.kgMtIqXDPJGxCykx]{Nightwalker}</li><li><strong>Rogue
     Features:
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.KaZXCm1aG3Cblfei]{Cloaked}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Mqg6Yy918IE2SDoX]{Sneak
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.KaZXCm1aG3Cblfei]{Cloaked}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Mqg6Yy918IE2SDoX]{Sneak
     Attack}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.rBDfil6QG5j6oKo8]{Rogue's
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.rBDfil6QG5j6oKo8]{Rogue's
     Dodge}</strong></li></ul><h2>Description</h2><p>Rogues are scoundrels, often
     in both attitude and practice. <span class="og-omit">Broadly known as liars
     and thieves, the best among this class move through the world anonymously.

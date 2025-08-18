@@ -1,7 +1,7 @@
 name: Sorcerer
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: modules/daggerheart-unofficial-srd/assets/classes/sorcerer.svg
+img: modules/variaxis-daggerheart-srd/assets/classes/sorcerer.svg
 system:
   description: >-
     <h2>Stats</h2><ul class="list-unstyled"><li><span
@@ -10,19 +10,19 @@ system:
     Hit Points:</strong> 6</li><li class="d-block"><strong>Class Items:</strong>
     A whispering orb, or a family heirloom</li></ul><h2>Features</h2><ul
     class="list-unstyled"><li><strong>Domains:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.xxxGPxzSwaoDsX4H]{Arcana}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.kt8Ue5ykLD9Yee8a]{Midnight}</li><li><strong>Subclasses:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.5T6kdnPsISSjmcw1]{Primal
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.xxxGPxzSwaoDsX4H]{Arcana}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.kt8Ue5ykLD9Yee8a]{Midnight}</li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.5T6kdnPsISSjmcw1]{Primal
     Origin}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.i2vC1pdQtpFEBY9Z]{Elemental
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.i2vC1pdQtpFEBY9Z]{Elemental
     Origin}</li><li><strong>Sorcerer
-    Features:@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.1ciBSHjAdARFn4d7]{Volatile
+    Features:@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.1ciBSHjAdARFn4d7]{Volatile
     Magic}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.5Oeg96yeP6DEW2sQ]{Minor
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.5Oeg96yeP6DEW2sQ]{Minor
     Illusion}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ZvhSVvywqGdx8jaY]{Arcane
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.ZvhSVvywqGdx8jaY]{Arcane
     Sense}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.q2XFyc3hdkFS8uWw]{Channel
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.q2XFyc3hdkFS8uWw]{Channel
     Raw Power}</strong></li></ul><h2>Description</h2><p>Not all innate magic
     users choose to hone their craft, but those who do can become powerful
     sorcerers. <span class="og-omit">The gifts of these wielders are passed down

@@ -2,11 +2,11 @@ name: Pick and Pull
 type: domain
 folder: G457D0KGnvDb9yLf
 _id: YD7Fk0Ifla5Sx8KI
-img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/midnight.svg
 system:
   description: >-
     <p>You have
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.EOCcQNYMlH9T7IKu]{advantage}
     on action rolls to pick nonmagical locks, disarm nonmagical traps, or steal
     items from a target (either through stealth or by force).</p>
   category: Midnight - level 1

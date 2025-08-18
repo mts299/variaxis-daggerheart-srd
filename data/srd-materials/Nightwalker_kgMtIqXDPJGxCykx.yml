@@ -2,20 +2,20 @@ name: Nightwalker
 type: subclass
 folder: Eayp0LmOVUrcwpAj
 _id: kgMtIqXDPJGxCykx
-img: modules/daggerheart-unofficial-srd/assets/subclasses/nightwalker.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/nightwalker.svg
 system:
   description: >-
     <p>Play the Nightwalker if you want to manipulate shadows to maneuver
     through the environment.</p><h6>Spellcast
     Trait</h6><p>Finesse</p><h6>Foundation
-    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.oLJreKvUUQEZ3XTn]{Shadow
+    Feature</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.oLJreKvUUQEZ3XTn]{Shadow
     Stepper}</p><h6>Specialization
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.SfiIeCEmnr6LWWNK]{Dark
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.SfiIeCEmnr6LWWNK]{Dark
     Cloud}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.6NKdhHiunnw9YgJj]{Adrenaline}</p><h6>Mastery
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.35fXpLVezKFX8qxk]{Fleeting
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.6NKdhHiunnw9YgJj]{Adrenaline}</p><h6>Mastery
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.35fXpLVezKFX8qxk]{Fleeting
     Shadow}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.qTLDDA1XsD7eHK75]{Vanishing
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.qTLDDA1XsD7eHK75]{Vanishing
     Act}</p>
   category: Subclass
   rarity: Rogue

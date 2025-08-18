@@ -1,11 +1,11 @@
 name: Infernis
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/infernis.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/infernis.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.KdZith4exhMKmXiF]{Fearless}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.3bI1zivFstu6rPuU]{Dread
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.KdZith4exhMKmXiF]{Fearless}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.3bI1zivFstu6rPuU]{Dread
     Visage}</p><h2>Description</h2><p>Infernis are humanoids who possess sharp
     canine teeth, pointed ears, and horns. <span class="og-omit">They are the
     descendants of demons from the Circles Below. On average, infernis range in
@@ -38,7 +38,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.fgukKTZig0vo4Cud
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.fgukKTZig0vo4Cud
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

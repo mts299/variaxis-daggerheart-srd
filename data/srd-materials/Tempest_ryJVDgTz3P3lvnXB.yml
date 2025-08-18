@@ -1,7 +1,7 @@
 name: Tempest
 type: domain
 folder: C6qnqG5r1eW3c5AW
-img: modules/daggerheart-unofficial-srd/assets/domains/sage.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/sage.svg
 system:
   description: >-
     <p>Choose one of the following tempests and make a <strong>Spellcast
@@ -9,12 +9,12 @@ system:
     you succeed against experience its effects until the GM spends a Fear on
     their turn to end this spell.</p><ul><li><p>Blizzard: Deal [[/roll 2d20+8]]
     magic damage and targets are temporarily
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}</p></li><li><p>Hurricane:
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}</p></li><li><p>Hurricane:
     Deal [[/roll 3d10+10]] magic damage and choose a direction the wind is
     blowing. Targets can't move against the wind</p></li><li><p>Sandstorm: Deal
     [[/roll 5d6+9]] magic damage. Attacks made from beyond
     <strong>Melee</strong> range have
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ouVh4k105I1Jc1QS]{disadvantage}.</p></li></ul>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.ouVh4k105I1Jc1QS]{disadvantage}.</p></li></ul>
   category: Sage - level 10
   rarity: Recall cost 2
   location: abilities

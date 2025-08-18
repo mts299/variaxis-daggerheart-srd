@@ -1,13 +1,13 @@
 name: Shadowbind
 type: domain
 folder: 6BYlet86ilWXh5AL
-img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/midnight.svg
 system:
   description: >-
     <p>Make a <strong>Spellcast Roll</strong> against all adversaries within
     <strong>Very Close</strong> range. Targets you succeed against are
     temporarily
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.967FSSCW150Zpp5E]{restrained}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.967FSSCW150Zpp5E]{restrained}
     as their shadow binds them in place.</p>
   category: Midnight - level 2
   rarity: Recall cost 0

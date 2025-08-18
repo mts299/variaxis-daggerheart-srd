@@ -1,7 +1,7 @@
 name: Prayer Dice
 type: class
 folder: ZwKSS4JzJRqtFmtF
-img: modules/daggerheart-unofficial-srd/assets/classes/seraph.svg
+img: modules/variaxis-daggerheart-srd/assets/classes/seraph.svg
 system:
   description: >-
     <p>At the beginning of each session, roll a number of <strong>d4s</strong>

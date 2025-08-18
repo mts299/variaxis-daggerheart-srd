@@ -1,7 +1,7 @@
 name: Bard
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: modules/daggerheart-unofficial-srd/assets/classes/bard.svg
+img: modules/variaxis-daggerheart-srd/assets/classes/bard.svg
 system:
   description: >-
     <h2>Stats</h2><ul class="list-unstyled"><li><span
@@ -10,13 +10,13 @@ system:
     Hit Points:</strong> 5</li><li class="d-block"><strong>Class Items:</strong>
     A romance novel, or a letter never opened</li></ul><h2>Features</h2><ul
     class="list-unstyled"><li><strong>Domains:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.M6tycAZRsAu135Dy]{Grace}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.q0u966dVjADauCYA]{Codex}</li><li><strong>Subclasses:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.kWrUZUXDq51eoT9c]{Troubadour}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.GgiU1DPpFHpvXTBq]{Wordsmith}</li><li><strong>Bard
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.M6tycAZRsAu135Dy]{Grace}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.q0u966dVjADauCYA]{Codex}</li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.kWrUZUXDq51eoT9c]{Troubadour}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.GgiU1DPpFHpvXTBq]{Wordsmith}</li><li><strong>Bard
     Features:
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.7wh709bErDoXoP5S]{Rally}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.d6qe6050dZdEbCTX]{Make a
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.7wh709bErDoXoP5S]{Rally}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.d6qe6050dZdEbCTX]{Make a
     Scene}</strong></li></ul><h2>Description</h2><p>Bards are the most
     charismatic people in all the realms. <span class="og-omit">Members of this
     class are masters of captivation and specialize in a variety of performance

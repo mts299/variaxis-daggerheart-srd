@@ -1,12 +1,12 @@
 name: Dwarf
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/dwarf.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/dwarf.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ft3foVRqJxAxBW4o]{Thick
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.ft3foVRqJxAxBW4o]{Thick
     Skin}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.LnvjMml4nj0w6Sc9]{Increased
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.LnvjMml4nj0w6Sc9]{Increased
     Fortitude}</p><h2>Description</h2><p>Dwarves are most easily recognized as
     short humanoids with square frames, dense musculature, and thick hair. <span
     class="og-omit">Their average height ranges from 4–5½ feet (1.2–1.7 m), and
@@ -29,7 +29,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.mMJ09LHw4eT5PQTI
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.mMJ09LHw4eT5PQTI
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

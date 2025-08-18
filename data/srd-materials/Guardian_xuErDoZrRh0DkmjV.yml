@@ -1,7 +1,7 @@
 name: Guardian
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: modules/daggerheart-unofficial-srd/assets/classes/guardian.svg
+img: modules/variaxis-daggerheart-srd/assets/classes/guardian.svg
 system:
   description: >-
     <h2>Stats</h2><ul class="list-unstyled"><li><p><span
@@ -12,13 +12,13 @@ system:
     Items:</strong> A totem from your mentor, or a secret
     key</p></li></ul><h2>Features</h2><ul
     class="list-unstyled"><li><p><strong>Domains:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.tWvcuXfvuphNmMQe]{Blade}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.kRq1nQxq63vBQYSd]{Valor}</p></li><li><strong>Subclasses:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.hJ3Bu6lul2CLrbY5]{Stalwart}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.aXJV5IyEZ85WiGKb]{Warden
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.tWvcuXfvuphNmMQe]{Blade}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.kRq1nQxq63vBQYSd]{Valor}</p></li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.hJ3Bu6lul2CLrbY5]{Stalwart}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.aXJV5IyEZ85WiGKb]{Warden
     of the Elements}</li><li><strong>Guardian Features:
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.crIZQUQhVJ4YbC3p]{Unstoppable}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.nwoHjRsXHCmRr4TF]{Frontline
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.crIZQUQhVJ4YbC3p]{Unstoppable}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.nwoHjRsXHCmRr4TF]{Frontline
     Tank}</strong></li></ul><h2>Description</h2><p>The title of guardian
     represents an array of martial professions, speaking more to their moral
     compass and unshakeable fortitude than the means by which they fight. <span

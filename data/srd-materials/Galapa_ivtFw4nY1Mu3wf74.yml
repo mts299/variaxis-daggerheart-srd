@@ -1,11 +1,11 @@
 name: Galapa
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/galapa.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/galapa.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Zyv0O7yA2WMYp3e0]{Shell}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.8aIlRNMzNORDQuZG]{Retract}</p><h2>Description</h2><p>Galapa
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Zyv0O7yA2WMYp3e0]{Shell}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.8aIlRNMzNORDQuZG]{Retract}</p><h2>Description</h2><p>Galapa
     resemble anthropomorphic turtles with large, domed shells into which they
     can retract. <span class="og-omit">On average, they range from 4–6 feet
     (1.2–1.8 m) in height, and their head and body shapes can resemble any type
@@ -28,7 +28,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.oZAQOehDGm3Yner5
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.oZAQOehDGm3Yner5
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

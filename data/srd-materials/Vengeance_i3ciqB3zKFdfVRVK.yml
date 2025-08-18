@@ -2,17 +2,17 @@ name: Vengeance
 type: subclass
 folder: 7p8P3aIftsyCt7N1
 _id: i3ciqB3zKFdfVRVK
-img: modules/daggerheart-unofficial-srd/assets/subclasses/vengeance.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/vengeance.svg
 system:
   description: >-
     <p>Play the Vengeance if you want to strike down enemies who harm you or
     your allies.</p><h6>Foundation
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.J5OjuZ24xsH2n4KE]{At
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.J5OjuZ24xsH2n4KE]{At
     Ease}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.LfiZYEcm8eYTT8Za]{Revenge}</p><h6>Specialization
-    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.HjZt51Ydi1PnAo9N]{Act
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.LfiZYEcm8eYTT8Za]{Revenge}</p><h6>Specialization
+    Feature</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.HjZt51Ydi1PnAo9N]{Act
     of Reprisal}</p><h6>Mastery
-    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.1sbzGVMkLIAhKyGc]{Nemesis}</p>
+    Feature</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.1sbzGVMkLIAhKyGc]{Nemesis}</p>
   category: Subclass
   rarity: Guardian
   location: subclass

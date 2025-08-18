@@ -1,7 +1,7 @@
 name: Warlock
 type: class
 folder: WpN6W0wyYE3XeeYu
-img: modules/daggerheart-unofficial-srd/assets/classes/Warlock.svg
+img: modules/variaxis-daggerheart-srd/assets/classes/Warlock.svg
 system:
   description: >-
     <h2>Stats</h2><ul class="list-unstyled"><li><span
@@ -11,13 +11,13 @@ system:
     A book you're trying to translate, or a tiny, harmless
     elemental</li></ul><h2>Features</h2><ul
     class="list-unstyled"><li><strong>Domains:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.C5ekTRkeUwirqISs]{Dread}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.M6tycAZRsAu135Dy]{Grace}</li><li><strong>Subclasses:</strong>
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Ve9QbhN4N1Ll3Rvs]{Pact of the Endless}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.KdE1iEirH5RmSirh]{Pact of the Wrathful}</li><li><strong>Warlock Features:
-    </strong>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Gyfg5BMHsKYuWai7]{Patron's Boon}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.h4016qRzxKA2zeXl]{Warlock Patron}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.12rz9sY52XjpY8QQ]{Favor}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.C5ekTRkeUwirqISs]{Dread}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.M6tycAZRsAu135Dy]{Grace}</li><li><strong>Subclasses:</strong>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Ve9QbhN4N1Ll3Rvs]{Pact of the Endless}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.KdE1iEirH5RmSirh]{Pact of the Wrathful}</li><li><strong>Warlock Features:
+    </strong>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Gyfg5BMHsKYuWai7]{Patron's Boon}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.h4016qRzxKA2zeXl]{Warlock Patron}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.12rz9sY52XjpY8QQ]{Favor}
     </li></ul><h2>Description</h2><p>Those who’ve traded their lives, or perhaps even their souls, 
     to an otherworldly Patron in exchange for incredible power are known as Warlocks. Often, these mortals 
     are at a point of desperation that leads them to such a sacrifice- to protect themselves or a loved one, 

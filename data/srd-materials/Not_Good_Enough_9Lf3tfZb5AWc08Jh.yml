@@ -2,7 +2,7 @@ name: Not Good Enough
 type: domain
 folder: vvDQWtljWlc2XUEk
 _id: 9Lf3tfZb5AWc08Jh
-img: modules/daggerheart-unofficial-srd/assets/domains/blade.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/blade.svg
 system:
   description: <p>When you roll your damage dice, you can reroll any 1s or 2s.</p>
   category: Blade - Level 1

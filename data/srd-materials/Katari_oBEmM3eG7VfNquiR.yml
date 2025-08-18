@@ -1,12 +1,12 @@
 name: Katari
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/katari.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/katari.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Bhlcnj61J2H8kdTh]{Feline
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Bhlcnj61J2H8kdTh]{Feline
     Instincts}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.wDHF7jzw91aByvOG]{Retracting
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.wDHF7jzw91aByvOG]{Retracting
     Claws}</p><h2>Description</h2><p>Katari are feline humanoids with
     retractable claws, vertically slit pupils, and high, triangular ears. <span
     class="og-omit">They can also have small, pointed canine teeth, soft fur,
@@ -30,7 +30,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.47DXMv3REgRHAaIN
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.47DXMv3REgRHAaIN
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

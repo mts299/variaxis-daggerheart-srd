@@ -2,14 +2,14 @@ name: Voice of Dread
 type: domain
 folder: 5uB6dgSzOJaOg8nx
 _id: TvYJcYHnP10HQjdm
-img: modules/daggerheart-unofficial-srd/assets/domains/dread.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/dread.svg
 system:
   description: >-
     <p>
     You can magically speak directly into the ears of a creature you can see. 
     To torment them with your words, make a <strong>Spellcast Roll</strong> against them. 
     On a success, they must mark a Stress and become temporarily 
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}<strong>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}<strong>
     </strong>.</p>
   category: Dread - Level 1
   rarity: recall cost 0

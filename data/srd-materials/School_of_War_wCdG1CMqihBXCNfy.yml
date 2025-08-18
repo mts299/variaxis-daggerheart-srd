@@ -2,21 +2,21 @@ name: School of War
 type: subclass
 folder: 73qFzl3t1WQi3Obg
 _id: wCdG1CMqihBXCNfy
-img: modules/daggerheart-unofficial-srd/assets/subclasses/school-of-war.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/school-of-war.svg
 system:
   description: >-
     <p>Play the School of War if you want to utilize trained magic for
     violence.</p><h6>Spellcast Trait</h6><p>Knowledge</p><h6>Foundation
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.cKobWL3ekKZRhgCk]{Battlemage}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.MMWkw0zUmMWQKvku]{Face
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.cKobWL3ekKZRhgCk]{Battlemage}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.MMWkw0zUmMWQKvku]{Face
     Your Fear}</p><h6>Specialization
-    Feature</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.XjitHj7o5OHiSmzQ]{Conjure
+    Feature</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.XjitHj7o5OHiSmzQ]{Conjure
     Shield}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.gTjCZzkGCfgPLQOf]{Fueled
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.gTjCZzkGCfgPLQOf]{Fueled
     by Fear}</p><h6>Mastery
-    Features</h6><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.UTdkwGt6wdHQzoJ9]{Thrive
+    Features</h6><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.UTdkwGt6wdHQzoJ9]{Thrive
     in Chaos}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.9eZmy8fCLj83OyV7]{Have
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.9eZmy8fCLj83OyV7]{Have
     No Fear}</p>
   category: Subclass
   rarity: Wizard

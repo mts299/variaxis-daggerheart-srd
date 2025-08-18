@@ -1,12 +1,12 @@
 name: Chokehold
 type: domain
 folder: Uh6M41jVEdhnS68W
-img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/midnight.svg
 system:
   description: >-
     <p>When you position yourself behind a creature who's about your size, you
     can mark a Stress to pull them into a chokehold, making them temporarily
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}.
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}.
     When a creature attacks a target who is <em>Vulnerable</em> in this way,
     they deal an extra [[/roll 2d6]] damage.</p>
   category: Midnight - level 3

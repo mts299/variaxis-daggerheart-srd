@@ -1,11 +1,11 @@
 name: Faerie
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/faerie.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/faerie.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.kCnwd72qbHPOzEBQ]{Wings}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.eKO7Yfqa5VAfqc61]{Luckbender}</p><h2>Description</h2><p>Faeries
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.kCnwd72qbHPOzEBQ]{Wings}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.eKO7Yfqa5VAfqc61]{Luckbender}</p><h2>Description</h2><p>Faeries
     are winged humanoid creatures with insectile features.</p><p
     class="og-omit">These characteristics cover a broad spectrum from humanoid
     to insectoid—some possess additional arms, compound eyes, lantern organs,
@@ -29,7 +29,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.l2L2493On8HqPzTx
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.l2L2493On8HqPzTx
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

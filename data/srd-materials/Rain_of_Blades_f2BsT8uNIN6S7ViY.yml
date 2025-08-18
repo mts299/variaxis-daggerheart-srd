@@ -2,14 +2,14 @@ name: Rain of Blades
 type: domain
 folder: G457D0KGnvDb9yLf
 _id: f2BsT8uNIN6S7ViY
-img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/midnight.svg
 system:
   description: >-
     <p>Spend a Hope to make a <strong>Spellcast Roll</strong> and conjure
     throwing blades that strike out at all targets within <strong>Very
     Close</strong> range. Targets you succeed against take [[/roll d8+2]] magic
     damage using your <strong>Proficiency</strong>.</p><p>If a target you hit is
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable},
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable},
     they take an extra [[/roll 1d8]] damage.</p>
   category: Midnight - level 1
   rarity: Recall cost 1

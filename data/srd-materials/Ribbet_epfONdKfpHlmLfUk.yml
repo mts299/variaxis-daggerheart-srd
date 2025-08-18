@@ -1,11 +1,11 @@
 name: Ribbet
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/ribbet.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/ribbet.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.EpSi9rtjU9QqxdBs]{Amphibious}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.fRindqk8Ean8n5HS]{Long
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.EpSi9rtjU9QqxdBs]{Amphibious}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.fRindqk8Ean8n5HS]{Long
     Tongue}</p><h2>Description</h2><p>Ribbets resemble anthropomorphic frogs
     with protruding eyes and webbed hands and feet. <span class="og-omit">They
     have smooth (though sometimes warty) moist skin and eyes positioned on
@@ -29,7 +29,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.XvogUx6IIaS641w4
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.XvogUx6IIaS641w4
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

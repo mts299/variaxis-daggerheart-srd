@@ -1,14 +1,14 @@
 name: Eclipse
 type: domain
 folder: Dggg96ArR2wumEvU
-img: modules/daggerheart-unofficial-srd/assets/domains/midnight.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/midnight.svg
 system:
   description: >-
     <p>Make a <strong>Spellcast Roll (16)</strong>. Once per long rest on a
     success, plunge the entire area within <strong>Far</strong> range into
     complete darkness only you and your allies can see through. Attack rolls
     have
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ouVh4k105I1Jc1QS]{disadvantage}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.ouVh4k105I1Jc1QS]{disadvantage}
     when targeting you or an ally within this shadow.</p><p>Additionally, when
     you or an ally succeeds with Hope against an adversary within this shadow,
     the target must mark a Stress. This spell lasts until the GM spends a Fear

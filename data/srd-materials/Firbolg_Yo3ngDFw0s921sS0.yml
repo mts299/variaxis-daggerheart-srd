@@ -1,11 +1,11 @@
 name: Firbolg
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/firbolg.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/firbolg.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.MWmOJzsLfynupU3x]{Charge}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ic85hZaFXGZeCK37]{Unshakable}</p><h2>Description</h2><p>Firbolgs
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.MWmOJzsLfynupU3x]{Charge}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.ic85hZaFXGZeCK37]{Unshakable}</p><h2>Description</h2><p>Firbolgs
     are bovine humanoids typically recognized by their broad noses and long,
     drooping ears. <span class="og-omit">Some have faces that are a blend of
     humanoid and bison, ox, cow, or other bovine creatures. Others, often
@@ -30,7 +30,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.KqW8HVYmMJniCyy0
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.KqW8HVYmMJniCyy0
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

@@ -10,7 +10,7 @@ system:
     a PC to mark Stress as a GM move or to represent the cost, complication, or
     consequence of an action roll.</p><p>When a character marks their last
     Stress, they become
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{Vulnerable}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{Vulnerable}
     until they clear at least 1 Stress.</p><p>When a character must mark 1 or
     more Stress but can’t, they mark 1 HP instead. A character can’t use a move
     that requires them to mark Stress if all of their Stress is

@@ -1,11 +1,11 @@
 name: Halfling
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/halfling.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/halfling.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.XepNmwqAknI23umz]{Luckbringer}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.OlJ8CCOW8h2b6qZI]{Internal
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.XepNmwqAknI23umz]{Luckbringer}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.OlJ8CCOW8h2b6qZI]{Internal
     Compass}</p><h2>Description</h2><p>Halflings are small humanoids with large
     hairy feet and prominent rounded ears. <span class="og-omit">On average,
     halflings are 3–4 feet (0.9–1.2 m) in height, and their ears, nose, and feet
@@ -27,7 +27,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.xtxWYnhIMAyUwuCI
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.xtxWYnhIMAyUwuCI
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

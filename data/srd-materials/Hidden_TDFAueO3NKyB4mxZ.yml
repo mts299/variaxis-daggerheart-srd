@@ -7,7 +7,7 @@ system:
     <p>While you’re out of sight from all foes and they don’t know where you
     are, you gain the <em><strong>Hidden</strong></em> condition. While
     <em>Hidden</em> any rolls against you have
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.ouVh4k105I1Jc1QS]{Disadvantage}.
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.ouVh4k105I1Jc1QS]{Disadvantage}.
     <br /><br />After an adversary moves to where they would see you, you move
     into their line of sight, or you make an attack, you are no longer
     <em><strong>Hidden</strong></em>.</p>

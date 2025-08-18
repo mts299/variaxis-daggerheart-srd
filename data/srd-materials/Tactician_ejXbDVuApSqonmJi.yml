@@ -1,11 +1,11 @@
 name: Tactician
 type: domain
 folder: ngC0J0PUTxDDZVPn
-img: modules/daggerheart-unofficial-srd/assets/domains/bone.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/bone.svg
 system:
   description: >-
     <p>When you
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.HmWSlrKpDNnEDTGS]{Help
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.HmWSlrKpDNnEDTGS]{Help
     an Ally}, they can spend a Hope to add one of your Experiences to their roll
     alongside your advantage die. When making a Tag Team Roll, you can roll a
     d20 as your Hope Die.</p>

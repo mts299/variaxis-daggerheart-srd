@@ -1,11 +1,11 @@
 name: Clank
 type: ancestry
 folder: 6HFYZrMH1OFh0mvr
-img: modules/daggerheart-unofficial-srd/assets/ancestry/clank.svg
+img: modules/variaxis-daggerheart-srd/assets/ancestry/clank.svg
 system:
   description: >-
-    <h2>Features</h2><p>@UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.X6UDxJWRACKWU8oi]{Efficient}
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.Uhx8L1uH5KR2uQfM]{Purposeful
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.X6UDxJWRACKWU8oi]{Efficient}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Uhx8L1uH5KR2uQfM]{Purposeful
     Design}</p><h2>Description</h2><p>Clanks are sentient mechanical beings
     built from a variety of materials, including metal, wood, and stone. <span
     class="og-omit">They can resemble humanoids, animals, or even inanimate
@@ -32,7 +32,7 @@ system:
 effects: []
 flags: {}
 _stats:
-  compendiumSource: Compendium.daggerheart-unofficial-srd.srd-materials.Item.Tka1vxJoqnGDVUSq
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.Tka1vxJoqnGDVUSq
   duplicateSource: null
   exportSource: null
   coreVersion: "13.346"

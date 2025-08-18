@@ -1,14 +1,14 @@
 name: Hold the Line
 type: domain
 folder: dMIVodwkFGxM3w1M
-img: modules/daggerheart-unofficial-srd/assets/domains/valor.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/valor.svg
 system:
   description: >-
     <p>Spend a Hope and describe how you hold your ground. Until you move, fail
     a roll with Fear, or the GM spends 2 Fear, any adversary who moves within
     <strong>Very Close</strong> range of you is pulled into
     <strong>Melee</strong> range and temporarily
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.967FSSCW150Zpp5E]{restrained}.</p>
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.967FSSCW150Zpp5E]{restrained}.</p>
   category: Valor - Level 9
   rarity: Recall Cost 1
   location: abilities

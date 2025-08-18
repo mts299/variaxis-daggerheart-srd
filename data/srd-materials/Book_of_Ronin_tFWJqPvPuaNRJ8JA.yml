@@ -1,7 +1,7 @@
 name: Book of Ronin
 type: domain
 folder: HByQnFL4mriJxlpM
-img: modules/daggerheart-unofficial-srd/assets/domains/codex.svg
+img: modules/variaxis-daggerheart-srd/assets/domains/codex.svg
 system:
   description: >-
     <p><em><strong>Transform:</strong></em> Make a <strong>Spellcast Roll
@@ -10,7 +10,7 @@ system:
     damage.</p><p><em><strong>Eternal Enervation:</strong></em> Once per long
     rest, make a <strong>Spellcast Roll</strong> against a target within
     <strong>Close</strong> range. On a success, they become permanently
-    @UUID[Compendium.daggerheart-unofficial-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}.<br
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.pVg7g82AfOmtxjWU]{vulnerable}.<br
     />They can't clear this condition by any means.</p>
   category: Codex - level 9
   rarity: Recall Cost 4

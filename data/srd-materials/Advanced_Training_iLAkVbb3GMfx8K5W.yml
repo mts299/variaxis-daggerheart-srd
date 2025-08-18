@@ -1,7 +1,7 @@
 name: Advanced Training
 type: subclass
 folder: 71Evf7faESGn52z8
-img: modules/daggerheart-unofficial-srd/assets/subclasses/beastbound.svg
+img: modules/variaxis-daggerheart-srd/assets/subclasses/beastbound.svg
 system:
   description: <p>Choose two additional level-up options for your companion.</p>
   category: Subclass Feat
