@@ -1,15 +1,14 @@
-name: Pure Sight
+name: Take Command
 type: community
-folder: UC3Ltfr4t9ugpKG7
-_id: VmjYv2NrI9oIXQGZ
-img: modules/variaxis-daggerheart-srd/assets/factions/celestial_guard.jpg
+folder: V018NEmLHM8HaBPO
+_id: gbndRREjgPUIR6FO
+img: modules/variaxis-daggerheart-srd/assets/factions/cerulean_roses.jpg
 system:
   description: >-
-    <p>You are aware of others inner intent and their alignment, you get a [[/roll d10]]
-    advantage on rolls detecting the aura of creatures or items. The aura will tell
-    you if it is evil, made from mallice, or pure.</p>
-  category: Faction Feat
-  rarity: Celestial Guard
+    <p>Once per combat you take command of the situation and swap your <strong>Hope</strong> and 
+    <strong>Fear die</strong>.</p>
+  category: community Feat
+  rarity: Cerulean Roses
   location: abilities
   quantity: 1
   weight: 0
@@ -32,4 +31,4 @@ _stats:
   createdTime: 1753950216104
   modifiedTime: 1753957463448
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: "!items!VmjYv2NrI9oIXQGZ"
+_key: "!items!gbndRREjgPUIR6FO"

@@ -1,0 +1,43 @@
+name: Crimson Claw
+type: community
+folder: stQTKuYZn4EX2zGF
+_id: Xzbjlb2dQcHpiaaY
+img: modules/variaxis-daggerheart-srd/assets/factions/crimson_claw.jpg
+system:
+  description: >-
+    <p>&#x275D <em>In the Crimson Claws, life is a constant, shadowy dance of survival and skill, 
+    where loyalty is bought with coin and every day is a test of your cunning in a treacherous, 
+    fog-shrouded world.</em> &#x275E</p>
+    <h2>Features</h2>
+    <p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.tlPoCpAvDfPg6beN]{Observant}
+    </p><h2>Description</h2><p>Being
+    The **Crimson Claws** are a mysterious and secretive faction of criminals and mercenaries who operate in the shadows. 
+    <span class="og-omit">With no allegiance to anyone but their own, they can be hired to perform any task, from theft 
+    and assassination to espionage. Their home is an unforgiving landscape of high mountains, dark forests, and 
+    fog-shrouded cliffs, where hidden cities are known only to the locals. Constantly honing their skills and always 
+    on the lookout for their next lucrative contract, they are the world's most cunning and dangerous underground 
+    criminals. </span></p>
+  category: community
+  rarity: SRD
+  location: community
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  modifiedTime: 1753957459735
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!Xzbjlb2dQcHpiaaY"

@@ -1,0 +1,43 @@
+name: Storm Fangs
+type: community
+folder: stQTKuYZn4EX2zGF
+_id: csbynpeaECw2Qu8O
+img: modules/variaxis-daggerheart-srd/assets/factions/storm_fangs.jpg
+system:
+  description: >-
+    <p>&#x275D <em>Life in the Storm Fangs is a harsh, pack-like existence defined by survival 
+    in a frozen wilderness, where loyalty is paramount and the spirits of the land guide your 
+    every hunt.</em> &#x275E</p>
+    <h2>Features</h2>
+    <p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.7TW8Nj0SaQxpXyB2]{Pack Instincts}
+    </p><h2>Description</h2><p>Being
+    The Storm Fangs are a pack of resilient hunters and lone wolves, fiercely protective of their own.   
+    <span class="og-omit">They have forged a way of life in the most desolate and icy lands, 
+    developing an intimidating exterior to match their harsh environment. While capable of great 
+    gentleness towards the innocent, they are swift and deadly to anyone who threatens their pack. 
+    Combining the roles of mercenaries and warriors, they are said to be watched over by a mysterious 
+    spiritual or magical power.</span></p>
+  category: community
+  rarity: SRD
+  location: community
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  modifiedTime: 1753957459735
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!csbynpeaECw2Qu8O"

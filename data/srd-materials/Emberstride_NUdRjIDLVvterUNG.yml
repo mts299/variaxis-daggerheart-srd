@@ -1,0 +1,42 @@
+name: Emberstride Order
+type: community
+folder: stQTKuYZn4EX2zGF
+_id: NUdRjIDLVvterUNG
+img: modules/variaxis-daggerheart-srd/assets/factions/emberstride.jpg
+system:
+  description: >-
+    <p>&#x275D <em>Life in the Emberstride Order is a brutal, yet fulfilling, 
+    existence of constant training and battle, where strength and resilience are everything, 
+    and loyalty to your fellow warriors is forged in fire and lava.</em> &#x275E</p>
+    <h2>Features</h2>
+    <p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.2DASUL07b6ZBtAQA]{Warrior's Will}
+    </p><h2>Description</h2><p>Being
+    The Emberstride Order is a faction of unyielding warriors born from fire and forged in battle,
+     guided by their own fierce sense of justice.  
+    <span class="og-omit"> Taking little counsel from other factions, they are a society of
+    fighters where every member is raised to be strong, resilient, and victorious against all threats. 
+    Nothing can break their will to fight and protect their own.</span></p>
+  category: community
+  rarity: SRD
+  location: community
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  modifiedTime: 1753957459735
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!NUdRjIDLVvterUNG"

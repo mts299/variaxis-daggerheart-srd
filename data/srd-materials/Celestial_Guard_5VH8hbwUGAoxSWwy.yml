@@ -1,13 +1,13 @@
-name: Orderborne
+name: Celestial Guard
 type: community
-folder: JKK1U2Q9eeUWaXKy
+folder: stQTKuYZn4EX2zGF
 _id: 5VH8hbwUGAoxSWwy
 img: modules/variaxis-daggerheart-srd/assets/factions/celestial_guard.jpg
 system:
   description: >-
-    <blockquote><p>Within the Celestial Guard, life is a sacred devotion to eradicating 
+    <p> &#x275D <em>Within the Celestial Guard, life is a sacred devotion to eradicating 
     evil and preserving peace, spent honing purifying and healing abilities in the 
-    resplendent, floating city of Athelgard.</p></blockquote>
+    resplendent, floating city of Athelgard.</em> &#x275E </p>
     <h2>Features</h2>
     <p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.VmjYv2NrI9oIXQGZ]{Pure Sight}
     </p><h2>Description</h2><p>Being
@@ -15,7 +15,7 @@ system:
     <span class="og-omit">They are unwavering in their mission, focusing their efforts on the arts of purification, 
     healing, and celestial magic. In this society, every individual holds a sacred purpose, contributing to a 
     harmonious and ordered existence.</span></p>
-  category: Community
+  category: community
   rarity: SRD
   location: community
   quantity: 1

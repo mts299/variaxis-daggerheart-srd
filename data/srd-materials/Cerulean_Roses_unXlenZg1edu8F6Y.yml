@@ -1,0 +1,42 @@
+name: Cerulean Roses
+type: community
+folder: stQTKuYZn4EX2zGF
+_id: unXlenZg1edu8F6Y
+img: modules/variaxis-daggerheart-srd/assets/factions/cerulean_roses.jpg
+system:
+  description: >-
+    <p>&#x275D <em>Life in the Cerulean Roses is a strict, military-focused existence where your 
+    purpose is to serve the Celestial Guard, with your place in society determined by a rigid 
+    hierarchy of strength and nobility.</em> &#x275E</p>
+    <h2>Features</h2>
+    <p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.gbndRREjgPUIR6FO]{Take Command}
+    </p><h2>Description</h2><p>Being
+    The Cerulean Roses are a faction of noble warriors, serving as the military arm and staunch protectors 
+    of the Celestial Guard. 
+    <span class="og-omit">While aligned with the forces of light and justice, their society operates on a 
+    strict hierarchy where the strong and graceful stand at the top. They focus on solving problems through 
+    force and military action, holding a deep loyalty to their floating allies.</span></p>
+  category: community
+  rarity: SRD
+  location: community
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  modifiedTime: 1753957459735
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!unXlenZg1edu8F6Y"

@@ -1,0 +1,35 @@
+name: Observant
+type: community
+folder: k4uQbeLogkKAcpBW
+_id: tlPoCpAvDfPg6beN
+img: modules/variaxis-daggerheart-srd/assets/factions/crimson_claw.jpg
+system:
+  description: >-
+    <p>You have learned to be <em>Observant</em> and take any advantages you can get. On advantage rolls
+    relating to your <strong>class</strong> or </strong>community</strong> spend a Hope to use a [[/roll d10]]
+    instead of a [[/roll d6]]</p>
+  category: community Feat
+  rarity: Crimson Claw
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753950216104
+  modifiedTime: 1753957463448
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: "!items!tlPoCpAvDfPg6beN"

@@ -1,0 +1,44 @@
+name: Vesperian Scholars
+type: community
+folder: stQTKuYZn4EX2zGF
+_id: Fm54silpPNSvoWG3
+img: modules/variaxis-daggerheart-srd/assets/factions/vesperian_scholars.jpg
+system:
+  description: >-
+    <p>&#x275D <em>Life as a Vesperian Scholar is a constant pursuit of knowledge and magical discovery, 
+    spent in technologically advanced cities, sharing findings with peers, and pushing the boundaries 
+    of what magic can do.</em> &#x275E</p>
+    <h2>Features</h2>
+    <p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.0okUrQa9uPbFIUuM]{Arcane Master}
+    </p><h2>Description</h2><p>Being
+    The Vesperian Scholars are an intellectual faction dedicated to the scientific study of magic.  
+    <span class="og-omit">Renowned for their ability to manifest new magical items and analyze 
+    ancient artifacts from the Great War, they live in a network of technologically and magically 
+    advanced cities connected by portals. Their society is built around universities and libraries 
+    where they give lectures and collaborate on new discoveries. While largely detached from politics, 
+    they find the ruins of the Heart of Arbor fascinating and often lend their magical expertise to the 
+    Celestial Guard.</span></p>
+  category: community
+  rarity: SRD
+  location: community
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  modifiedTime: 1753957459735
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!Fm54silpPNSvoWG3"

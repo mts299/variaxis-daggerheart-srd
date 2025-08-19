@@ -1,0 +1,41 @@
+name: Heart of Arbor
+type: community
+folder: stQTKuYZn4EX2zGF
+_id: lzNwS5yP3lCrG1S0
+img: modules/variaxis-daggerheart-srd/assets/factions/heart_of_arbor.jpg
+system:
+  description: >-
+    <p>&#x275D <em>Living in the Heart of Arbor means a nomadic life dedicated to protecting the land and
+    its ancient magic, all while forging your own story among a loving and equal community.</em> &#x275E</p>
+    <h2>Features</h2>
+    <p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.81RmJlACLqgQtvuo]{Connection}
+    </p><h2>Description</h2><p>Being
+    The <strong>Heart of Arbor</strong> is a nomadic faction of storytellers and protectors who draw their power from a deep 
+    connection to the land and the whimsical magic of the Fey wilds. 
+    <span class="og-omit">They roam a landscape of lush forests, ancient stone henges, and sacred temples, 
+    acting as the guardians of both the earth and the sky. Within this faction, all are considered equal and loved, 
+    with each member finding their purpose as a fierce protector or a curious wanderer of the world.</span></p>
+  category: community
+  rarity: SRD
+  location: community
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  modifiedTime: 1753957459735
+  lastModifiedBy: GHK9xQYeYjLhONPd
+sort: 0
+ownership:
+  default: 0
+  GURa9Tm6QJyl1rY7: 3
+_key: "!items!lzNwS5yP3lCrG1S0"

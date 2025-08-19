@@ -1,15 +1,13 @@
-name: Pure Sight
+name: Warrior's Will
 type: community
-folder: UC3Ltfr4t9ugpKG7
-_id: VmjYv2NrI9oIXQGZ
-img: modules/variaxis-daggerheart-srd/assets/factions/celestial_guard.jpg
+folder: wAPT3NlKiHI1qrdp
+_id: 2DASUL07b6ZBtAQA
+img: modules/variaxis-daggerheart-srd/assets/factions/emberstride.jpg
 system:
   description: >-
-    <p>You are aware of others inner intent and their alignment, you get a [[/roll d10]]
-    advantage on rolls detecting the aura of creatures or items. The aura will tell
-    you if it is evil, made from mallice, or pure.</p>
-  category: Faction Feat
-  rarity: Celestial Guard
+    <p>When down to <strong> 1 Hit Point</strong>, you rise up stronger and gain 2 Shields and mark a Stress</p>
+  category: community Feat
+  rarity: Emberstride Order
   location: abilities
   quantity: 1
   weight: 0
@@ -32,4 +30,4 @@ _stats:
   createdTime: 1753950216104
   modifiedTime: 1753957463448
   lastModifiedBy: GHK9xQYeYjLhONPd
-_key: "!items!VmjYv2NrI9oIXQGZ"
+_key: "!items!2DASUL07b6ZBtAQA"
