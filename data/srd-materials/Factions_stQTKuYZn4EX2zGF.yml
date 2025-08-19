@@ -1,0 +1,19 @@
+type: Item
+folder: null
+name: Factions
+color: null
+sorting: a
+_id: stQTKuYZn4EX2zGF
+description: ''
+sort: 1000000
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.346'
+  systemId: daggerheart
+  systemVersion: 2.9.7
+  modifiedTime: 1754167131412
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: '!folders!stQTKuYZn4EX2zGF'

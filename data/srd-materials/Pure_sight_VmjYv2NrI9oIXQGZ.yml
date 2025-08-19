@@ -1,0 +1,35 @@
+name: Pure Sight
+type: faction
+folder: UC3Ltfr4t9ugpKG7
+_id: VmjYv2NrI9oIXQGZ
+img: modules/variaxis-daggerheart-srd/assets/factions/celestial_guard.jpg
+system:
+  description: >-
+    <p>You are aware of others inner intent and their alignment, you get a [[/roll d10]]
+    advantage on rolls detecting the aura of creatures or items. The aura will tell
+    you if it is evil, made from mallice, or pure.</p>
+  category: Faction Feat
+  rarity: Celestial Guard
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753950216104
+  modifiedTime: 1753957463448
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: "!items!VmjYv2NrI9oIXQGZ"
