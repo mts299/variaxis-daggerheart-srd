@@ -1,0 +1,37 @@
+name: Aetheris
+type: ancestry
+folder: RUkYaG7RxUk2nY8I
+img: modules/variaxis-daggerheart-srd/assets/ancestry/aetheris.jpg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.NYFlOBkqjSTXu9iA]{Divine Countenance}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.XPWuJiHrU98sJPwK]{Hallowed Aura}</p>
+    <h2>Description</h2>
+    <p>Aetheris are humanoids who possess glowing auras and wings they can conjure at will. 
+    They are the descendants of celestials from the Hallows Above.</p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.l2L2493On8HqPzTx
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951724042
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: WhLOo2E4VGxPn4gw
+sort: 0
+_key: "!items!WhLOo2E4VGxPn4gw"

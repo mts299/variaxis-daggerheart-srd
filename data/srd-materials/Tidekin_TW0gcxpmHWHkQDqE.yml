@@ -1,0 +1,36 @@
+name: Tidekin
+type: ancestry
+folder: RUkYaG7RxUk2nY8I
+img: modules/variaxis-daggerheart-srd/assets/ancestry/tidekin.svg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.f2KbQ1q667C1zS8G]{Lifespring}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.LkQ9S1pMdmG3fGzA]{Amphibious}</p>
+    <h2>Description</h2>
+    <p>Tidekin are descended from water elementals. They are humanoids whose bodies are a combination of flesh and water.</p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.l2L2493On8HqPzTx
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951724042
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: TW0gcxpmHWHkQDqE
+sort: 0
+_key: "!items!TW0gcxpmHWHkQDqE"

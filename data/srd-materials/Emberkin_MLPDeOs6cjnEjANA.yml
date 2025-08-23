@@ -1,0 +1,36 @@
+name: Emberkin
+type: ancestry
+folder: RUkYaG7RxUk2nY8I
+img: modules/variaxis-daggerheart-srd/assets/ancestry/emberkin.jpg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.Af9k0nGCXAXax1y8]{Ignition}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.hj5rCmm9Gs3SbZWN]{Fireproof}</p>
+    <h2>Description</h2>
+    <p>Emberkin are descended from fire elementals. They are humanoids whose bodies are a combination of flesh and fire.</p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.l2L2493On8HqPzTx
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951724042
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: MLPDeOs6cjnEjANA
+sort: 0
+_key: "!items!MLPDeOs6cjnEjANA"

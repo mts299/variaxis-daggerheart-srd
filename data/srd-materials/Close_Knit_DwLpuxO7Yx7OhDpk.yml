@@ -1,0 +1,33 @@
+name: Close Knit
+type: community
+folder: S8DBZkCYYdfrgkWh
+img: modules/variaxis-daggerheart-srd/assets/communities/hearthborne.jpg
+system:
+  description: >-
+    <p>Once per long rest, you can spend any number of Hope to give an ally the same number of Hope.</p>
+  category: Community Feat
+  rarity: hearthborne
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753950298764
+  modifiedTime: 1753957598031
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_id: DwLpuxO7Yx7OhDpk
+sort: 0
+_key: "!items!DwLpuxO7Yx7OhDpk"

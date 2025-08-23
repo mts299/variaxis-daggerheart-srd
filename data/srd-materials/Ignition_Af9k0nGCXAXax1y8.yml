@@ -1,0 +1,35 @@
+name: Ignition
+type: ancestry
+folder: Ti831zbknG510fTx
+_id: Af9k0nGCXAXax1y8
+img: modules/variaxis-daggerheart-srd/assets/ancestry/emberkin.jpg
+system:
+  description: >-
+    <p>Mark a Stress to wreathe your primary weapon in flame until the end
+    of the scene. While ablaze, it gives off a bright light and grants a [[\roll 1d6]]
+    bonus to damage rolls against targets within Melee range</p>
+  category: Ancestry Feat
+  rarity: emberkin
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946477060
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: "!items!Af9k0nGCXAXax1y8"

@@ -1,0 +1,36 @@
+name: Earthkin
+type: ancestry
+folder: RUkYaG7RxUk2nY8I
+img: modules/variaxis-daggerheart-srd/assets/ancestry/earthkin.svg
+system:
+  description: >-
+    <h2>Features</h2><p>@UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.vTwNWv9hKUqr5gPm]{Stoneskin}
+    @UUID[Compendium.variaxis-daggerheart-srd.srd-materials.Item.L5dDP57FNrpaDhUu]{Immovable}</p>
+    <h2>Description</h2>
+    <p>Earthkin are descended from earth elementals. They are humanoids whose bodies are a combination of flesh and earth.</p>
+  category: Ancestry
+  rarity: SRD
+  location: ancestry
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+flags: {}
+_stats:
+  compendiumSource: Compendium.variaxis-daggerheart-srd.srd-materials.Item.l2L2493On8HqPzTx
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753951724042
+  lastModifiedBy: GHK9xQYeYjLhONPd
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+_id: gIZD9CNQDbYMpbkx
+sort: 0
+_key: "!items!gIZD9CNQDbYMpbkx"

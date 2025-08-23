@@ -1,0 +1,33 @@
+name: True Sight
+type: ancestry
+folder: Jxx3qTpif6wsaGHZ
+_id: 9z0SYvdvKep9e3Xv
+img: modules/variaxis-daggerheart-srd/assets/ancestry/gnome.jpg
+system:
+  description: >-
+    <p>You have advantage on rolls to see through illusions.</p>
+  category: Ancestry Feat
+  rarity: gnome
+  location: abilities
+  quantity: 1
+  weight: 0
+  attributes: {}
+  groups: {}
+  resourceTrackers: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  GHK9xQYeYjLhONPd: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: "13.346"
+  systemId: daggerheart
+  systemVersion: 2.11.1
+  createdTime: 1753944147570
+  modifiedTime: 1753946477060
+  lastModifiedBy: GHK9xQYeYjLhONPd
+_key: "!items!9z0SYvdvKep9e3Xv"
